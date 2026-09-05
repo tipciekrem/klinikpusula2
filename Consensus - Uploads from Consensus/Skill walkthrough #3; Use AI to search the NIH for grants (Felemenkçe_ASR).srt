@@ -1,0 +1,1084 @@
+1
+00:00:00,100 --> 00:00:02,778
+Als je subsidieaanvragen schrijft, weet
+
+2
+00:00:01,821 --> 00:00:04,413
+ je hoeveel tijd het kost om subsidies
+
+3
+00:00:03,456 --> 00:00:06,134
+ te zoeken, literatuuronderzoek te doen,
+
+4
+00:00:05,177 --> 00:00:07,683
+ de aanvraag samen te stellen, in te
+
+5
+00:00:06,726 --> 00:00:09,276
+ dienen en op een reactie te wachten.
+
+6
+00:00:08,376 --> 00:00:10,929
+ Deze vaardigheid die ik met Consensus
+
+7
+00:00:09,971 --> 00:00:12,566
+ en Claude heb ontwikkeld, kan je enorm
+
+8
+00:00:11,608 --> 00:00:14,162
+ veel tijd besparen als je hem correct
+
+9
+00:00:13,204 --> 00:00:15,490
+ gebruikt. Het heet de Grant
+
+10
+00:00:14,537 --> 00:00:17,344
+ Searcher-vaardigheid en deze neemt een
+
+11
+00:00:16,391 --> 00:00:19,055
+ idee dat je hebt, zoekt naar nieuwe
+
+12
+00:00:18,103 --> 00:00:20,814
+ onderzoeksgebieden in de literatuur,
+
+13
+00:00:19,862 --> 00:00:22,716
+ bekijkt welke projecten al gefinancierd
+
+14
+00:00:21,764 --> 00:00:24,570
+ zijn en welke instituten binnen de NIH
+
+15
+00:00:23,618 --> 00:00:26,425
+ het meest geschikt zijn voor subsidie.
+
+16
+00:00:25,525 --> 00:00:28,375
+ Het resultaat is een compleet document
+
+17
+00:00:27,424 --> 00:00:29,739
+ dat je kunt gebruiken om je
+
+18
+00:00:28,788 --> 00:00:31,561
+ subsidieaanvraag te starten. Laten we
+
+19
+00:00:30,599 --> 00:00:33,107
+ er dus meteen induiken en je laten zien
+
+20
+00:00:32,145 --> 00:00:34,863
+ hoe het werkt. Maar eerst even dit: dit
+
+21
+00:00:33,908 --> 00:00:36,344
+ is één video in een hele reeks
+
+22
+00:00:35,389 --> 00:00:37,825
+ tutorials. Als je hier terecht bent
+
+23
+00:00:36,862 --> 00:00:39,119
+ gekomen, raad ik je aan om bij het
+
+24
+00:00:38,156 --> 00:00:40,523
+ begin van de afspeellijst te beginnen
+
+25
+00:00:39,560 --> 00:00:41,800
+ of ons kanaal te bekijken. Met
+
+26
+00:00:40,860 --> 00:00:43,888
+ Consensus MCP kun je zoeken in 220
+
+27
+00:00:42,947 --> 00:00:45,975
+ miljoen peer-reviewed artikelen in
+
+28
+00:00:45,035 --> 00:00:48,003
+ verschillende databases, zodat je
+
+29
+00:00:47,062 --> 00:00:52,381
+ efficiënter onderzoek kunt doen. Om te
+
+30
+00:00:51,423 --> 00:00:53,953
+ beginnen, zorg ervoor dat je de skill
+
+31
+00:00:52,994 --> 00:00:55,317
+ downloadt die in de onderstaande
+
+32
+00:00:54,359 --> 00:00:56,682
+ beschrijving staat, en open deze
+
+33
+00:00:55,723 --> 00:00:58,349
+ vervolgens in Claude Desktop. Hiervoor
+
+34
+00:00:57,390 --> 00:00:59,942
+ raad ik je sterk aan om Claude Desktop
+
+35
+00:00:58,983 --> 00:01:01,535
+ met Co-Work te gebruiken, dus mogelijk
+
+36
+00:01:00,575 --> 00:01:03,046
+ heb je een betaald Claude-abonnement
+
+37
+00:01:02,086 --> 00:01:04,724
+ nodig. Je kunt delen hiervan ook doen
+
+38
+00:01:03,768 --> 00:01:06,448
+ met het gratis Claude-abonnement of het
+
+39
+00:01:05,491 --> 00:01:08,000
+ gratis Chat GPT-abonnement, maar de
+
+40
+00:01:07,043 --> 00:01:09,724
+ planningsmogelijkheden van Co-Work zijn
+
+41
+00:01:08,767 --> 00:01:11,373
+ echt een uitkomst. Je kunt ze echter
+
+42
+00:01:10,416 --> 00:01:12,893
+ ook allebei gebruiken. Nadat ik de
+
+43
+00:01:11,932 --> 00:01:14,229
+ skill heb gedownload, kun je deze
+
+44
+00:01:13,268 --> 00:01:15,643
+ openen met Claude Desktop en zie je
+
+45
+00:01:14,683 --> 00:01:17,204
+ hier de instructies voor de skill. De
+
+46
+00:01:16,247 --> 00:01:18,916
+ skill werkt op een aantal verschillende
+
+47
+00:01:17,958 --> 00:01:20,840
+ manieren. Ten eerste voert het een kort
+
+48
+00:01:19,888 --> 00:01:22,717
+ intake-proces uit en stelt het jou, de
+
+49
+00:01:21,765 --> 00:01:24,258
+ onderzoeker, een paar vragen om
+
+50
+00:01:23,306 --> 00:01:25,943
+ subsidies beter te kunnen matchen.
+
+51
+00:01:25,043 --> 00:01:28,101
+ Vervolgens gebruikt het Consensus om te
+
+52
+00:01:27,154 --> 00:01:30,002
+ begrijpen hoe jouw onderzoek, of je
+
+53
+00:01:29,055 --> 00:01:32,114
+ voorgestelde project, zich verhoudt tot
+
+54
+00:01:31,166 --> 00:01:34,579
+ bestaand onderzoek. Het voert meerdere
+
+55
+00:01:33,623 --> 00:01:36,287
+ opeenvolgende zoekopdrachten uit om te
+
+56
+00:01:35,330 --> 00:01:37,819
+ begrijpen welk ander vergelijkbaar
+
+57
+00:01:36,863 --> 00:01:39,527
+ onderzoek er is gedaan en om hiaten te
+
+58
+00:01:38,571 --> 00:01:40,972
+ vinden die door die auteurs zijn
+
+59
+00:01:40,016 --> 00:01:42,505
+ genoemd en die kunnen wijzen op de
+
+60
+00:01:41,549 --> 00:01:44,524
+ waarde van jouw onderzoek. Dit geeft je
+
+61
+00:01:43,571 --> 00:01:46,301
+ snel een idee van hoe vernieuwend dit
+
+62
+00:01:45,347 --> 00:01:48,123
+ onderzoeksidee is en hoe impactvol het
+
+63
+00:01:47,170 --> 00:01:49,713
+ daadwerkelijk zal zijn binnen het
+
+64
+00:01:48,759 --> 00:01:51,489
+ vakgebied, gezien ander onderzoek dat
+
+65
+00:01:50,536 --> 00:01:53,370
+ er al over is gepubliceerd. Nadat deze
+
+66
+00:01:52,417 --> 00:01:55,118
+ zoekopdrachten zijn uitgevoerd en is
+
+67
+00:01:54,166 --> 00:01:56,961
+ vastgesteld welke positionering ideaal
+
+68
+00:01:56,009 --> 00:01:58,568
+ is voor subsidieaanvragen voor je
+
+69
+00:01:57,615 --> 00:02:00,411
+ voorgestelde project, wordt er gezocht
+
+70
+00:01:59,458 --> 00:02:02,159
+ naar welk subinstituut binnen de NIH
+
+71
+00:02:01,207 --> 00:02:04,049
+ het meest waarschijnlijk een dergelijke
+
+72
+00:02:03,097 --> 00:02:05,739
+ subsidie zal toekennen. Vervolgens
+
+73
+00:02:04,784 --> 00:02:07,423
+ wordt een proces voor het vinden van
+
+74
+00:02:06,468 --> 00:02:09,016
+ subsidies doorlopen. Het systeem
+
+75
+00:02:08,065 --> 00:02:10,385
+ controleert NIH Reporter op
+
+76
+00:02:09,434 --> 00:02:12,145
+ vergelijkbare projecten die al zijn
+
+77
+00:02:11,194 --> 00:02:14,047
+ gefinancierd. Ook worden Grants.gov en
+
+78
+00:02:13,093 --> 00:02:15,816
+ de NIH zelf geraadpleegd om subsidies
+
+79
+00:02:14,863 --> 00:02:17,585
+ en NOSI's te vinden die relevant zijn
+
+80
+00:02:16,632 --> 00:02:19,497
+ voor het project dat je onderzoekt. Ten
+
+81
+00:02:18,542 --> 00:02:21,167
+ slotte wordt een uitgebreid document
+
+82
+00:02:20,212 --> 00:02:22,882
+ samengesteld met een overzicht van de
+
+83
+00:02:21,928 --> 00:02:24,372
+ vernieuwing van je onderzoek, de
+
+84
+00:02:23,417 --> 00:02:26,178
+ positionering voor een subsidieaanvraag
+
+85
+00:02:25,223 --> 00:02:27,938
+ en aanbevelingen voor subsidies die je
+
+86
+00:02:26,983 --> 00:02:29,608
+ zou kunnen aanvragen op basis van de
+
+87
+00:02:28,653 --> 00:02:31,233
+ vragen die je aan het begin van het
+
+88
+00:02:30,278 --> 00:02:32,767
+ proces hebt beantwoord. Dit is
+
+89
+00:02:31,826 --> 00:02:34,918
+ overigens niet perfect. Het is bedoeld
+
+90
+00:02:33,964 --> 00:02:36,769
+ als een startpunt dat je kunt aanpassen
+
+91
+00:02:35,815 --> 00:02:38,249
+ om je subsidieaanvraagproces te
+
+92
+00:02:37,296 --> 00:02:40,115
+ verbeteren. Laten we eens een test doen
+
+93
+00:02:39,160 --> 00:02:41,655
+ om te zien hoe het eruitziet. In
+
+94
+00:02:40,705 --> 00:02:43,399
+ Co-work ga ik naar 'Vaardigheden',
+
+95
+00:02:42,449 --> 00:02:44,895
+ selecteer ik de vaardigheid '
+
+96
+00:02:43,895 --> 00:02:46,738
+Subsidiezoeker' en plak ik mijn vraag
+
+97
+00:02:45,788 --> 00:02:48,752
+ erin. Ik wil een multicenter klinische
+
+98
+00:02:47,803 --> 00:02:50,468
+ voorspellingsregel ontwikkelen om
+
+99
+00:02:49,518 --> 00:02:52,436
+ SEH-artsen te helpen beslissen wanneer
+
+100
+00:02:51,486 --> 00:02:54,303
+ ze pasgeborenen moeten behandelen en
+
+101
+00:02:53,353 --> 00:02:56,231
+ testen op HSV. Kun je subsidieonderzoek
+
+102
+00:02:55,276 --> 00:02:57,939
+ voor me doen? Dit is een vergelijkbaar
+
+103
+00:02:56,980 --> 00:02:59,453
+ probleem als dat van een onderzoeker
+
+104
+00:02:58,494 --> 00:03:00,967
+ waarmee ik samenwerkte, die manieren
+
+105
+00:03:00,008 --> 00:03:02,603
+ zocht om zijn subsidieaanvraagproces te
+
+106
+00:03:01,644 --> 00:03:04,233
+ versnellen. Dus, laten we op Enter
+
+107
+00:03:03,281 --> 00:03:05,933
+ drukken en Claude aan de slag laten
+
+108
+00:03:04,980 --> 00:03:07,825
+ gaan. We zien meteen een paar dingen.
+
+109
+00:03:06,925 --> 00:03:09,372
+ Ten eerste geeft het aan dat deze
+
+110
+00:03:08,416 --> 00:03:11,126
+ vaardigheid zich alleen richt op de NIH
+
+111
+00:03:10,170 --> 00:03:12,618
+ voor financiering. Als je wilt weten
+
+112
+00:03:11,651 --> 00:03:13,899
+ hoe je deze vaardigheid kunt aanpassen
+
+113
+00:03:12,932 --> 00:03:15,015
+ om andere financieringsbronnen te
+
+114
+00:03:14,048 --> 00:03:16,263
+ doorzoeken of er je eigen vaardigheid
+
+115
+00:03:15,296 --> 00:03:17,544
+ van te maken, bekijk dan de video over
+
+116
+00:03:16,577 --> 00:03:18,792
+ wat een vaardigheid is en hoe je deze
+
+117
+00:03:17,825 --> 00:03:19,942
+ kunt aanpassen, waarin we deze als
+
+118
+00:03:18,975 --> 00:03:21,446
+ voorbeeld gebruiken. Vervolgens stelt
+
+119
+00:03:20,490 --> 00:03:23,128
+ het me een paar intakevragen. Het is
+
+120
+00:03:22,168 --> 00:03:24,586
+ vrij eenvoudig gehouden, omdat deze
+
+121
+00:03:23,626 --> 00:03:26,166
+ functionaliteit slechts bedoeld is als
+
+122
+00:03:25,206 --> 00:03:27,729
+ demonstratie of startpunt. Laten we
+
+123
+00:03:26,775 --> 00:03:29,436
+ zeggen dat ik een senior onderzoeker
+
+124
+00:03:28,482 --> 00:03:31,236
+ ben, dat ik over pilotgegevens beschik
+
+125
+00:03:30,282 --> 00:03:32,989
+ en dat ik momenteel samenwerk met een
+
+126
+00:03:32,036 --> 00:03:34,552
+ academisch medisch centrum. Deze
+
+127
+00:03:33,595 --> 00:03:35,915
+ factoren zijn van invloed op de
+
+128
+00:03:34,958 --> 00:03:37,620
+ subsidies waarvoor ik in aanmerking kom
+
+129
+00:03:36,662 --> 00:03:39,281
+ en op de subsidie waarop het programma
+
+130
+00:03:38,324 --> 00:03:40,909
+ zich richt. Zoals u hier kunt zien,
+
+131
+00:03:39,953 --> 00:03:42,676
+ staat er dat ik een sterke kans maak op
+
+132
+00:03:41,720 --> 00:03:43,868
+ een R01-subsidie en dat er
+
+133
+00:03:42,912 --> 00:03:45,370
+ flexibiliteit is in verschillende
+
+134
+00:03:44,414 --> 00:03:47,267
+ mechanismen. Nu begint de analyse.
+
+135
+00:03:46,715 --> 00:03:49,337
+ Laten we eens kijken wat er achter de
+
+136
+00:03:48,381 --> 00:03:50,782
+ schermen gebeurt. U ziet dat het
+
+137
+00:03:49,821 --> 00:03:52,130
+ programma meerdere zoekopdrachten
+
+138
+00:03:51,169 --> 00:03:53,359
+ uitvoert in Consensus om ander
+
+139
+00:03:52,399 --> 00:03:54,905
+ onderzoek te vinden dat gerelateerd is
+
+140
+00:03:53,945 --> 00:03:56,580
+ aan mijn onderwerp. Zo ziet u hier dat
+
+141
+00:03:55,624 --> 00:03:58,275
+ het zoekt naar HSV-voorspellingsregels
+
+142
+00:03:57,318 --> 00:03:59,882
+ om te zien of er onderzoek is gedaan
+
+143
+00:03:58,925 --> 00:04:01,576
+ naar uitkomstindicatoren, en het heeft
+
+144
+00:04:00,620 --> 00:04:03,140
+ zichzelf uitgebreid naar een aantal
+
+145
+00:04:02,184 --> 00:04:04,834
+ verschillende trefwoorden om een goede
+
+146
+00:04:03,878 --> 00:04:06,678
+ dekking te garanderen. Nu dat gedaan is
+
+147
+00:04:05,678 --> 00:04:08,308
+, begrijpt het wat het onderzoek in
+
+148
+00:04:07,354 --> 00:04:10,170
+ mijn vakgebied zegt en waar er mogelijk
+
+149
+00:04:09,216 --> 00:04:12,300
+ lacunes zijn. Het haalt nu trefwoorden
+
+150
+00:04:11,347 --> 00:04:14,128
+ uit die zoekopdrachten om projecten te
+
+151
+00:04:13,175 --> 00:04:15,722
+ vinden die op vergelijkbare wijze
+
+152
+00:04:14,769 --> 00:04:17,363
+ gefinancierd zijn of subsidies die
+
+153
+00:04:16,410 --> 00:04:19,145
+ relevant kunnen zijn voor dit gebied.
+
+154
+00:04:18,448 --> 00:04:21,227
+ Laten we eens kijken wat er achter de
+
+155
+00:04:20,275 --> 00:04:23,466
+ schermen gebeurt. Je ziet dat er een
+
+156
+00:04:22,519 --> 00:04:25,104
+ script draait dat NIH Reporter
+
+157
+00:04:24,156 --> 00:04:26,688
+ doorzoekt naar vergelijkbare,
+
+158
+00:04:25,741 --> 00:04:28,869
+ gefinancierde projecten. Het leest de
+
+159
+00:04:27,916 --> 00:04:30,698
+ tekst uit deze bestanden en extraheert
+
+160
+00:04:29,745 --> 00:04:32,245
+ de relevante informatie naar het
+
+161
+00:04:31,292 --> 00:04:34,121
+ document dat voor mij wordt aangemaakt.
+
+162
+00:04:33,221 --> 00:04:35,619
+ Ik zie hier dat er zeer gerichte
+
+163
+00:04:34,663 --> 00:04:37,367
+ zoekopdrachten worden uitgevoerd binnen
+
+164
+00:04:36,411 --> 00:04:38,766
+ NIH Reporter op deze specifieke
+
+165
+00:04:37,810 --> 00:04:40,296
+ gebieden om relevante projecten te
+
+166
+00:04:39,340 --> 00:04:41,918
+ vinden. Nu gaat het controleren op
+
+167
+00:04:40,963 --> 00:04:43,631
+ NLOSIs (National List of Interest) en
+
+168
+00:04:42,676 --> 00:04:45,235
+ het document genereren. Het heeft al
+
+169
+00:04:44,270 --> 00:04:45,728
+ enkele unieke
+
+170
+00:04:44,764 --> 00:04:47,032
+ financieringsaankondigingen gevonden
+
+171
+00:04:46,067 --> 00:04:48,335
+ die relevant zouden kunnen zijn voor
+
+172
+00:04:47,371 --> 00:04:49,782
+ mijn project. Het onderzoek is nu
+
+173
+00:04:48,827 --> 00:04:51,309
+ afgerond en het document wordt nu
+
+174
+00:04:50,354 --> 00:04:52,976
+ samengesteld. Het lijkt erop dat het
+
+175
+00:04:52,019 --> 00:04:54,512
+ document klaar is, dus laten we het
+
+176
+00:04:53,555 --> 00:04:56,049
+ openen en kijken hoe het eruitziet.
+
+177
+00:04:55,149 --> 00:04:57,867
+ Prima. Wat ook gaaf is, is dat het
+
+178
+00:04:56,910 --> 00:04:59,416
+ gekoppeld is aan mijn Google Drive,
+
+179
+00:04:58,459 --> 00:05:01,136
+ want er is ook een koppeling met Google
+
+180
+00:05:00,179 --> 00:05:02,926
+ Drive. Dus ik open het nu in Google
+
+181
+00:05:01,975 --> 00:05:05,589
+ Drive en we doen de rest hier. Laten we
+
+182
+00:05:04,638 --> 00:05:07,278
+ eens kijken wat het voor ons heeft
+
+183
+00:05:06,326 --> 00:05:09,536
+ samengesteld. Je ziet hier een
+
+184
+00:05:08,586 --> 00:05:12,270
+ samenvatting. Daarin staat: "Ik heb
+
+185
+00:05:11,316 --> 00:05:13,695
+ veel nieuwe inzichten over dit
+
+186
+00:05:12,741 --> 00:05:15,638
+ specifieke onderzoeksproject. Het NIAID
+
+187
+00:05:14,690 --> 00:05:17,497
+ zal waarschijnlijk de belangrijkste
+
+188
+00:05:16,548 --> 00:05:19,534
+ instantie zijn voor financiering." Wat
+
+189
+00:05:18,578 --> 00:05:21,237
+ echt gaaf is, is dat het bij de eerste
+
+190
+00:05:20,281 --> 00:05:22,984
+ zoekopdracht met Consensus citaten over
+
+191
+00:05:22,027 --> 00:05:24,730
+ lacunes in de literatuur heeft gevonden
+
+192
+00:05:23,730 --> 00:05:26,379
+. Dus, wat hebben andere onderzoekers
+
+193
+00:05:25,422 --> 00:05:28,099
+ die iets soortgelijks hebben onderzocht
+
+194
+00:05:27,142 --> 00:05:29,819
+ gezegd over de lacunes in het onderzoek
+
+195
+00:05:28,862 --> 00:05:31,453
+ en hoe is dat relevant voor wat ik ga
+
+196
+00:05:30,496 --> 00:05:33,451
+ doen? Als ik deze artikelen wil lezen,
+
+197
+00:05:32,496 --> 00:05:35,009
+ kan ik er gewoon op klikken en dan
+
+198
+00:05:34,054 --> 00:05:36,701
+ wordt de link naar het artikel direct
+
+199
+00:05:35,746 --> 00:05:38,323
+ in Consensus geopend. Ik kan er dan
+
+200
+00:05:37,365 --> 00:05:39,993
+ voor kiezen om het artikel op te vragen
+
+201
+00:05:38,993 --> 00:05:41,620
+, of ik kan de volledige tekst lezen om
+
+202
+00:05:40,662 --> 00:05:43,206
+ mijn eigen onderzoek te doen, wat erg
+
+203
+00:05:42,248 --> 00:05:44,802
+ belangrijk is. Het heeft me snel een
+
+204
+00:05:43,844 --> 00:05:46,377
+ beeld gegeven van hoe ik hierover kan
+
+205
+00:05:45,418 --> 00:05:47,661
+ nadenken bij het aanvragen van
+
+206
+00:05:46,702 --> 00:05:49,096
+ subsidies. Het heeft me een overzicht
+
+207
+00:05:48,130 --> 00:05:50,144
+ gegeven van het ondersteunende
+
+208
+00:05:49,178 --> 00:05:51,430
+ bewijsmateriaal, dus alles wat het in
+
+209
+00:05:50,463 --> 00:05:52,783
+ de Consensus-zoekopdracht heeft gedaan.
+
+210
+00:05:51,883 --> 00:05:54,330
+ En nogmaals, je kunt de tool aanpassen
+
+211
+00:05:53,368 --> 00:05:55,815
+ om dit diepgaander te maken, te zoeken
+
+212
+00:05:54,853 --> 00:05:57,186
+ op specifieke gebieden, wat je maar
+
+213
+00:05:56,224 --> 00:05:58,913
+ wilt. Het heeft voorbeelden gegeven van
+
+214
+00:05:57,955 --> 00:06:00,226
+ welke instituten vergelijkbaar
+
+215
+00:05:59,268 --> 00:06:01,802
+ onderzoek financieren. Aanbevolen
+
+216
+00:06:00,852 --> 00:06:03,625
+ financieringsmogelijkheden. En wat ik
+
+217
+00:06:02,660 --> 00:06:04,579
+ echt gaaf vind, is dat het
+
+218
+00:06:03,614 --> 00:06:05,568
+ daadwerkelijk vergelijkbaar
+
+219
+00:06:04,604 --> 00:06:06,911
+ gefinancierd onderzoek heeft gevonden
+
+220
+00:06:05,947 --> 00:06:08,113
+ dat gerelateerd is aan een aantal
+
+221
+00:06:07,148 --> 00:06:09,583
+ onderwerpen waar ik naar kijk. Als ik
+
+222
+00:06:08,629 --> 00:06:10,867
+ hierop klik, word ik direct
+
+223
+00:06:09,912 --> 00:06:12,012
+ doorgestuurd naar de NIH
+
+224
+00:06:11,058 --> 00:06:13,616
+ Reporter-website, waar ik meer kan
+
+225
+00:06:12,662 --> 00:06:15,449
+ lezen over het gefinancierde project en
+
+226
+00:06:14,495 --> 00:06:17,145
+ kan begrijpen hoe ik dit mogelijk in
+
+227
+00:06:16,190 --> 00:06:19,705
+ mijn aanvraag kan gebruiken. Er staan
+
+228
+00:06:18,752 --> 00:06:21,212
+ strategische vervolgstappen in,
+
+229
+00:06:20,259 --> 00:06:22,953
+ algemene deadlines voor indiening en
+
+230
+00:06:22,001 --> 00:06:24,837
+ natuurlijk de aanbeveling om contact op
+
+231
+00:06:23,884 --> 00:06:26,578
+ te nemen met de programmamanager van
+
+232
+00:06:25,625 --> 00:06:28,439
+ het betreffende instituut. Wat ook erg
+
+233
+00:06:27,484 --> 00:06:30,221
+ handig is, is dat alle referenties voor
+
+234
+00:06:29,266 --> 00:06:32,001
+ me worden vermeld. En nogmaals, als ik
+
+235
+00:06:31,045 --> 00:06:33,667
+ op een van deze links klik, wordt het
+
+236
+00:06:32,711 --> 00:06:35,469
+ artikel direct in Consensus geopend. Ik
+
+237
+00:06:34,509 --> 00:06:36,982
+ kan dan vragen stellen, het volledige
+
+238
+00:06:36,022 --> 00:06:38,455
+ artikel uploaden (als ik dat heb) en
+
+239
+00:06:37,495 --> 00:06:39,888
+ vragen stellen, het opslaan in mijn
+
+240
+00:06:38,928 --> 00:06:41,441
+ bibliotheek of direct naar het artikel
+
+241
+00:06:40,480 --> 00:06:43,063
+ zelf gaan. Dat is een kort overzicht
+
+242
+00:06:42,106 --> 00:06:44,672
+ van hoe deze functie werkt. Het is
+
+243
+00:06:43,721 --> 00:06:46,461
+ ongelooflijk krachtig. Ik raad aan om
+
+244
+00:06:45,501 --> 00:06:48,141
+ het in Cohere te gebruiken. Je kunt het
+
+245
+00:06:47,182 --> 00:06:49,856
+ ook in de gratis versie gebruiken. Zorg
+
+246
+00:06:48,893 --> 00:06:51,338
+ er alleen voor dat je de prompt invoert
+
+247
+00:06:50,375 --> 00:06:52,709
+ en geen document genereert, want dat
+
+248
+00:06:51,746 --> 00:06:54,128
+ kan het niet. Maar je kunt een aantal
+
+249
+00:06:53,162 --> 00:06:55,484
+ van onze andere video's bekijken om te
+
+250
+00:06:54,519 --> 00:06:56,919
+ zien hoe het eruit zou kunnen zien. En
+
+251
+00:06:55,960 --> 00:06:58,490
+ nogmaals, deze vaardigheid is slechts
+
+252
+00:06:57,531 --> 00:06:59,865
+ een startpunt. Het is niet bedoeld om
+
+253
+00:06:58,895 --> 00:07:01,058
+ een belangrijk onderdeel van je werk te
+
+254
+00:07:00,087 --> 00:07:02,365
+ vervangen. Het is er alleen om je te
+
+255
+00:07:01,400 --> 00:07:03,773
+ helpen sneller beter onderzoek te doen.
+
+256
+00:07:02,873 --> 00:07:05,325
+ In dit geval, om sneller subsidies te
+
+257
+00:07:04,364 --> 00:07:06,856
+ vinden die relevant zijn voor het werk
+
+258
+00:07:05,895 --> 00:07:08,205
+ waaraan je werkt. We willen een
+
+259
+00:07:07,247 --> 00:07:09,791
+ complete bibliotheek met vaardigheden
+
+260
+00:07:08,833 --> 00:07:11,043
+ creëren waarmee onderzoekers
+
+261
+00:07:10,085 --> 00:07:12,420
+ zelfstandig met een klant kunnen
+
+262
+00:07:11,462 --> 00:07:13,886
+ samenwerken. Dus, laat ons in de
+
+263
+00:07:12,930 --> 00:07:15,534
+ reacties weten welke vaardigheden jij
+
+264
+00:07:14,577 --> 00:07:17,269
+ graag zou willen ontwikkelen. We werken
+
+265
+00:07:16,306 --> 00:07:18,717
+ graag met je samen om die vaardigheden
+
+266
+00:07:17,754 --> 00:07:20,129
+ voor andere onderzoekers te creëren.
+
+267
+00:07:19,229 --> 00:07:22,394
+ Dat is alles. Bekijk ook eens de andere
+
+268
+00:07:21,444 --> 00:07:24,202
+ tutorials. We zullen er in de loop der
+
+269
+00:07:23,245 --> 00:07:25,882
+ tijd meer publiceren en we horen graag
+
+270
+00:07:24,925 --> 00:07:27,561
+ je feedback over hoe de MCV tot nu toe
+
+271
+00:07:26,604 --> 00:07:27,863
+ werkt.
+

@@ -1,0 +1,404 @@
+1
+00:00:00,100 --> 00:00:03,262
+Hallo, ik ben Eric. Ik ben een van de
+
+2
+00:00:02,311 --> 00:00:05,272
+ oprichters van Consensus. Consensus is
+
+3
+00:00:04,325 --> 00:00:07,290
+ een AI-zoekmachine voor academisch en
+
+4
+00:00:06,343 --> 00:00:09,440
+ wetenschappelijk onderzoek. Vandaag
+
+5
+00:00:08,488 --> 00:00:11,287
+ laat ik je enkele best practices zien
+
+6
+00:00:10,336 --> 00:00:12,308
+ om het meeste uit je
+
+7
+00:00:11,357 --> 00:00:14,252
+ Consensus-zoekopdrachten te halen. Wil
+
+8
+00:00:13,300 --> 00:00:16,108
+ je meer weten over best practices voor
+
+9
+00:00:15,156 --> 00:00:18,020
+ het gebruik van Consensus? Abonneer je
+
+10
+00:00:17,068 --> 00:00:19,790
+ dan op dit YouTube-kanaal en like de
+
+11
+00:00:18,837 --> 00:00:21,775
+ video. Wanneer je Consensus gebruikt,
+
+12
+00:00:20,827 --> 00:00:23,377
+ zoeken we eerst naar relevante
+
+13
+00:00:22,429 --> 00:00:26,728
+ onderzoeksartikelen. De eerste tip is
+
+14
+00:00:25,780 --> 00:00:28,747
+ dus: zorg ervoor dat je zoekopdrachten
+
+15
+00:00:27,798 --> 00:00:30,817
+ altijd over onderzoeksonderwerpen gaan.
+
+16
+00:00:30,834 --> 00:00:35,189
+ Consensus is flexibel. Je kunt allerlei
+
+17
+00:00:34,243 --> 00:00:38,083
+ verschillende syntaxen gebruiken. De
+
+18
+00:00:37,133 --> 00:00:39,910
+ meest voorkomende is het stellen van
+
+19
+00:00:38,959 --> 00:00:41,884
+ een onderzoeksvraag in natuurlijke taal
+
+20
+00:00:40,884 --> 00:00:44,664
+. In dit voorbeeld heb ik een
+
+21
+00:00:43,714 --> 00:00:46,162
+ duidelijke onderzoeksvraag in
+
+22
+00:00:45,212 --> 00:00:49,280
+ natuurlijke taal ingevoerd. Je ziet
+
+23
+00:00:48,326 --> 00:00:50,779
+ hieronder dat we veel relevante
+
+24
+00:00:49,826 --> 00:00:52,607
+ artikelen hebben gevonden en een mooi,
+
+25
+00:00:51,653 --> 00:00:54,247
+ door AI gegenereerd antwoord op je
+
+26
+00:00:53,293 --> 00:00:57,109
+ zoekopdracht hebben gegeven. Een andere
+
+27
+00:00:56,161 --> 00:00:59,055
+ manier waarop gebruikers veel uit hun
+
+28
+00:00:58,106 --> 00:01:01,103
+ Consensus-zoekopdrachten halen, is door
+
+29
+00:01:00,154 --> 00:01:04,378
+ filters toe te passen. Dus ik ga hier
+
+30
+00:01:03,431 --> 00:01:06,498
+ dezelfde vraag stellen over statines en
+
+31
+00:01:05,551 --> 00:01:08,565
+ ik klik op deze filterknop om dit menu
+
+32
+00:01:07,618 --> 00:01:10,367
+ te openen en relevante filters te
+
+33
+00:01:09,420 --> 00:01:14,153
+ selecteren. Eerst geef ik aan dat ik
+
+34
+00:01:13,204 --> 00:01:16,180
+ artikelen van de afgelopen 10 jaar wil.
+
+35
+00:01:16,815 --> 00:01:19,701
+ Scroll naar beneden naar het gedeelte
+
+36
+00:01:18,752 --> 00:01:22,384
+ over de methodologie. Hier kan ik
+
+37
+00:01:21,434 --> 00:01:24,090
+ selecteren dat ik gerandomiseerde
+
+38
+00:01:23,140 --> 00:01:25,947
+ gecontroleerde studies wil en ik kan
+
+39
+00:01:24,997 --> 00:01:27,955
+ zelfs filteren op de populatie van onze
+
+40
+00:01:27,005 --> 00:01:30,427
+ studies. En hier geef ik aan dat ik
+
+41
+00:01:29,471 --> 00:01:32,153
+ alleen studies wil die zijn uitgevoerd
+
+42
+00:01:31,198 --> 00:01:33,987
+ op mensen. Ik klik op 'Filters
+
+43
+00:01:33,040 --> 00:01:36,165
+ toepassen'. Er wordt een nieuwe
+
+44
+00:01:35,215 --> 00:01:38,176
+ zoekopdracht uitgevoerd met deze nieuwe
+
+45
+00:01:37,226 --> 00:01:41,789
+ filters. Wat je interessant zult zien,
+
+46
+00:01:40,842 --> 00:01:43,882
+ is dat wanneer je filtert op een aantal
+
+47
+00:01:42,934 --> 00:01:45,869
+ van deze rigoureuze studiedetails, de
+
+48
+00:01:44,922 --> 00:01:47,805
+ resultaten daadwerkelijk veranderen.
+
+49
+00:01:47,478 --> 00:01:50,296
+ Dat is de functie die werkt zoals het
+
+50
+00:01:49,345 --> 00:01:53,109
+ hoort. En wanneer je je concentreert op
+
+51
+00:01:52,160 --> 00:01:54,493
+ alleen de meest rigoureuze
+
+52
+00:01:53,544 --> 00:01:56,287
+ onderzoeksontwerpen, zie je dat de
+
+53
+00:01:55,338 --> 00:01:58,132
+ effecten positiever zijn dan in het
+
+54
+00:01:57,183 --> 00:02:02,037
+ andere geval. Een andere manier om veel
+
+55
+00:02:01,092 --> 00:02:04,241
+ uit je consensuszoekopdrachten te halen
+
+56
+00:02:03,241 --> 00:02:06,170
+, is door gebruik te maken van onze
+
+57
+00:02:05,225 --> 00:02:09,622
+ flexibele AI-queryparsing. Wat je kunt
+
+58
+00:02:08,672 --> 00:02:11,476
+ doen met een zoekopdracht is context
+
+59
+00:02:10,526 --> 00:02:13,280
+ toevoegen aan het einde, waarmee je
+
+60
+00:02:12,331 --> 00:02:15,035
+ onze AI-modellen instrueert hoe ze
+
+61
+00:02:14,085 --> 00:02:21,643
+ moeten reageren. In dit geval gebruik
+
+62
+00:02:20,693 --> 00:02:23,554
+ ik dezelfde kernonderzoeksvraag, maar
+
+63
+00:02:22,604 --> 00:02:25,465
+ voeg ik er een lijst met alle voor-en
+
+64
+00:02:24,516 --> 00:02:34,289
+ nadelen aan toe. Je krijgt dan dezelfde
+
+65
+00:02:33,338 --> 00:02:36,210
+ set onderzoeksartikelen te zien als in
+
+66
+00:02:35,260 --> 00:02:38,083
+ de oorspronkelijke zoekopdracht, maar
+
+67
+00:02:37,132 --> 00:02:40,054
+ het antwoord is nu in de gevraagde vorm
+
+68
+00:02:39,054 --> 00:02:41,927
+: een opsomming met de voor-en nadelen
+
+69
+00:02:40,976 --> 00:02:43,701
+ van statinebehandeling voor hart-en
+
+70
+00:02:42,750 --> 00:02:48,542
+ vaatziekten bij ouderen. Je kunt heel
+
+71
+00:02:47,590 --> 00:02:50,223
+ creatief zijn met wat je Consensus
+
+72
+00:02:49,271 --> 00:02:51,670
+ vraagt te doen. Je kunt het
+
+73
+00:02:50,723 --> 00:02:53,604
+ bijvoorbeeld vragen om resultaten in
+
+74
+00:02:52,657 --> 00:02:55,434
+ een tabelvorm te presenteren of te
+
+75
+00:02:54,486 --> 00:02:57,368
+ reageren in een stijl of toon die je
+
+76
+00:02:56,420 --> 00:02:59,865
+ zelf wilt. Ik heb zojuist drie
+
+77
+00:02:58,915 --> 00:03:01,830
+ voorbeelden gegeven die laten zien hoe
+
+78
+00:03:00,880 --> 00:03:03,694
+ ver AI je kan brengen in een product
+
+79
+00:03:02,744 --> 00:03:06,254
+ als Consensus. Maar het is ook
+
+80
+00:03:05,307 --> 00:03:07,880
+ belangrijk om te vermelden dat
+
+81
+00:03:06,932 --> 00:03:09,611
+ Consensus klassieke geavanceerde
+
+82
+00:03:08,663 --> 00:03:11,289
+ academische zoekfunctionaliteit
+
+83
+00:03:10,341 --> 00:03:13,911
+ ondersteunt. Je kunt Consensus
+
+84
+00:03:12,964 --> 00:03:16,231
+ gebruiken met Booleaanse zoektermen. Je
+
+85
+00:03:15,275 --> 00:03:17,554
+ kunt aanhalingstekens rond je
+
+86
+00:03:16,599 --> 00:03:19,055
+ zoekopdracht plaatsen, een exacte
+
+87
+00:03:18,099 --> 00:03:20,819
+ overeenkomst op basis van termen of een
+
+88
+00:03:19,863 --> 00:03:22,496
+ titel van een artikel invoeren, en je
+
+89
+00:03:21,540 --> 00:03:23,996
+ kunt zelfs de naam van een auteur
+
+90
+00:03:23,040 --> 00:03:25,629
+ invoeren om te zoeken naar artikelen
+
+91
+00:03:24,673 --> 00:03:27,723
+ van die auteur. Zoals we al aan het
+
+92
+00:03:26,774 --> 00:03:29,623
+ begin van de video hebben uitgelegd,
+
+93
+00:03:28,674 --> 00:03:31,625
+ proberen we flexibel te zijn voor onze
+
+94
+00:03:30,677 --> 00:03:33,320
+ gebruikers en het beste van twee
+
+95
+00:03:32,371 --> 00:03:35,014
+ werelden te combineren: klassiek
+
+96
+00:03:34,065 --> 00:03:36,914
+ academisch zoeken en flexibel zoeken
+
+97
+00:03:35,965 --> 00:03:39,574
+ met behulp van AI. Bedankt voor het
+
+98
+00:03:38,623 --> 00:03:41,423
+ bekijken van deze video. We plaatsen
+
+99
+00:03:40,469 --> 00:03:43,250
+ een link naar een aantal best practices
+
+100
+00:03:42,296 --> 00:03:45,078
+ voor zoeken in de beschrijving van deze
+
+101
+00:03:44,123 --> 00:03:45,398
+ video.
+

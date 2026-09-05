@@ -1,0 +1,372 @@
+1
+00:00:00,179 --> 00:00:02,534
+Como investigador, cuando buscas
+
+2
+00:00:01,577 --> 00:00:04,102
+ evidencia sobre un tema, normalmente
+
+3
+00:00:03,144 --> 00:00:05,711
+ obtienes una avalancha de artículos,
+
+4
+00:00:04,754 --> 00:00:07,109
+ preprints mezclados con revistas
+
+5
+00:00:06,152 --> 00:00:08,550
+ especializadas y trabajos de bajo
+
+6
+00:00:07,592 --> 00:00:10,075
+ impacto, todo mezclado con estudios
+
+7
+00:00:09,117 --> 00:00:11,718
+ sólidos. Pero lo que realmente quieres
+
+8
+00:00:10,756 --> 00:00:12,931
+ es una investigación creíble,
+
+9
+00:00:11,969 --> 00:00:14,107
+ reciente y de alta calidad que
+
+10
+00:00:13,144 --> 00:00:15,547
+ realmente se sostenga. Consensus te
+
+11
+00:00:14,583 --> 00:00:16,870
+ permite hacer eso en solo unas pocas
+
+12
+00:00:15,906 --> 00:00:18,228
+ búsquedas con estas características
+
+13
+00:00:17,264 --> 00:00:23,602
+ clave. Entonces, en nuestra primera
+
+14
+00:00:22,637 --> 00:00:24,936
+ pregunta, vamos a pedirle a Consensus
+
+15
+00:00:23,971 --> 00:00:26,095
+ que encuentre artículos de alta
+
+16
+00:00:25,130 --> 00:00:28,099
+ calidad sobre un tema clínico. Ahora,
+
+17
+00:00:27,139 --> 00:00:29,579
+ puedes ver que mi consulta tiene dos
+
+18
+00:00:28,619 --> 00:00:31,212
+ partes. Primero está el tema y luego
+
+19
+00:00:30,251 --> 00:00:32,608
+ están los filtros que he aplicado.
+
+20
+00:00:31,708 --> 00:00:34,485
+ Así que le pedí a Consensus que
+
+21
+00:00:33,539 --> 00:00:36,424
+ busque artículos desde 2020 y solo
+
+22
+00:00:35,478 --> 00:00:38,364
+ aquellos publicados en revistas Q1.
+
+23
+00:00:37,464 --> 00:00:40,027
+ Puedes ver aquí que Consensus siguió
+
+24
+00:00:39,068 --> 00:00:41,672
+ adelante y de hecho aplicó sus propios
+
+25
+00:00:40,713 --> 00:00:43,250
+ filtros a la búsqueda. Por lo tanto,
+
+26
+00:00:42,288 --> 00:00:44,760
+ solo busca artículos que se publicaron
+
+27
+00:00:43,798 --> 00:00:45,968
+ a lo largo de 2020 y solo busca
+
+28
+00:00:45,006 --> 00:00:47,176
+ artículos que se publicaron en
+
+29
+00:00:46,214 --> 00:00:48,661
+ revistas del primer trimestre. Ahora
+
+30
+00:00:47,704 --> 00:00:50,377
+ bien, Consensus está realizando varios
+
+31
+00:00:49,420 --> 00:00:52,418
+ pasos entre bastidores. Como pueden ver
+
+32
+00:00:51,418 --> 00:00:54,039
+, además de añadir filtros, ha
+
+33
+00:00:53,090 --> 00:00:55,862
+ ampliado mi búsqueda a los mejores
+
+34
+00:00:54,913 --> 00:00:57,787
+ términos de búsqueda para encontrar
+
+35
+00:00:56,838 --> 00:00:59,850
+ los artículos de mayor calidad. Ha
+
+36
+00:00:58,891 --> 00:01:01,324
+ realizado dos búsquedas diferentes
+
+37
+00:01:00,365 --> 00:01:02,797
+ entre bastidores y ha agregado esos
+
+38
+00:01:01,838 --> 00:01:04,729
+ resultados. Ha recuperado más de 900
+
+39
+00:01:03,780 --> 00:01:06,343
+ 000 artículos que podrían ser
+
+40
+00:01:05,394 --> 00:01:09,052
+ relevantes. Los ha reducido a una lista
+
+41
+00:01:08,116 --> 00:01:11,491
+ de 74 que cumplen mis criterios y son
+
+42
+00:01:10,556 --> 00:01:13,392
+ muy relevantes. Y, por último, ha
+
+43
+00:01:12,424 --> 00:01:14,444
+ creado una lista corta de los 20
+
+44
+00:01:13,476 --> 00:01:15,781
+ principales. Y aquí mismo, a la
+
+45
+00:01:14,824 --> 00:01:17,079
+ derecha, puedo ver todos esos
+
+46
+00:01:16,122 --> 00:01:18,923
+ artículos. Y puedo ver que todos se
+
+47
+00:01:17,969 --> 00:01:20,763
+ publicaron después de 2021 y que todos
+
+48
+00:01:19,809 --> 00:01:22,419
+ están en revistas de alta calidad.
+
+49
+00:01:21,900 --> 00:01:24,429
+ Ahora, a la izquierda, tengo mi
+
+50
+00:01:23,478 --> 00:01:26,353
+ descripción general de IA centrada en
+
+51
+00:01:25,402 --> 00:01:27,882
+ los resultados, los diferentes
+
+52
+00:01:26,931 --> 00:01:29,855
+ subgrupos y los diferentes comparadores
+
+53
+00:01:28,855 --> 00:01:31,794
+. Esto es genial, pero vamos a dar un
+
+54
+00:01:30,845 --> 00:01:33,445
+ paso más. Bueno, voy a hacerle una
+
+55
+00:01:32,486 --> 00:01:35,052
+ pregunta de seguimiento a Consensus, y
+
+56
+00:01:34,093 --> 00:01:36,700
+ le voy a pedir que reduzca la búsqueda
+
+57
+00:01:35,741 --> 00:01:38,347
+ a artículos con solo más de 50 citas,
+
+58
+00:01:37,388 --> 00:01:39,995
+ y quiero que me muestre una cronología
+
+59
+00:01:39,036 --> 00:01:41,437
+ de la investigación de cuándo se
+
+60
+00:01:40,478 --> 00:01:43,043
+ publicaron esos artículos, para poder
+
+61
+00:01:42,085 --> 00:01:44,691
+ ver el panorama completo. Vamos a darle
+
+62
+00:01:43,728 --> 00:01:46,175
+ a ejecutar. Y ahora puedo ver que
+
+63
+00:01:45,220 --> 00:01:47,748
+ Consensus está leyendo el hilo de
+
+64
+00:01:46,793 --> 00:01:49,579
+ investigación anterior. Así que tiene
+
+65
+00:01:48,622 --> 00:01:51,296
+ el contexto de todos los artículos que
+
+66
+00:01:50,339 --> 00:01:53,013
+ acaba de encontrar y los va a leer para
+
+67
+00:01:52,056 --> 00:01:54,558
+ averiguar cuáles tienen más de 50
+
+68
+00:01:53,601 --> 00:01:56,822
+ citas. Aquí pueden ver que ha
+
+69
+00:01:55,883 --> 00:01:59,201
+ encontrado unos 10 artículos y los ha
+
+70
+00:01:58,262 --> 00:02:01,459
+ leído para entender de qué tratan.
+
+71
+00:02:00,719 --> 00:02:03,042
+ Ahora, si me desplazo hacia abajo,
+
+72
+00:02:02,081 --> 00:02:04,560
+ puedo ver que también me ha elaborado
+
+73
+00:02:03,599 --> 00:02:06,039
+ una cronología de la investigación.
+
+74
+00:02:05,239 --> 00:02:07,902
+ Así puedo ver cuándo se publicaron
+
+75
+00:02:06,948 --> 00:02:09,887
+ todos estos artículos diferentes. Y si
+
+76
+00:02:08,926 --> 00:02:11,169
+ sigo desplazándome hacia abajo,
+
+77
+00:02:10,208 --> 00:02:12,568
+ incluso desglosará esos diferentes
+
+78
+00:02:11,607 --> 00:02:14,045
+ artículos y cuáles fueron los hitos
+
+79
+00:02:13,084 --> 00:02:15,535
+ que ellos lograron alcanzar. En tan
+
+80
+00:02:14,579 --> 00:02:17,293
+ solo dos búsquedas, hemos pasado de lo
+
+81
+00:02:16,336 --> 00:02:18,698
+ que habría sido un conjunto de
+
+82
+00:02:17,742 --> 00:02:20,412
+ artículos muy desordenado a una lista
+
+83
+00:02:19,456 --> 00:02:22,169
+ cuidadosamente seleccionada de estudios
+
+84
+00:02:21,213 --> 00:02:23,883
+ de alta calidad que han tenido un gran
+
+85
+00:02:22,927 --> 00:02:25,404
+ impacto en el campo. Consensus es de
+
+86
+00:02:24,437 --> 00:02:26,599
+ uso completamente gratuito y puedes
+
+87
+00:02:25,632 --> 00:02:27,861
+ acceder a él a través del enlace de
+
+88
+00:02:26,894 --> 00:02:29,335
+ la descripción. Si quieres convertirte
+
+89
+00:02:28,370 --> 00:02:30,640
+ en un experto en consenso y realizar
+
+90
+00:02:29,676 --> 00:02:31,981
+ mejores investigaciones más rápido,
+
+91
+00:02:31,017 --> 00:02:33,322
+ suscríbete a este canal y luego echa
+
+92
+00:02:32,358 --> 00:02:34,522
+ un vistazo a algunos de los otros
+
+93
+00:02:33,557 --> 00:02:35,440
+ tutoriales de esta serie.
+

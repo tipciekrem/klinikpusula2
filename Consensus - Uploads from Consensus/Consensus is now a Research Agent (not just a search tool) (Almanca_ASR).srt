@@ -1,0 +1,1016 @@
+1
+00:00:00,100 --> 00:00:02,433
+Zitatverkettung, Lücken in Ihrer
+
+2
+00:00:01,474 --> 00:00:04,050
+ Sammlung schließen, ähnliche Arbeiten
+
+3
+00:00:03,091 --> 00:00:06,217
+ finden. Consensus entwickelt sich von
+
+4
+00:00:05,267 --> 00:00:08,126
+ einem einfachen Suchwerkzeug zu einem
+
+5
+00:00:07,177 --> 00:00:09,835
+ echten Forschungsassistenten, der
+
+6
+00:00:08,885 --> 00:00:11,694
+ mehrere Analysewerkzeuge miteinander
+
+7
+00:00:10,744 --> 00:00:13,560
+ verknüpfen kann. Als Consensus vor ein
+
+8
+00:00:12,593 --> 00:00:14,594
+ paar Jahren an den Start ging,
+
+9
+00:00:13,628 --> 00:00:15,763
+ konzentrierten wir uns darauf, die
+
+10
+00:00:14,796 --> 00:00:16,731
+ beste Sucherfahrung für die
+
+11
+00:00:15,764 --> 00:00:18,066
+ wissenschaftliche Forschung zu schaffen
+
+12
+00:00:17,066 --> 00:00:19,883
+. Heute durchsuchen wir über 220
+
+13
+00:00:18,927 --> 00:00:21,466
+ Millionen von Experten begutachtete
+
+14
+00:00:20,510 --> 00:00:23,093
+ Forschungsarbeiten, arbeiten mit den
+
+15
+00:00:22,137 --> 00:00:24,765
+ größten wissenschaftlichen Verlagen
+
+16
+00:00:23,809 --> 00:00:26,172
+ zusammen und über 10 Millionen
+
+17
+00:00:25,216 --> 00:00:28,175
+ Forscher nutzen Consensus. Und dank
+
+18
+00:00:27,222 --> 00:00:30,008
+ Ihnen allen gehört Consensus jetzt zu
+
+19
+00:00:29,055 --> 00:00:31,182
+ den fünf meistgenutzten
+
+20
+00:00:30,229 --> 00:00:32,939
+ Forschungswerkzeugen der Welt. Jetzt
+
+21
+00:00:31,979 --> 00:00:34,459
+ bieten wir mit Consensus mehr als nur
+
+22
+00:00:33,499 --> 00:00:36,327
+ die reine Suche. Wir stellen ein neues,
+
+23
+00:00:35,371 --> 00:00:37,899
+ leistungsstärkeres Consensus vor.
+
+24
+00:00:37,299 --> 00:00:40,725
+ Consensus kann jetzt auf Funktionen wie
+
+25
+00:00:39,787 --> 00:00:43,214
+ Zitat-Crawling, DOI-Suche, Autorensuche
+
+26
+00:00:42,214 --> 00:00:45,454
+, ähnliche Arbeiten und vieles mehr
+
+27
+00:00:44,516 --> 00:00:47,333
+ zugreifen. Damit können Sie
+
+28
+00:00:46,370 --> 00:00:48,601
+ zusätzlich zu der Suche, die Sie
+
+29
+00:00:47,638 --> 00:00:50,018
+ bereits kennen und lieben, noch viele
+
+30
+00:00:49,055 --> 00:00:51,435
+ weitere komplexe und leistungsfähige
+
+31
+00:00:50,473 --> 00:00:53,178
+ Aktionen ausführen. Sehen wir uns ein
+
+32
+00:00:52,217 --> 00:00:54,736
+ paar Beispiele an. Nehmen wir an, ich
+
+33
+00:00:53,768 --> 00:00:55,903
+ erstelle eine Literaturrecherche und
+
+34
+00:00:54,934 --> 00:00:57,006
+ habe eine Sammlung von Artikeln in
+
+35
+00:00:56,038 --> 00:00:58,356
+ meiner Bibliothek. Ich möchte aber
+
+36
+00:00:57,394 --> 00:00:59,964
+ wissen, welche darin fehlen. Dies
+
+37
+00:00:58,995 --> 00:01:01,060
+ können Sie mit einer zweiteiligen
+
+38
+00:01:00,091 --> 00:01:02,981
+ Suche in Consensus erledigen. Wechseln
+
+39
+00:01:02,016 --> 00:01:04,253
+ wir also zu unserer Bibliothek hier.
+
+40
+00:01:03,740 --> 00:01:06,192
+ Ich wähle diese Sammlung zum Thema
+
+41
+00:01:05,234 --> 00:01:07,941
+ Muskelaufbau aus. Nachdem ich diese
+
+42
+00:01:06,982 --> 00:01:09,222
+ Sammlung mit meiner Suchleiste
+
+43
+00:01:08,263 --> 00:01:10,833
+ verknüpft habe, führe ich eine Suche
+
+44
+00:01:09,875 --> 00:01:12,445
+ durch und bitte Consensus, eine Matrix
+
+45
+00:01:11,486 --> 00:01:14,097
+ mit Forschungslücken zu erstellen, die
+
+46
+00:01:13,139 --> 00:01:15,337
+ mir zeigt, welche Themen oder
+
+47
+00:01:14,378 --> 00:01:16,824
+ Populationen in dieser Sammlung zum
+
+48
+00:01:15,866 --> 00:01:18,477
+ Thema Muskelaufbau bei Sportlern fehlen
+
+49
+00:01:17,477 --> 00:01:20,272
+. Wenn ich nun diese Suche starte,
+
+50
+00:01:19,310 --> 00:01:21,540
+ können Sie sehen, dass Consensus
+
+51
+00:01:20,577 --> 00:01:22,807
+ mehrere Suchen in meiner Sammlung
+
+52
+00:01:21,844 --> 00:01:24,074
+ durchführt, um die verschiedenen
+
+53
+00:01:23,111 --> 00:01:25,416
+ Artikel zu verstehen, die ich darin
+
+54
+00:01:24,453 --> 00:01:27,204
+ habe. Anschließend wird mir ein
+
+55
+00:01:26,250 --> 00:01:29,010
+ visuelles Diagramm mit allen wichtigen
+
+56
+00:01:28,056 --> 00:01:30,862
+ Themen oder Populationen angezeigt, die
+
+57
+00:01:29,908 --> 00:01:33,420
+ in meiner Forschung fehlen. Sie sehen
+
+58
+00:01:32,465 --> 00:01:35,028
+ hier, dass ich über gesunde, nicht
+
+59
+00:01:34,073 --> 00:01:36,681
+ sportliche Erwachsene verfüge, aber
+
+60
+00:01:35,725 --> 00:01:38,423
+ eine ziemlich große Lücke bei jungen
+
+61
+00:01:37,467 --> 00:01:40,030
+ Sportlern, alternden Sportlern oder
+
+62
+00:01:39,075 --> 00:01:42,260
+ erwachsenen Leistungssportlern. Es
+
+63
+00:01:41,299 --> 00:01:43,337
+ lieferte mir außerdem eine
+
+64
+00:01:42,376 --> 00:01:44,876
+ Aufschlüsselung der Population und der
+
+65
+00:01:43,914 --> 00:01:46,415
+ Themen, die in meiner Forschung fehlen.
+
+66
+00:01:46,720 --> 00:01:49,662
+ Dies ist nur der erste Schritt. Ich
+
+67
+00:01:48,703 --> 00:01:51,185
+ kann diese Sammlung aus meiner Suche
+
+68
+00:01:50,226 --> 00:01:52,831
+ entfernen und Consensus nun auffordern,
+
+69
+00:01:51,872 --> 00:01:54,395
+ tatsächlich nach Artikeln zu suchen,
+
+70
+00:01:53,436 --> 00:01:55,918
+ die alle Lücken füllen, die es bei
+
+71
+00:01:54,959 --> 00:01:57,523
+ der Suche im breiteren Forschungsindex
+
+72
+00:01:56,564 --> 00:01:59,841
+ gefunden hat. Sie können jetzt sehen,
+
+73
+00:01:58,890 --> 00:02:01,812
+ dass Consensus mehrere parallele Suchen
+
+74
+00:02:00,862 --> 00:02:03,783
+ im gesamten Forschungsindex durchführt
+
+75
+00:02:02,783 --> 00:02:05,705
+, die auf die spezifischen Populationen
+
+76
+00:02:04,755 --> 00:02:07,134
+ und Themen abzielen, die mir
+
+77
+00:02:06,184 --> 00:02:09,383
+ tatsächlich fehlten. Es wurden über
+
+78
+00:02:08,427 --> 00:02:11,407
+ 3,3 Millionen Artikel gefunden. Diese
+
+79
+00:02:10,452 --> 00:02:13,186
+ wurden auf die Top 157 eingegrenzt und
+
+80
+00:02:12,232 --> 00:02:14,920
+ die Top 20 für mich zusammengefasst,
+
+81
+00:02:13,965 --> 00:02:17,186
+ damit ich sie mir ansehen kann. Jetzt
+
+82
+00:02:16,224 --> 00:02:18,539
+ kann ich einfach mit der Maus über
+
+83
+00:02:17,576 --> 00:02:19,853
+ diesen Artikel fahren und ihn dann
+
+84
+00:02:18,891 --> 00:02:21,319
+ direkt zu meiner Sammlung hinzufügen.
+
+85
+00:02:21,499 --> 00:02:23,711
+ Ich hätte wochenlang lange suchen
+
+86
+00:02:22,747 --> 00:02:24,995
+ müssen, um herauszufinden, was mir
+
+87
+00:02:24,030 --> 00:02:26,350
+ fehlte, aber mit Consensus konnte ich
+
+88
+00:02:25,386 --> 00:02:27,669
+ das in wenigen Minuten erledigen, um
+
+89
+00:02:26,705 --> 00:02:29,024
+ meine Sammlung deutlich umfangreicher
+
+90
+00:02:28,060 --> 00:02:30,451
+ zu machen und sicherzustellen, dass mir
+
+91
+00:02:29,487 --> 00:02:31,806
+ keine wichtigen Artikel fehlen, bevor
+
+92
+00:02:30,842 --> 00:02:33,019
+ ich mit meiner Literaturrecherche
+
+93
+00:02:32,054 --> 00:02:34,681
+ beginne. Das zweite Beispiel ist die
+
+94
+00:02:33,713 --> 00:02:35,829
+ Möglichkeit, Zitationsverkettungen
+
+95
+00:02:34,861 --> 00:02:37,221
+ durchzuführen. Ich beginne also mit
+
+96
+00:02:36,257 --> 00:02:38,267
+ einem wegweisenden Paper und
+
+97
+00:02:37,304 --> 00:02:39,711
+ durchforste von dort aus die Zitate, um
+
+98
+00:02:38,747 --> 00:02:40,829
+ herauszufinden, welche anderen
+
+99
+00:02:39,865 --> 00:02:42,128
+ wichtigen Papers es zu diesem Thema
+
+100
+00:02:41,164 --> 00:02:44,032
+ gibt, die ich lesen sollte. Ich kann
+
+101
+00:02:43,066 --> 00:02:45,332
+ also den DOI eines Papers hinzufügen
+
+102
+00:02:44,367 --> 00:02:46,598
+ oder Consensus einfach anweisen, ein
+
+103
+00:02:45,632 --> 00:02:47,796
+ bestimmtes Paper zu finden und die
+
+104
+00:02:46,830 --> 00:02:49,164
+ darin enthaltenen Zitate zu durchsuchen
+
+105
+00:02:48,164 --> 00:02:51,301
+. In diesem Beispiel suche ich also
+
+106
+00:02:50,344 --> 00:02:52,747
+ nach einem Paper dieses Autors zu
+
+107
+00:02:51,789 --> 00:02:54,107
+ CRISPR-Cas 9. Ich möchte, dass
+
+108
+00:02:53,150 --> 00:02:55,468
+ Consensus Zitationsverkettungen
+
+109
+00:02:54,510 --> 00:02:57,168
+ verwendet, um die wichtigsten zitierten
+
+110
+00:02:56,211 --> 00:02:58,486
+ Papers zu finden und dann alle
+
+111
+00:02:57,529 --> 00:02:59,889
+ Ergebnisse nach Jahr und Art des
+
+112
+00:02:58,932 --> 00:03:01,449
+ Beitrags zu ordnen. Wenn ich diese
+
+113
+00:03:00,480 --> 00:03:02,686
+ Suche nun durchführe, kann ich sehen,
+
+114
+00:03:01,718 --> 00:03:03,701
+ dass Consensus mehrere Schritte
+
+115
+00:03:02,733 --> 00:03:05,567
+ durchführt. Im ersten Schritt hat es
+
+116
+00:03:04,601 --> 00:03:06,913
+ das spezifische Paper gefunden, auf das
+
+117
+00:03:05,947 --> 00:03:09,326
+ ich mich beziehe. Dann hat es begonnen,
+
+118
+00:03:08,369 --> 00:03:10,721
+ seinen Zitationsgraphen mithilfe
+
+119
+00:03:09,764 --> 00:03:12,413
+ verschiedener Suchtypen zu untersuchen,
+
+120
+00:03:11,455 --> 00:03:14,061
+ um die wichtigsten zitierten Papers zu
+
+121
+00:03:13,104 --> 00:03:16,556
+ finden. Abschließend erstellt
+
+122
+00:03:15,597 --> 00:03:18,096
+ Consensus eine engere Auswahl der 20
+
+123
+00:03:17,138 --> 00:03:19,387
+ besten Artikel und liest diese
+
+124
+00:03:18,429 --> 00:03:20,761
+ tatsächlich durch, um mir einen
+
+125
+00:03:19,803 --> 00:03:22,177
+ Überblick über die Forschung zu
+
+126
+00:03:21,219 --> 00:03:24,785
+ verschaffen. Wenn ich nun nach unten
+
+127
+00:03:23,825 --> 00:03:26,154
+ scrolle, kann ich sehen, dass die
+
+128
+00:03:25,194 --> 00:03:27,684
+ Artikel nach ihren Kernkonzepten, die
+
+129
+00:03:26,724 --> 00:03:29,295
+ die Cas9-Genom-Editierung ermöglichten
+
+130
+00:03:28,295 --> 00:03:31,127
+, geordnet wurden. Außerdem wurden sie
+
+131
+00:03:30,159 --> 00:03:32,391
+ nach Jahr aufgeschlüsselt, sodass ich
+
+132
+00:03:31,423 --> 00:03:33,493
+ nachvollziehen kann, wie sich die
+
+133
+00:03:32,526 --> 00:03:34,757
+ Forschung im Laufe der Zeit entwickelt
+
+134
+00:03:33,790 --> 00:03:36,886
+ hat. Und ich kann noch einen Schritt
+
+135
+00:03:35,917 --> 00:03:38,474
+ weitergehen. Nehmen wir an, es gibt
+
+136
+00:03:37,505 --> 00:03:39,659
+ einen Artikel, der mich interessiert,
+
+137
+00:03:38,690 --> 00:03:42,289
+ wie diesen hier. Wenn ich darauf klicke
+
+138
+00:03:41,289 --> 00:03:43,846
+, kann ich Consensus bitten, ein
+
+139
+00:03:42,895 --> 00:03:45,355
+ Zitationsdiagramm für mich zu
+
+140
+00:03:44,403 --> 00:03:47,259
+ generieren. Consensus öffnet nun in
+
+141
+00:03:46,298 --> 00:03:48,785
+ einem neuen Tab ein Zitationsdiagramm,
+
+142
+00:03:47,824 --> 00:03:50,193
+ sodass ich nachvollziehen kann, auf
+
+143
+00:03:49,232 --> 00:03:51,759
+ welche Artikel dieser Artikel verweist.
+
+144
+00:03:51,140 --> 00:03:53,572
+ So kann ich einen Artikel zu einem
+
+145
+00:03:52,614 --> 00:03:55,005
+ Nischenthema auswählen, das mich
+
+146
+00:03:54,047 --> 00:03:56,353
+ interessiert, und sowohl in die
+
+147
+00:03:55,395 --> 00:03:57,954
+ Vergangenheit als auch in die Zukunft
+
+148
+00:03:56,997 --> 00:03:59,429
+ blicken, um herauszufinden, welche
+
+149
+00:03:58,471 --> 00:04:01,115
+ anderen Artikel mit demselben Thema eng
+
+150
+00:04:00,157 --> 00:04:02,716
+ verwandt sind und tatsächlich darauf
+
+151
+00:04:01,758 --> 00:04:04,638
+ verweisen. Kommen wir nun zu unserem
+
+152
+00:04:03,680 --> 00:04:06,311
+ dritten Beispiel, der Autorenverfolgung
+
+153
+00:04:05,311 --> 00:04:08,388
+. Nehmen wir also an, ich habe endlich
+
+154
+00:04:07,429 --> 00:04:09,560
+ einen Forscher gefunden, der
+
+155
+00:04:08,600 --> 00:04:11,135
+ tatsächlich in meiner Nische forscht.
+
+156
+00:04:10,554 --> 00:04:13,138
+ Nun kann ich Consensus die DOI des
+
+157
+00:04:12,185 --> 00:04:15,003
+ Papers geben und es sowohl diesen Autor
+
+158
+00:04:14,049 --> 00:04:16,634
+ als auch den Co-Autor nachschlagen
+
+159
+00:04:15,681 --> 00:04:18,452
+ lassen, um zu sehen, welche ähnlichen
+
+160
+00:04:17,498 --> 00:04:20,316
+ Forschungsarbeiten sie in den letzten 5
+
+161
+00:04:19,363 --> 00:04:22,448
+ Jahren veröffentlicht haben. Dann kann
+
+162
+00:04:21,482 --> 00:04:23,822
+ ich es anweisen, eine Zeitleiste dieses
+
+163
+00:04:22,856 --> 00:04:25,127
+ wichtigen Papers zu erstellen, um mir
+
+164
+00:04:24,162 --> 00:04:26,467
+ die Forschung zu verdeutlichen und mir
+
+165
+00:04:25,501 --> 00:04:27,669
+ außerdem eine Tabelle mit anderen
+
+166
+00:04:26,704 --> 00:04:29,009
+ Autoren und Co-Autoren anzuzeigen, die
+
+167
+00:04:28,043 --> 00:04:30,383
+ ich mir ansehen sollte, da sie relevant
+
+168
+00:04:29,418 --> 00:04:32,012
+ sein könnten. Fügen wir also unser
+
+169
+00:04:31,046 --> 00:04:34,239
+ Beispiel in Consensus ein. Ich habe
+
+170
+00:04:33,269 --> 00:04:35,199
+ Consensus angewiesen, von einer
+
+171
+00:04:34,229 --> 00:04:36,865
+ bestimmten DOI aus zu beginnen. Und
+
+172
+00:04:35,900 --> 00:04:38,132
+ dann habe ich es angewiesen, andere
+
+173
+00:04:37,167 --> 00:04:39,540
+ Papers zu finden, die dieser Autor oder
+
+174
+00:04:38,575 --> 00:04:40,420
+ Co-Autor zu diesem Thema
+
+175
+00:04:39,455 --> 00:04:41,722
+ veröffentlicht hat, eine Zeitleiste
+
+176
+00:04:40,757 --> 00:04:43,059
+ dieser Papers in den letzten 5 Jahren
+
+177
+00:04:42,094 --> 00:04:44,432
+ zu erstellen und dann eine Tabelle mit
+
+178
+00:04:43,467 --> 00:04:45,839
+ den wichtigsten Forschern zu erstellen,
+
+179
+00:04:44,874 --> 00:04:46,965
+ die ich mir ansehen sollte, die
+
+180
+00:04:46,001 --> 00:04:48,338
+ ähnliche Forschungsarbeiten zu diesem
+
+181
+00:04:47,373 --> 00:04:50,040
+ Thema veröffentlicht haben. Wenn ich
+
+182
+00:04:49,067 --> 00:04:50,980
+ also auf „Ausführen“ klicke,
+
+183
+00:04:50,008 --> 00:04:52,059
+ führt Consensus mehrere Schritte aus.
+
+184
+00:04:51,519 --> 00:04:54,120
+ Als Erstes sucht es in dem von mir
+
+185
+00:04:53,167 --> 00:04:55,957
+ angegebenen Seed Paper, um die Autoren
+
+186
+00:04:55,004 --> 00:04:57,559
+ und Co-Autoren zu identifizieren.
+
+187
+00:04:56,979 --> 00:04:59,214
+ Anschließend sucht es nach verwandten
+
+188
+00:04:58,246 --> 00:05:00,887
+ Arbeiten. Sie sehen hier, dass es
+
+189
+00:04:59,919 --> 00:05:01,995
+ mehrere verschiedene Suchvorgänge
+
+190
+00:05:01,026 --> 00:05:03,071
+ durchführt, bei denen es sich um
+
+191
+00:05:02,102 --> 00:05:04,490
+ Autorensuchen handelt. Es sucht also
+
+192
+00:05:03,530 --> 00:05:06,040
+ nach allen Artikeln, die dieser Autor
+
+193
+00:05:05,080 --> 00:05:07,549
+ veröffentlicht hat oder an denen er
+
+194
+00:05:06,589 --> 00:05:09,663
+ Co-Autor war. Dann führt es eine
+
+195
+00:05:08,695 --> 00:05:10,935
+ breitere Suche durch, um herauszufinden
+
+196
+00:05:09,935 --> 00:05:12,144
+, wer andere Autoren sind, die mit der
+
+197
+00:05:11,176 --> 00:05:13,289
+ von ihm veröffentlichten Arbeit in
+
+198
+00:05:12,321 --> 00:05:15,269
+ Verbindung stehen könnten. Ich kann
+
+199
+00:05:14,302 --> 00:05:16,379
+ hier sehen, dass es 86 geeignete
+
+200
+00:05:15,412 --> 00:05:18,146
+ Artikel gefunden hat. Diese wurden auf
+
+201
+00:05:17,191 --> 00:05:19,828
+ die 14 besten eingegrenzt, die es nun
+
+202
+00:05:18,872 --> 00:05:22,576
+ analysiert. Wenn ich nach unten scrolle
+
+203
+00:05:21,576 --> 00:05:23,627
+, sehe ich, dass Consensus eine
+
+204
+00:05:22,660 --> 00:05:24,949
+ Zeitleiste der Forschung der letzten 5
+
+205
+00:05:23,982 --> 00:05:26,271
+ Jahre zusammengestellt hat, um mir ein
+
+206
+00:05:25,304 --> 00:05:27,559
+ Gefühl dafür zu geben, wie sich die
+
+207
+00:05:26,592 --> 00:05:28,779
+ verschiedenen Forschungsarbeiten im
+
+208
+00:05:27,813 --> 00:05:29,898
+ Laufe der Zeit entwickelt haben.
+
+209
+00:05:29,420 --> 00:05:31,362
+ Außerdem hat es die Zeitleiste
+
+210
+00:05:30,392 --> 00:05:32,273
+ aufgeschlüsselt und mir eine
+
+211
+00:05:31,304 --> 00:05:33,246
+ Zusammenfassung der wichtigsten
+
+212
+00:05:32,276 --> 00:05:34,340
+ Meilensteine der Forschung gegeben.
+
+213
+00:05:33,979 --> 00:05:36,459
+ Anschließend wurde eine Tabelle mit
+
+214
+00:05:35,500 --> 00:05:38,063
+ den Autoren oder Gruppen erstellt, die
+
+215
+00:05:37,104 --> 00:05:40,141
+ ich mir genauer ansehen sollte. Somit
+
+216
+00:05:39,177 --> 00:05:41,481
+ konnte ich die ersten beiden Autoren
+
+217
+00:05:40,518 --> 00:05:42,750
+ des Artikels nehmen und eine Reihe
+
+218
+00:05:41,786 --> 00:05:44,199
+ weiterer ähnlicher Autoren finden, die
+
+219
+00:05:43,235 --> 00:05:45,576
+ für meine weitere Forschung relevant
+
+220
+00:05:44,612 --> 00:05:47,567
+ sein könnten. Auf diese Weise kann ich
+
+221
+00:05:46,606 --> 00:05:48,776
+ meine Recherche zu einem Thema
+
+222
+00:05:47,815 --> 00:05:50,613
+ hervorragend vertiefen. Die Suche nach
+
+223
+00:05:49,625 --> 00:05:51,031
+ der Nadel im Heuhaufen gehört der
+
+224
+00:05:50,043 --> 00:05:52,420
+ Vergangenheit an. Consensus stellt für
+
+225
+00:05:51,463 --> 00:05:54,135
+ Sie eine Verbindung zwischen Themen und
+
+226
+00:05:53,178 --> 00:05:55,850
+ Forschern her, sodass Sie mehr Zeit mit
+
+227
+00:05:54,893 --> 00:05:57,566
+ dem Lesen relevanter Artikel verbringen
+
+228
+00:05:56,608 --> 00:05:58,938
+ können und weniger Zeit damit,
+
+229
+00:05:57,981 --> 00:06:00,138
+ herauszufinden, mit welchem
+
+230
+00:05:59,181 --> 00:06:01,553
+ Schlüsselwort Sie die richtigen
+
+231
+00:06:00,596 --> 00:06:03,603
+ Artikel finden. Consensus bietet
+
+232
+00:06:02,649 --> 00:06:05,325
+ unzählige Kombinationsmöglichkeiten
+
+233
+00:06:04,370 --> 00:06:06,856
+ dieser Tools. Wir haben sogar eine
+
+234
+00:06:05,888 --> 00:06:08,065
+ ganze Tutorial-Reihe erstellt, in der
+
+235
+00:06:07,097 --> 00:06:09,275
+ wir Ihnen verschiedene Möglichkeiten
+
+236
+00:06:08,307 --> 00:06:10,389
+ aufzeigen, wie Sie diese Tools zur
+
+237
+00:06:09,420 --> 00:06:11,598
+ Erreichung unterschiedlicher Ziele in
+
+238
+00:06:10,630 --> 00:06:12,680
+ Ihrem Forschungsprozess einsetzen
+
+239
+00:06:11,712 --> 00:06:14,435
+ können. Wir werden weitere Funktionen
+
+240
+00:06:13,472 --> 00:06:15,855
+ hinzufügen, um Consensus zum weltweit
+
+241
+00:06:14,891 --> 00:06:17,779
+ besten Recherchetool zu machen. Wie
+
+242
+00:06:16,825 --> 00:06:19,599
+ immer ist Consensus völlig kostenlos.
+
+243
+00:06:18,819 --> 00:06:21,120
+ Falls Sie es noch nicht getan haben,
+
+244
+00:06:20,156 --> 00:06:22,277
+ können Sie es sich gerne unter
+
+245
+00:06:21,314 --> 00:06:23,615
+ consensus.app ansehen und Ihre erste
+
+246
+00:06:22,651 --> 00:06:25,626
+ Suche durchführen. Allerdings hätten
+
+247
+00:06:24,667 --> 00:06:27,203
+ wir all das ohne das Feedback von all
+
+248
+00:06:26,245 --> 00:06:28,822
+ den Forschern wie Ihnen, die Consensus
+
+249
+00:06:27,864 --> 00:06:30,359
+ verwenden, nicht entwickeln können.
+
+250
+00:06:29,800 --> 00:06:32,051
+ Lassen Sie uns also wissen, was Sie als
+
+251
+00:06:31,083 --> 00:06:33,271
+ Nächstes sehen möchten, entweder in
+
+252
+00:06:32,303 --> 00:06:34,491
+ den Kommentaren oder kontaktieren Sie
+
+253
+00:06:33,523 --> 00:06:35,261
+ unser Team direkt über
+
+254
+00:06:34,293 --> 00:06:36,000
+ support@consensus.app.
+

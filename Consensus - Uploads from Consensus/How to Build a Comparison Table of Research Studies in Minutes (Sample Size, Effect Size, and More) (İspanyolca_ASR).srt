@@ -1,0 +1,508 @@
+1
+00:00:00,100 --> 00:00:02,505
+Como investigador, cuando comparas
+
+2
+00:00:01,547 --> 00:00:04,035
+ intervenciones o enfoques, necesitas
+
+3
+00:00:03,077 --> 00:00:05,441
+ que estén al mismo nivel con las
+
+4
+00:00:04,483 --> 00:00:07,095
+ mismas métricas, tamaño de la muestra
+
+5
+00:00:06,095 --> 00:00:08,584
+, tamaño del efecto y duración del
+
+6
+00:00:07,625 --> 00:00:10,222
+ seguimiento. Elaborar esa comparación
+
+7
+00:00:09,262 --> 00:00:11,822
+ a mano a partir de una pila de archivos
+
+8
+00:00:10,862 --> 00:00:13,665
+ PDF puede llevar horas. Pero Consensus
+
+9
+00:00:12,700 --> 00:00:14,845
+ puede hacerlo por ti en solo unas
+
+10
+00:00:13,879 --> 00:00:20,570
+ cuantas búsquedas. Así que, en
+
+11
+00:00:19,610 --> 00:00:21,970
+ nuestra primera búsqueda, vamos a
+
+12
+00:00:21,010 --> 00:00:23,530
+ pedir a Consensus que encuentre ECA, o
+
+13
+00:00:22,570 --> 00:00:24,970
+ ensayos controlados inversos, sobre
+
+14
+00:00:24,010 --> 00:00:26,570
+ tres tipos diferentes de intervenciones
+
+15
+00:00:25,610 --> 00:00:28,010
+ para la depresión en adolescentes.
+
+16
+00:00:27,110 --> 00:00:29,193
+ Ahora bien, cuando ejecute esta
+
+17
+00:00:28,228 --> 00:00:30,451
+ búsqueda, Consensus realizará una
+
+18
+00:00:29,486 --> 00:00:31,710
+ serie de acciones en segundo plano.
+
+19
+00:00:30,920 --> 00:00:33,350
+ Así que lo primero que hará será
+
+20
+00:00:32,391 --> 00:00:34,943
+ ejecutar tres búsquedas diferentes en
+
+21
+00:00:33,984 --> 00:00:36,537
+ paralelo para esos diferentes tipos de
+
+22
+00:00:35,578 --> 00:00:37,967
+ intervención, y puedes ver que en
+
+23
+00:00:37,008 --> 00:00:39,356
+ realidad ha aplicado un filtro de
+
+24
+00:00:38,397 --> 00:00:40,950
+ ensayo controlado aleatorio a cada uno
+
+25
+00:00:39,991 --> 00:00:43,011
+ de ellos. Por lo tanto, solo mostrará
+
+26
+00:00:42,050 --> 00:00:44,492
+ estudios que sean ensayos controlados
+
+27
+00:00:43,531 --> 00:00:46,556
+ aleatorios. Ahora bien, puedes hacer
+
+28
+00:00:45,597 --> 00:00:47,819
+ esto con todo tipo de estudios
+
+29
+00:00:46,860 --> 00:00:49,408
+ diferentes, como estudios de casos, in
+
+30
+00:00:48,448 --> 00:00:50,833
+ vivo, in vitro, etc., si pulsas el
+
+31
+00:00:49,874 --> 00:00:52,483
+ botón de filtro que está aquí. Como
+
+32
+00:00:51,524 --> 00:00:54,131
+ pueden ver, hay varios tipos de filtros
+
+33
+00:00:53,131 --> 00:00:55,696
+, incluidos filtros solo para estudios
+
+34
+00:00:54,737 --> 00:00:57,220
+ en humanos, y los estamos añadiendo
+
+35
+00:00:56,261 --> 00:00:58,890
+ constantemente. Ahora que ha completado
+
+36
+00:00:57,929 --> 00:01:00,435
+ las tres búsquedas, pueden ver que ha
+
+37
+00:00:59,474 --> 00:01:01,980
+ encontrado más de 300 000 artículos.
+
+38
+00:01:01,297 --> 00:01:04,164
+ Los ha eliminado de duplicados y los ha
+
+39
+00:01:03,212 --> 00:01:06,033
+ preseleccionado por relevancia. Por
+
+40
+00:01:05,078 --> 00:01:07,861
+ último, me ha dado una lista de los 20
+
+41
+00:01:06,907 --> 00:01:09,553
+ artículos más relevantes que puedo
+
+42
+00:01:08,598 --> 00:01:11,371
+ consultar. Ahora, si me desplazo hacia
+
+43
+00:01:10,413 --> 00:01:12,881
+ abajo, pueden ver que ha creado una
+
+44
+00:01:11,923 --> 00:01:14,392
+ tabla que ya analiza los diferentes
+
+45
+00:01:13,434 --> 00:01:15,944
+ tipos de poblaciones, las diferentes
+
+46
+00:01:14,986 --> 00:01:17,286
+ intervenciones y algunos de los
+
+47
+00:01:16,328 --> 00:01:19,215
+ hallazgos clave. Y si coloco el cursor
+
+48
+00:01:18,260 --> 00:01:20,672
+ sobre la cita, puedo acceder al
+
+49
+00:01:19,718 --> 00:01:22,403
+ artículo directamente y abrir el PDF
+
+50
+00:01:21,449 --> 00:01:24,894
+ yo mismo. Pero quiero llevar esto un
+
+51
+00:01:23,927 --> 00:01:26,173
+ paso más allá y también quiero ser
+
+52
+00:01:25,206 --> 00:01:28,084
+ más específico. Por lo tanto, quiero
+
+53
+00:01:27,142 --> 00:01:30,355
+ crear una tabla que analice resultados
+
+54
+00:01:29,414 --> 00:01:32,452
+ o criterios muy específicos de los
+
+55
+00:01:31,511 --> 00:01:34,433
+ estudios reales y crear una tabla
+
+56
+00:01:33,491 --> 00:01:37,325
+ paralela para ella, como esta. Bueno,
+
+57
+00:01:36,360 --> 00:01:38,697
+ voy a seguir adelante y voy a hacer una
+
+58
+00:01:37,731 --> 00:01:40,657
+ pregunta de seguimiento aquí. Crea una
+
+59
+00:01:39,699 --> 00:01:42,095
+ tabla comparativa que incluya las
+
+60
+00:01:41,138 --> 00:01:43,492
+ columnas: tipo de intervención,
+
+61
+00:01:42,534 --> 00:01:45,099
+ tamaño muestral, sesiones, duración
+
+62
+00:01:44,142 --> 00:01:46,411
+ del seguimiento y efecto en la
+
+63
+00:01:45,453 --> 00:01:48,121
+ depresión. Ahora, Consensus ya tiene
+
+64
+00:01:47,164 --> 00:01:49,766
+ el contexto de la búsqueda que acabo
+
+65
+00:01:48,809 --> 00:01:51,311
+ de hacer. Ahora, lo primero que va a
+
+66
+00:01:50,348 --> 00:01:52,619
+ hacer es cargar los artículos que
+
+67
+00:01:51,657 --> 00:01:54,361
+ encontró en el hilo anterior. Luego,
+
+68
+00:01:53,431 --> 00:01:56,758
+ va a leer esos artículos. Por lo tanto
+
+69
+00:01:55,758 --> 00:01:57,825
+, leerá el texto completo si está
+
+70
+00:01:56,855 --> 00:01:58,922
+ disponible o solo los resúmenes si
+
+71
+00:01:57,952 --> 00:02:00,459
+ está disponible. Y finalmente, lo
+
+72
+00:01:59,515 --> 00:02:02,570
+ redujo a 10 estudios y creó la tabla
+
+73
+00:02:01,626 --> 00:02:04,933
+ exacta que estaba buscando. Entonces,
+
+74
+00:02:03,968 --> 00:02:05,944
+ tengo el tipo de estudio, la
+
+75
+00:02:04,979 --> 00:02:07,338
+ intervención, el tamaño de la muestra
+
+76
+00:02:06,338 --> 00:02:08,314
+, el número de sesiones, el
+
+77
+00:02:07,349 --> 00:02:09,569
+ seguimiento y el tamaño del efecto
+
+78
+00:02:08,604 --> 00:02:10,964
+ sobre los síntomas de depresión, así
+
+79
+00:02:09,998 --> 00:02:12,366
+ como el enlace al artículo en sí. Y
+
+80
+00:02:11,394 --> 00:02:13,175
+ si ves una pequeña marca de
+
+81
+00:02:12,203 --> 00:02:14,264
+ verificación aquí, eso significa que
+
+82
+00:02:13,291 --> 00:02:15,380
+ realmente puede leer el texto completo.
+
+83
+00:02:14,500 --> 00:02:16,602
+ Por lo tanto, puedes ver aquí que usó
+
+84
+00:02:15,630 --> 00:02:18,314
+ el texto completo. Y si abro esto,
+
+85
+00:02:17,354 --> 00:02:19,744
+ puedo hacer clic en este botón PDF
+
+86
+00:02:18,784 --> 00:02:20,936
+ aquí y puedo leer el estudio
+
+87
+00:02:19,976 --> 00:02:22,525
+ directamente en Consensus sin tener que
+
+88
+00:02:21,565 --> 00:02:24,193
+ abrir otra pestaña. Si tengo más
+
+89
+00:02:23,241 --> 00:02:25,702
+ preguntas, puedo adjuntar este
+
+90
+00:02:24,751 --> 00:02:27,504
+ documento directamente a mi barra de
+
+91
+00:02:26,553 --> 00:02:29,025
+ preguntas. Como pueden ver, está
+
+92
+00:02:28,063 --> 00:02:30,240
+ adjunto aquí y puedo hacer una
+
+93
+00:02:29,278 --> 00:02:31,650
+ pregunta de seguimiento. Así que voy a
+
+94
+00:02:30,675 --> 00:02:32,578
+ seguir adelante y le preguntaré por
+
+95
+00:02:31,603 --> 00:02:33,698
+ las lagunas que citó el autor. Y
+
+96
+00:02:32,736 --> 00:02:34,877
+ pueden ver que Consensus está
+
+97
+00:02:33,915 --> 00:02:36,324
+ profundizando aún más, leyendo todo
+
+98
+00:02:35,362 --> 00:02:37,939
+ el texto completo del documento. Y
+
+99
+00:02:36,979 --> 00:02:39,219
+ ahora, cuando me proporciona mi
+
+100
+00:02:38,259 --> 00:02:40,699
+ respuesta, si coloco el cursor sobre
+
+101
+00:02:39,739 --> 00:02:42,179
+ esto, puede mostrarme exactamente de
+
+102
+00:02:41,219 --> 00:02:43,499
+ qué parte del documento extrajo
+
+103
+00:02:42,539 --> 00:02:45,342
+ realmente esta cita. Por lo tanto, si
+
+104
+00:02:44,381 --> 00:02:46,823
+ hago clic en mostrar en el documento,
+
+105
+00:02:45,862 --> 00:02:48,110
+ se abrirá el PDF y se ampliará
+
+106
+00:02:47,149 --> 00:02:49,318
+ exactamente dónde extrajo esa
+
+107
+00:02:48,357 --> 00:02:50,839
+ información y se resaltará para mí.
+
+108
+00:02:49,960 --> 00:02:52,480
+ Ahora bien, si Consensus no tiene el
+
+109
+00:02:51,522 --> 00:02:54,169
+ texto completo, pueden adjuntarlo aquí
+
+110
+00:02:53,211 --> 00:02:55,816
+ o pueden sincronizar su biblioteca con
+
+111
+00:02:54,858 --> 00:02:57,252
+ Zotero para obtener todo el texto
+
+112
+00:02:56,294 --> 00:02:58,941
+ completo que ya hayan recopilado, y eso
+
+113
+00:02:57,984 --> 00:03:00,419
+ es completamente privado solo para
+
+114
+00:02:59,462 --> 00:03:02,081
+ ustedes. Ahora, en tan solo dos
+
+115
+00:03:01,134 --> 00:03:04,148
+ búsquedas, hemos pasado de lo que nos
+
+116
+00:03:03,201 --> 00:03:06,162
+ habría llevado una semana de revisar
+
+117
+00:03:05,215 --> 00:03:08,176
+ archivos PDF, extraer la información
+
+118
+00:03:07,229 --> 00:03:10,296
+ yo mismo, crear una tabla y filtrarla a
+
+119
+00:03:09,349 --> 00:03:12,283
+ tan solo unos minutos. Ahora, Consensus
+
+120
+00:03:11,325 --> 00:03:13,976
+ es completamente gratuito. Si no lo has
+
+121
+00:03:13,014 --> 00:03:15,448
+ usado antes, consulta el enlace en la
+
+122
+00:03:14,487 --> 00:03:17,324
+ descripción. Y si quieres convertirte
+
+123
+00:03:16,364 --> 00:03:18,899
+ en un experto en Consensus y aprender a
+
+124
+00:03:17,938 --> 00:03:20,198
+ investigar mejor y más rápido,
+
+125
+00:03:19,237 --> 00:03:21,772
+ suscríbete a este canal y mira algunos
+
+126
+00:03:20,812 --> 00:03:23,268
+ de los otros vídeos de esta lista de
+
+127
+00:03:22,307 --> 00:03:23,859
+ reproducción.
+

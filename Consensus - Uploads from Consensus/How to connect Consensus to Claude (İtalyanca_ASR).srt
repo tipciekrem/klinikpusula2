@@ -1,0 +1,476 @@
+1
+00:00:00,139 --> 00:00:02,658
+Nei prossimi 60 secondi, Claude
+
+2
+00:00:01,707 --> 00:00:04,373
+ cercherà tra oltre 220 milioni di
+
+3
+00:00:03,422 --> 00:00:05,990
+ articoli di ricerca sottoposti a
+
+4
+00:00:05,039 --> 00:00:07,531
+ revisione paritaria. Lascia che ti
+
+5
+00:00:06,562 --> 00:00:08,799
+ mostri quanto è veloce da configurare.
+
+6
+00:00:07,919 --> 00:00:10,083
+ Ora, tutto ciò di cui hai bisogno è
+
+7
+00:00:09,114 --> 00:00:10,964
+ un account Consensus, ed è
+
+8
+00:00:09,996 --> 00:00:12,484
+ completamente gratuito. Se vuoi saperne
+
+9
+00:00:11,524 --> 00:00:14,015
+ di più su Consensus, guarda l'ultimo
+
+10
+00:00:13,056 --> 00:00:15,506
+ video di questa serie, ma è il modo
+
+11
+00:00:14,547 --> 00:00:16,997
+ più semplice per cercare in tutti i
+
+12
+00:00:16,038 --> 00:00:18,408
+ principali database per la ricerca
+
+13
+00:00:17,448 --> 00:00:19,979
+ sottoposta a revisione paritaria ed è
+
+14
+00:00:19,019 --> 00:00:21,349
+ utilizzato da oltre 10 milioni di
+
+15
+00:00:20,390 --> 00:00:24,635
+ ricercatori in tutto il mondo. Ora,
+
+16
+00:00:23,686 --> 00:00:26,519
+ puoi usare Claw Desktop o il Web per
+
+17
+00:00:25,570 --> 00:00:28,265
+ questo scopo. Io userò Claw Desktop,
+
+18
+00:00:27,306 --> 00:00:29,767
+ ma le istruzioni sono più o meno le
+
+19
+00:00:28,807 --> 00:00:32,025
+ stesse. Vai qui su questo segno più e
+
+20
+00:00:31,087 --> 00:00:34,214
+ poi vai su Connettori. Quindi vuoi
+
+21
+00:00:33,264 --> 00:00:36,370
+ andare su Gestisci connettori. Fai clic
+
+22
+00:00:35,409 --> 00:00:38,319
+ sul segno più in alto qui. Sfoglia.
+
+23
+00:00:37,799 --> 00:00:41,633
+ Cercheremo Consensus. Puoi vedere qui
+
+24
+00:00:40,679 --> 00:00:43,299
+ che abbiamo il connettore Consensus
+
+25
+00:00:42,345 --> 00:00:45,067
+ nello store cloud. Quando clicco su
+
+26
+00:00:44,114 --> 00:00:46,518
+ Connetti, si aprirà una nuova
+
+27
+00:00:45,565 --> 00:00:48,016
+ schermata che mi consentirà di
+
+28
+00:00:47,063 --> 00:00:49,888
+ collegare il mio connettore di consenso
+
+29
+00:00:48,935 --> 00:00:51,849
+ al mio account di consenso. Assicurati
+
+30
+00:00:50,872 --> 00:00:53,098
+ di aver effettuato l'accesso. Funziona
+
+31
+00:00:52,133 --> 00:00:54,382
+ con tutti i piani, incluso il nostro
+
+32
+00:00:53,417 --> 00:00:56,439
+ piano gratuito. Puoi iniziare subito.
+
+33
+00:00:56,059 --> 00:00:57,673
+ Di seguito includerò alcune
+
+34
+00:00:56,694 --> 00:00:59,451
+ informazioni. Ogni piano ha dei limiti
+
+35
+00:00:58,485 --> 00:01:00,664
+ diversi, ma puoi verificarli nella
+
+36
+00:00:59,699 --> 00:01:02,700
+ documentazione. Farò clic su Consenti
+
+37
+00:01:01,747 --> 00:01:04,620
+ accesso. Una volta fatto, tornando a
+
+38
+00:01:03,666 --> 00:01:06,198
+ Claude, vedrai che si connetterà
+
+39
+00:01:05,244 --> 00:01:07,869
+ automaticamente e potrò iniziare a
+
+40
+00:01:06,915 --> 00:01:09,544
+ cercare. Quindi, eseguiamo una ricerca
+
+41
+00:01:08,584 --> 00:01:11,122
+ per assicurarci che funzioni. Farò
+
+42
+00:01:10,178 --> 00:01:13,138
+ clic su Nuova chat. E chiederò
+
+43
+00:01:12,192 --> 00:01:15,316
+ qualcosa del tipo: quali sono le ultime
+
+44
+00:01:14,370 --> 00:01:17,470
+ ricerche su caffeina e demenza? Ora
+
+45
+00:01:16,520 --> 00:01:19,404
+ funziona correttamente. Vedrò che
+
+46
+00:01:18,462 --> 00:01:21,277
+ Claude chiamerà effettivamente
+
+47
+00:01:20,335 --> 00:01:23,618
+ Consenso come strumento e potrò vedere
+
+48
+00:01:22,676 --> 00:01:25,646
+ i risultati. Ottimo. Quindi, puoi
+
+49
+00:01:24,679 --> 00:01:26,756
+ vedere che Claude ha eseguito una
+
+50
+00:01:25,788 --> 00:01:28,848
+ ricerca. E se apro questo qui e clicco
+
+51
+00:01:27,906 --> 00:01:30,721
+ sul logo di Consensus dove dice
+
+52
+00:01:29,780 --> 00:01:32,947
+ risultati, puoi vedere la domanda che
+
+53
+00:01:32,005 --> 00:01:35,289
+ Claude ha inviato a Consensus, i filtri
+
+54
+00:01:34,347 --> 00:01:37,338
+ che ha applicato e poi posso anche
+
+55
+00:01:36,397 --> 00:01:39,413
+ vedere la risposta. Ora saprai che
+
+56
+00:01:38,459 --> 00:01:41,139
+ funziona se dice trovati 20 articoli
+
+57
+00:01:40,186 --> 00:01:42,772
+ che mostrano i primi 20. Se scorri
+
+58
+00:01:41,819 --> 00:01:44,499
+ verso il basso vedi una risposta che
+
+59
+00:01:43,545 --> 00:01:46,511
+ assomiglia a questa. Se hai il piano
+
+60
+00:01:45,557 --> 00:01:48,362
+ gratuito mostra i 10 risultati. Quindi
+
+61
+00:01:47,404 --> 00:01:49,922
+ dirà solo trovati 20 che mostrano i
+
+62
+00:01:48,964 --> 00:01:51,482
+ primi 10. Ma finché riesci a vedere
+
+63
+00:01:50,524 --> 00:01:52,873
+ questo saprai che la connessione
+
+64
+00:01:51,916 --> 00:01:54,331
+ funziona davvero. Quindi scorro verso
+
+65
+00:01:53,362 --> 00:01:55,607
+ il basso. Posso vedere tutti gli
+
+66
+00:01:54,646 --> 00:01:57,173
+ articoli che Consensus ha trovato qui e
+
+67
+00:01:56,212 --> 00:01:58,582
+ ci sono molte più informazioni che
+
+68
+00:01:57,621 --> 00:01:59,952
+ vengono passate a Claude dietro le
+
+69
+00:01:58,991 --> 00:02:01,889
+ quinte. Se scorro verso il basso, posso
+
+70
+00:02:00,931 --> 00:02:03,494
+ vedere che è stato effettivamente in
+
+71
+00:02:02,537 --> 00:02:04,804
+ grado di usarli e fornirmi una
+
+72
+00:02:03,847 --> 00:02:06,534
+ panoramica degli studi. E se ci clicco
+
+73
+00:02:05,578 --> 00:02:08,248
+ sopra, questo mi porterà direttamente
+
+74
+00:02:07,291 --> 00:02:09,873
+ alla pagina dell'articolo dove posso
+
+75
+00:02:08,917 --> 00:02:11,543
+ iniziare a parlare di questo articolo
+
+76
+00:02:10,587 --> 00:02:13,342
+ in Consensus. Quindi, lascia che chieda
+
+77
+00:02:12,378 --> 00:02:14,755
+ qualcosa come quali sono stati i metodi
+
+78
+00:02:13,790 --> 00:02:16,555
+ utilizzati in questo studio. Ora, il
+
+79
+00:02:15,614 --> 00:02:18,814
+ consenso leggerà l'intero articolo e
+
+80
+00:02:17,873 --> 00:02:21,167
+ poi mi darà una risposta. E la cosa
+
+81
+00:02:20,208 --> 00:02:22,806
+ davvero interessante è che se passo il
+
+82
+00:02:21,847 --> 00:02:24,239
+ mouse qui a sinistra, posso vedere
+
+83
+00:02:23,280 --> 00:02:25,345
+ esattamente in quale punto
+
+84
+00:02:24,386 --> 00:02:26,861
+ dell'articolo il consenso ha trovato
+
+85
+00:02:25,902 --> 00:02:28,855
+ questa citazione. Ora, sul lato destro,
+
+86
+00:02:27,903 --> 00:02:30,643
+ se un articolo è ad accesso aperto,
+
+87
+00:02:29,691 --> 00:02:32,576
+ cerchiamo di estrarre l'intero articolo
+
+88
+00:02:31,576 --> 00:02:34,413
+, il che ti consente di leggere subito
+
+89
+00:02:33,461 --> 00:02:36,495
+ il PDF. Oppure, se passo il mouse qui e
+
+90
+00:02:35,539 --> 00:02:38,226
+ clicco su Mostra nell'articolo, questo
+
+91
+00:02:37,271 --> 00:02:40,002
+ zoomerà direttamente sul punto del PDF
+
+92
+00:02:39,046 --> 00:02:41,778
+ in cui si trovano effettivamente queste
+
+93
+00:02:40,822 --> 00:02:44,246
+ informazioni. Ora, tornando a Claude,
+
+94
+00:02:43,293 --> 00:02:45,947
+ posso andare avanti e porre domande
+
+95
+00:02:44,994 --> 00:02:47,742
+ come domande di follow-up, fare forse
+
+96
+00:02:46,789 --> 00:02:49,490
+ altre ricerche, ma questo è solo il
+
+97
+00:02:48,537 --> 00:02:51,447
+ primo livello. Ciò che faremo nella
+
+98
+00:02:50,490 --> 00:02:53,048
+ prossima serie di video è mostrarti
+
+99
+00:02:52,091 --> 00:02:54,563
+ come combinare questa capacità di
+
+100
+00:02:53,606 --> 00:02:55,774
+ ricerca con le capacità di
+
+101
+00:02:54,817 --> 00:02:57,505
+ pianificazione di Claude in modo che tu
+
+102
+00:02:56,548 --> 00:02:59,063
+ possa svolgere attività molto più
+
+103
+00:02:58,106 --> 00:03:01,340
+ complesse. Fai cose come cercare CRS,
+
+104
+00:03:00,393 --> 00:03:03,226
+ creare un punto di partenza per una
+
+105
+00:03:02,279 --> 00:03:05,217
+ revisione della letteratura o persino
+
+106
+00:03:04,269 --> 00:03:07,597
+ sviluppare un curriculum. Ti mostreremo
+
+107
+00:03:06,650 --> 00:03:09,667
+ come creare competenze nei file Claude
+
+108
+00:03:08,720 --> 00:03:11,259
+ o Markdown per aiutare la tua
+
+109
+00:03:10,312 --> 00:03:13,064
+ intelligenza artificiale a creare
+
+110
+00:03:12,117 --> 00:03:15,134
+ effettivamente un set di istruzioni in
+
+111
+00:03:14,187 --> 00:03:17,098
+ cui può effettuare più ricerche in
+
+112
+00:03:16,151 --> 00:03:19,009
+ parallelo e creare un documento che
+
+113
+00:03:18,062 --> 00:03:20,867
+ puoi utilizzare nella tua ricerca.
+
+114
+00:03:20,139 --> 00:03:23,125
+ Pubblicheremo anche dei video che ti
+
+115
+00:03:22,180 --> 00:03:25,331
+ mostreranno come farlo con Claude Code,
+
+116
+00:03:24,386 --> 00:03:26,957
+ Chat GPT o Codeex. Quindi, dai
+
+117
+00:03:25,993 --> 00:03:28,370
+ un'occhiata ad altre di queste risorse
+
+118
+00:03:27,406 --> 00:03:29,710
+ e facci sapere se c'è qualcos'altro
+
+119
+00:03:28,746 --> 00:03:30,399
+ che vuoi imparare.
+

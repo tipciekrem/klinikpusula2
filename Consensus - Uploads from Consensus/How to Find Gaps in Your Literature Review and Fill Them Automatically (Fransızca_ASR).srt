@@ -1,0 +1,772 @@
+1
+00:00:00,159 --> 00:00:02,423
+En tant que chercheur, lorsque vous
+
+2
+00:00:01,459 --> 00:00:03,832
+ organisez une collection de recherches
+
+3
+00:00:02,868 --> 00:00:04,952
+ pour un projet sur lequel vous
+
+4
+00:00:03,988 --> 00:00:06,180
+ travaillez, votre collection doit
+
+5
+00:00:05,217 --> 00:00:07,887
+ rester à jour. Vous devez également
+
+6
+00:00:06,926 --> 00:00:09,273
+ comprendre quelles sont les lacunes
+
+7
+00:00:08,312 --> 00:00:10,621
+ dans la littérature que vous avez
+
+8
+00:00:09,659 --> 00:00:12,161
+ collectée et les combler en permanence
+
+9
+00:00:11,161 --> 00:00:13,609
+. Mais il est vraiment difficile de
+
+10
+00:00:12,648 --> 00:00:14,900
+ savoir ce qui vous échappe sans
+
+11
+00:00:13,939 --> 00:00:16,269
+ recommencer à zéro ou passer des
+
+12
+00:00:15,308 --> 00:00:18,269
+ heures à chercher des réponses. Mais
+
+13
+00:00:17,317 --> 00:00:20,036
+ Consensus peut effectuer une analyse
+
+14
+00:00:19,084 --> 00:00:21,707
+ des lacunes directement dans votre
+
+15
+00:00:20,755 --> 00:00:23,473
+ collection, puis combler ces lacunes
+
+16
+00:00:22,521 --> 00:00:29,333
+ pour vous. Passons au consensus et je
+
+17
+00:00:28,366 --> 00:00:30,895
+ vais vous montrer un exemple. Me voici
+
+18
+00:00:29,944 --> 00:00:32,778
+ donc dans Consensus et ce que je vais
+
+19
+00:00:31,827 --> 00:00:34,115
+ faire, c'est aller dans ma
+
+20
+00:00:33,165 --> 00:00:36,139
+ bibliothèque. Maintenant, si vous ne
+
+21
+00:00:35,176 --> 00:00:37,462
+ l'avez pas encore fait, vous pouvez
+
+22
+00:00:36,499 --> 00:00:38,711
+ importer des articles directement
+
+23
+00:00:37,748 --> 00:00:39,997
+ depuis Zotterero, ce qui importera
+
+24
+00:00:39,034 --> 00:00:41,284
+ toute votre collection, toutes vos
+
+25
+00:00:40,320 --> 00:00:42,717
+ sous-collections, ainsi que tout votre
+
+26
+00:00:41,754 --> 00:00:44,213
+ texte intégral. Et cela vous est
+
+27
+00:00:43,262 --> 00:00:45,902
+ réservé, ou vous pouvez aller de
+
+28
+00:00:44,950 --> 00:00:47,832
+ l'avant et télécharger un fichier bib
+
+29
+00:00:46,880 --> 00:00:49,617
+ ou RA ou coller les DOI des articles
+
+30
+00:00:48,665 --> 00:00:51,402
+ que vous avez vous-même ou les PDF.
+
+31
+00:00:50,739 --> 00:00:52,944
+ Vous pouvez voir ici que j'ai un
+
+32
+00:00:51,982 --> 00:00:54,225
+ certain nombre d'articles dans ma
+
+33
+00:00:53,263 --> 00:00:55,242
+ collection, dont un sur le
+
+34
+00:00:54,280 --> 00:00:56,745
+ développement musculaire. J'ai donc
+
+35
+00:00:55,783 --> 00:00:58,174
+ environ 20 articles ici. Je viens de
+
+36
+00:00:57,209 --> 00:00:59,587
+ commencer, mais je veux en savoir plus.
+
+37
+00:00:58,946 --> 00:01:00,987
+ La première chose que je peux faire,
+
+38
+00:01:00,015 --> 00:01:02,000
+ c'est d'aller dans ma bibliothèque
+
+39
+00:01:01,028 --> 00:01:03,220
+ avec la collection sélectionnée. Vous
+
+40
+00:01:02,250 --> 00:01:04,283
+ verrez qu'elle est associée à la
+
+41
+00:01:03,313 --> 00:01:05,808
+ recherche ici. Vous pouvez également
+
+42
+00:01:04,846 --> 00:01:07,193
+ le faire vous-même en cliquant sur
+
+43
+00:01:06,232 --> 00:01:08,578
+ Plus n'importe où dans la barre de
+
+44
+00:01:07,617 --> 00:01:10,720
+ recherche. Je vais ajouter une question
+
+45
+00:01:09,720 --> 00:01:12,267
+. Je veux que vous créiez une matrice
+
+46
+00:01:11,306 --> 00:01:13,695
+ des lacunes de la recherche montrant
+
+47
+00:01:12,734 --> 00:01:15,008
+ les sujets ou les populations qui
+
+48
+00:01:14,047 --> 00:01:16,475
+ manquent dans cette collection sur le
+
+49
+00:01:15,513 --> 00:01:17,826
+ développement musculaire chez les
+
+50
+00:01:16,864 --> 00:01:19,133
+ athlètes. Maintenant, lorsque je
+
+51
+00:01:18,168 --> 00:01:20,270
+ clique sur Exécuter, Consensus
+
+52
+00:01:19,306 --> 00:01:21,585
+ effectue un certain nombre d'aspects
+
+53
+00:01:20,621 --> 00:01:23,231
+ différents en coulisses. La première
+
+54
+00:01:22,265 --> 00:01:24,331
+ chose est d'échantillonner des
+
+55
+00:01:23,365 --> 00:01:25,888
+ articles de ma collection. Cette
+
+56
+00:01:24,921 --> 00:01:27,232
+ collection ne contient qu'une vingtaine
+
+57
+00:01:26,266 --> 00:01:28,375
+ d'articles, mais sinon, Consensus
+
+58
+00:01:27,409 --> 00:01:29,518
+ sélectionne une collection ou un
+
+59
+00:01:28,552 --> 00:01:31,552
+ échantillon d'articles. La première
+
+60
+00:01:30,597 --> 00:01:33,124
+ chose que Consensus fait, c'est de
+
+61
+00:01:32,169 --> 00:01:34,761
+ comprendre ma collection. Il a donc
+
+62
+00:01:33,801 --> 00:01:36,274
+ pris ma collection et a effectué un
+
+63
+00:01:35,315 --> 00:01:37,787
+ certain nombre de recherches dans la
+
+64
+00:01:36,828 --> 00:01:39,341
+ collection afin de pouvoir rassembler
+
+65
+00:01:38,382 --> 00:01:40,773
+ des articles qui sont étroitement
+
+66
+00:01:39,813 --> 00:01:42,085
+ liés à mon sujet. Vous n'avez donc
+
+67
+00:01:41,109 --> 00:01:42,971
+ pas à vous inquiéter de savoir si
+
+68
+00:01:41,996 --> 00:01:43,710
+ votre collection est vraiment
+
+69
+00:01:42,735 --> 00:01:44,990
+ organisée. Consensus sélectionnera
+
+70
+00:01:44,027 --> 00:01:46,464
+ les articles qui sont réellement liés
+
+71
+00:01:45,501 --> 00:01:48,522
+ à ce que vous regardez. Vous pouvez
+
+72
+00:01:47,557 --> 00:01:49,878
+ donc voir ici qu'il a effectué quatre
+
+73
+00:01:48,913 --> 00:01:51,129
+ recherches différentes et examiné
+
+74
+00:01:50,164 --> 00:01:52,450
+ différents aspects du développement
+
+75
+00:01:51,485 --> 00:01:54,522
+ musculaire et des athlètes. À partir
+
+76
+00:01:53,562 --> 00:01:55,975
+ de là, il a pu obtenir un ensemble
+
+77
+00:01:55,015 --> 00:01:57,428
+ vraiment solide d'articles qui sont
+
+78
+00:01:56,469 --> 00:01:59,158
+ liés à ce que je recherche. Et
+
+79
+00:01:58,197 --> 00:02:00,624
+ maintenant, il les a réellement lus
+
+80
+00:01:59,664 --> 00:02:02,209
+ pour comprendre où il pourrait y avoir
+
+81
+00:02:01,249 --> 00:02:03,833
+ des informations manquantes. Si je fais
+
+82
+00:02:02,871 --> 00:02:05,258
+ défiler la page vers le bas, je peux
+
+83
+00:02:04,295 --> 00:02:06,683
+ voir qu'il a en fait créé un visuel
+
+84
+00:02:05,720 --> 00:02:08,070
+ pour moi de différents sujets et de
+
+85
+00:02:07,107 --> 00:02:09,307
+ différentes populations afin de
+
+86
+00:02:08,344 --> 00:02:10,769
+ comprendre où il pourrait y avoir des
+
+87
+00:02:09,806 --> 00:02:12,287
+ lacunes dans ma collection. Et je peux
+
+88
+00:02:11,324 --> 00:02:13,970
+ voir que j'en ai une tonne. J'en ai
+
+89
+00:02:13,007 --> 00:02:15,285
+ donc ici sur les hommes adultes et
+
+90
+00:02:14,323 --> 00:02:16,788
+ l'entraînement de résistance, mais il
+
+91
+00:02:15,826 --> 00:02:18,217
+ m'en manque en fait sur les athlètes
+
+92
+00:02:17,254 --> 00:02:19,986
+ féminines. Et si je fais défiler, je
+
+93
+00:02:19,029 --> 00:02:21,677
+ peux voir que je n'ai pratiquement rien
+
+94
+00:02:20,719 --> 00:02:23,198
+ sur les jeunes athlètes ni sur les
+
+95
+00:02:22,241 --> 00:02:24,889
+ athlètes de haut niveau, donc de haute
+
+96
+00:02:23,931 --> 00:02:26,327
+ performance. Et je peux voir un certain
+
+97
+00:02:25,357 --> 00:02:27,237
+ nombre de sous-domaines et de
+
+98
+00:02:26,267 --> 00:02:28,389
+ sous-thèmes différents sur lesquels
+
+99
+00:02:27,420 --> 00:02:29,330
+ il me manque des informations.
+
+100
+00:02:28,589 --> 00:02:30,649
+ Maintenant, je peux également les
+
+101
+00:02:29,680 --> 00:02:31,799
+ personnaliser moi-même. Je peux
+
+102
+00:02:30,837 --> 00:02:33,189
+ demander à Consensus de créer une
+
+103
+00:02:32,228 --> 00:02:34,618
+ matrice des lacunes de recherche qui
+
+104
+00:02:33,657 --> 00:02:36,009
+ examine ces variables spécifiques.
+
+105
+00:02:35,319 --> 00:02:38,136
+ Mais pour les besoins de cet article,
+
+106
+00:02:37,185 --> 00:02:40,262
+ c'est plutôt bien. Maintenant, ce que
+
+107
+00:02:39,304 --> 00:02:41,849
+ je veux faire, c'est pouvoir combler
+
+108
+00:02:40,891 --> 00:02:43,425
+ ces lacunes, n'est-ce pas ? Donc, je
+
+109
+00:02:42,460 --> 00:02:44,495
+ peux voir que j'ai beaucoup de
+
+110
+00:02:43,529 --> 00:02:45,874
+ consensus ici qui sont mis en évidence
+
+111
+00:02:44,874 --> 00:02:47,849
+. Donc pour ce faire, je vais suivre
+
+112
+00:02:46,894 --> 00:02:49,865
+ deux étapes. Je vais supprimer la
+
+113
+00:02:48,911 --> 00:02:51,361
+ collection parce que je veux que
+
+114
+00:02:50,407 --> 00:02:53,039
+ Consensus examine maintenant l'index
+
+115
+00:02:52,084 --> 00:02:54,671
+ plus large, et pas seulement ce que
+
+116
+00:02:53,716 --> 00:02:56,596
+ j'ai sélectionné ici. Et comme vous
+
+117
+00:02:55,630 --> 00:02:57,942
+ pouvez le voir dans le corpus ici, vous
+
+118
+00:02:56,975 --> 00:02:59,187
+ pouvez voir qu'il ne regarde que les
+
+119
+00:02:58,220 --> 00:03:00,269
+ pièces jointes. Je vais tout
+
+120
+00:02:59,303 --> 00:03:01,638
+ sélectionner ou simplement appuyer sur
+
+121
+00:03:00,672 --> 00:03:03,114
+ X sur cette collection. Et maintenant,
+
+122
+00:03:02,151 --> 00:03:04,403
+ je vais simplement lui demander de
+
+123
+00:03:03,440 --> 00:03:05,840
+ trouver les articles publiés au cours
+
+124
+00:03:04,877 --> 00:03:07,240
+ des 5 dernières années qui comblent
+
+125
+00:03:06,276 --> 00:03:10,605
+ ces lacunes. Vous pouvez maintenant
+
+126
+00:03:09,643 --> 00:03:12,066
+ voir que Consensus exécute plusieurs
+
+127
+00:03:11,104 --> 00:03:13,450
+ recherches en parallèle et qu'il a
+
+128
+00:03:12,489 --> 00:03:15,069
+ appliqué un filtre de récence. Il ne
+
+129
+00:03:14,109 --> 00:03:16,614
+ regarde donc que les articles de 2021.
+
+130
+00:03:15,653 --> 00:03:18,198
+ Et je pourrais ajouter d'autres choses,
+
+131
+00:03:17,237 --> 00:03:19,759
+ n'est-ce pas ? Regardez les athlètes
+
+132
+00:03:18,798 --> 00:03:21,020
+ féminines en particulier, euh,
+
+133
+00:03:20,060 --> 00:03:22,518
+ regardez uniquement celles des revues
+
+134
+00:03:21,558 --> 00:03:23,977
+ à fort impact du premier trimestre,
+
+135
+00:03:23,017 --> 00:03:25,357
+ regardez uniquement celles dont la
+
+136
+00:03:24,396 --> 00:03:26,855
+ population est basée dans un certain
+
+137
+00:03:25,894 --> 00:03:28,484
+ pays. Mais lorsque Consensus effectue
+
+138
+00:03:27,525 --> 00:03:29,693
+ ces quatre recherches, il va
+
+139
+00:03:28,734 --> 00:03:31,468
+ récupérer tous les articles ici. Puis
+
+140
+00:03:30,504 --> 00:03:32,616
+ il va commencer à dupliquer et
+
+141
+00:03:31,652 --> 00:03:33,872
+ déterminer ceux qui sont les plus
+
+142
+00:03:32,908 --> 00:03:35,308
+ pertinents pour les sujets sur lesquels
+
+143
+00:03:34,344 --> 00:03:36,636
+ je fais réellement ma recherche, à
+
+144
+00:03:35,672 --> 00:03:37,928
+ savoir le développement musculaire
+
+145
+00:03:36,964 --> 00:03:39,263
+ chez les athlètes. Vous pouvez donc
+
+146
+00:03:38,294 --> 00:03:40,460
+ voir ici que Consensus a terminé les
+
+147
+00:03:39,492 --> 00:03:42,285
+ recherches. Il a trouvé 178 articles
+
+148
+00:03:41,338 --> 00:03:44,302
+ vraiment éligibles et m'a fourni une
+
+149
+00:03:43,355 --> 00:03:46,319
+ courte liste de 20 qu'il a analysés.
+
+150
+00:03:45,420 --> 00:03:48,122
+ Et ce que je peux faire ici, c'est que
+
+151
+00:03:47,167 --> 00:03:49,915
+ lorsque je regarde, je peux survoler la
+
+152
+00:03:48,960 --> 00:03:51,707
+ citation et l'ajouter directement à ma
+
+153
+00:03:50,752 --> 00:03:53,513
+ bibliothèque. Alors, enregistrons ceci
+
+154
+00:03:52,554 --> 00:03:54,580
+ dans la collection sur le
+
+155
+00:03:53,621 --> 00:03:56,118
+ développement musculaire. Ou si je
+
+156
+00:03:55,159 --> 00:03:57,717
+ voulais faire ça un peu plus vite, je
+
+157
+00:03:56,758 --> 00:03:59,234
+ pourrais aller dans les références
+
+158
+00:03:58,275 --> 00:04:01,043
+ ici et voici la liste des articles. Je
+
+159
+00:04:00,085 --> 00:04:02,976
+ peux donc les télécharger tous. Ou je
+
+160
+00:04:02,018 --> 00:04:04,650
+ peux simplement les parcourir, puis les
+
+161
+00:04:03,692 --> 00:04:06,199
+ sélectionner ici et enregistrer ces
+
+162
+00:04:05,241 --> 00:04:07,876
+ articles dans ma bibliothèque. Je peux
+
+163
+00:04:06,910 --> 00:04:09,165
+ également enregistrer tout ce fil de
+
+164
+00:04:08,198 --> 00:04:10,581
+ discussion. Cette recherche dans ma
+
+165
+00:04:09,614 --> 00:04:11,709
+ bibliothèque si jamais je veux y
+
+166
+00:04:10,742 --> 00:04:13,459
+ revenir plus tard. Donc, en quelques
+
+167
+00:04:12,506 --> 00:04:15,341
+ recherches seulement, j'ai eu Consensus
+
+168
+00:04:14,389 --> 00:04:16,942
+ qui a trouvé des lacunes dans ma
+
+169
+00:04:15,989 --> 00:04:18,401
+ bibliothèque et qui a ensuite
+
+170
+00:04:17,448 --> 00:04:20,096
+ effectué plusieurs recherches pour
+
+171
+00:04:19,143 --> 00:04:21,743
+ pouvoir trouver des recherches qui
+
+172
+00:04:20,790 --> 00:04:23,711
+ comblent ces lacunes. Vous pouvez donc
+
+173
+00:04:22,748 --> 00:04:25,119
+ imaginer que lorsque vous construisez
+
+174
+00:04:24,156 --> 00:04:26,563
+ votre collection, vous pouvez le faire
+
+175
+00:04:25,600 --> 00:04:27,638
+ au fil du temps pour pouvoir
+
+176
+00:04:26,675 --> 00:04:29,045
+ constamment la réapprovisionner avec
+
+177
+00:04:28,082 --> 00:04:30,379
+ des articles récemment publiés et
+
+178
+00:04:29,416 --> 00:04:31,675
+ vous assurer de combler toutes les
+
+179
+00:04:30,712 --> 00:04:33,046
+ lacunes que vous n'auriez peut-être
+
+180
+00:04:32,083 --> 00:04:34,268
+ pas remarquées et que vous avez
+
+181
+00:04:33,305 --> 00:04:35,901
+ sautées. Consensus est entièrement
+
+182
+00:04:34,935 --> 00:04:37,235
+ gratuit et il n'y a aucune limite quant
+
+183
+00:04:36,268 --> 00:04:38,468
+ au nombre d'articles que vous pouvez
+
+184
+00:04:37,501 --> 00:04:39,787
+ importer dans votre bibliothèque. Si
+
+185
+00:04:38,813 --> 00:04:40,621
+ vous ne l'avez jamais utilisé,
+
+186
+00:04:39,647 --> 00:04:41,664
+ consultez le lien dans les commentaires
+
+187
+00:04:40,664 --> 00:04:43,128
+. Et si vous souhaitez rester informé
+
+188
+00:04:42,165 --> 00:04:44,577
+ des conseils, des meilleures pratiques
+
+189
+00:04:43,614 --> 00:04:46,026
+ et de la manière de devenir un expert
+
+190
+00:04:45,063 --> 00:04:47,327
+ en Consensus, assurez-vous de vous
+
+191
+00:04:46,364 --> 00:04:48,478
+ abonner à cette chaîne et de
+
+192
+00:04:47,516 --> 00:04:49,965
+ consulter certains des autres tutoriels
+
+193
+00:04:49,002 --> 00:04:50,671
+ de cette playlist.
+

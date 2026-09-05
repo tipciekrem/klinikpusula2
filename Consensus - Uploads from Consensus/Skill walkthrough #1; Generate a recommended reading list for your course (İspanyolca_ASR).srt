@@ -1,0 +1,676 @@
+1
+00:00:00,119 --> 00:00:02,658
+Eres profesor o ayudante de cátedra, y
+
+2
+00:00:01,697 --> 00:00:04,079
+ tu nuevo curso va a empezar pronto.
+
+3
+00:00:03,239 --> 00:00:05,982
+ Necesitas generar una nueva lista de
+
+4
+00:00:05,031 --> 00:00:07,920
+ lecturas recomendadas para tus alumnos.
+
+5
+00:00:07,159 --> 00:00:09,515
+ A continuación, te indicamos cómo
+
+6
+00:00:08,554 --> 00:00:10,911
+ puedes usar Claude y Consensus para
+
+7
+00:00:09,950 --> 00:00:12,462
+ hacerlo en 5 minutos, con solo subir el
+
+8
+00:00:11,501 --> 00:00:14,437
+ esquema del curso. Esta es una parte de
+
+9
+00:00:13,489 --> 00:00:16,553
+ un tutorial más extenso que te muestra
+
+10
+00:00:15,606 --> 00:00:18,246
+ cómo usar Consensus y el MCP o
+
+11
+00:00:17,299 --> 00:00:20,309
+ conector de Consensus con herramientas
+
+12
+00:00:19,362 --> 00:00:22,774
+ como Claude o Chat GPT. Si no los has
+
+13
+00:00:21,816 --> 00:00:24,354
+ visto antes, echa un vistazo a otros
+
+14
+00:00:23,397 --> 00:00:26,020
+ vídeos de esta lista de reproducción
+
+15
+00:00:25,063 --> 00:00:27,515
+ o del canal de Consensus, donde te
+
+16
+00:00:26,557 --> 00:00:29,223
+ guiarán paso a paso sobre cómo llegar
+
+17
+00:00:28,266 --> 00:00:31,099
+ hasta aquí. Pero si tienes curiosidad
+
+18
+00:00:30,138 --> 00:00:32,637
+ por este caso de uso específico, vamos
+
+19
+00:00:31,675 --> 00:00:33,982
+ a descargar la skill que aparece a
+
+20
+00:00:33,021 --> 00:00:38,484
+ continuación para empezar. El primer
+
+21
+00:00:37,532 --> 00:00:40,140
+ paso es descargar el archivo de la
+
+22
+00:00:39,188 --> 00:00:41,939
+ skill que aparece en la descripción.
+
+23
+00:00:41,399 --> 00:00:44,041
+ Una vez hecho esto, puedes abrirlo. Te
+
+24
+00:00:43,083 --> 00:00:45,696
+ recomiendo que uses Claude Desktop para
+
+25
+00:00:44,738 --> 00:00:47,227
+ hacerlo, ya que lo hace un poco más
+
+26
+00:00:46,269 --> 00:00:49,096
+ fácil. Pero si hago doble clic en esa
+
+27
+00:00:48,140 --> 00:00:50,879
+ skill, debería abrirse en Claude así.
+
+28
+00:00:50,059 --> 00:00:52,234
+ Y te mostrará una descripción general
+
+29
+00:00:51,264 --> 00:00:53,168
+ de lo que realmente implica la
+
+30
+00:00:52,198 --> 00:00:54,737
+ habilidad. Ahora bien, la habilidad
+
+31
+00:00:53,775 --> 00:00:56,285
+ consta de tres partes. La primera es
+
+32
+00:00:55,327 --> 00:00:57,798
+ que tengo que subir el esquema o el
+
+33
+00:00:56,840 --> 00:00:59,714
+ plan de estudios de mi curso. De ahí,
+
+34
+00:00:58,766 --> 00:01:01,739
+ extraerá todos los temas principales.
+
+35
+00:01:01,419 --> 00:01:04,102
+ Luego, realizará búsquedas paralelas
+
+36
+00:01:03,147 --> 00:01:05,786
+ en consenso para encontrar artículos
+
+37
+00:01:04,830 --> 00:01:07,426
+ que se hayan publicado recientemente
+
+38
+00:01:06,470 --> 00:01:08,755
+ sobre esos temas o que estén
+
+39
+00:01:07,799 --> 00:01:10,620
+ relacionados con ellos. Por último, lo
+
+40
+00:01:09,663 --> 00:01:12,127
+ empaquetará todo en un archivo de
+
+41
+00:01:11,170 --> 00:01:13,633
+ documento que creará una lista de
+
+42
+00:01:12,676 --> 00:01:15,010
+ lecturas recomendadas que puedo
+
+43
+00:01:14,053 --> 00:01:16,345
+ proporcionar a los estudiantes
+
+44
+00:01:15,388 --> 00:01:18,248
+ desglosada por semana. Ahora, sigamos
+
+45
+00:01:17,289 --> 00:01:19,896
+ adelante y ejecutémoslo. Bueno, voy a
+
+46
+00:01:18,935 --> 00:01:21,216
+ usar Claude Co-work para hacerlo.
+
+47
+00:01:20,316 --> 00:01:22,375
+ También puedes hacerlo en el chat.
+
+48
+00:01:21,475 --> 00:01:23,957
+ Cloud Co-work es un poco mejor para
+
+49
+00:01:22,999 --> 00:01:25,524
+ gestionar tareas más complejas o la
+
+50
+00:01:24,567 --> 00:01:27,169
+ creación de documentos. Entonces,
+
+51
+00:01:26,211 --> 00:01:28,571
+ pulsemos el signo más, vayamos a
+
+52
+00:01:27,612 --> 00:01:29,931
+ habilidades y usemos la lista de
+
+53
+00:01:28,972 --> 00:01:31,880
+ lecturas recomendadas. Luego, voy a
+
+54
+00:01:30,926 --> 00:01:33,655
+ subir el plan de estudios de mi curso.
+
+55
+00:01:32,755 --> 00:01:34,930
+ En este caso, tengo un curso de
+
+56
+00:01:33,968 --> 00:01:36,450
+ bioquímica de cuarto año. Ahora, voy
+
+57
+00:01:35,486 --> 00:01:37,881
+ a preguntarle a Claude si puede generar
+
+58
+00:01:36,917 --> 00:01:39,240
+ una lista de lecturas para este curso
+
+59
+00:01:38,276 --> 00:01:40,599
+ sobre genética molecular del cáncer
+
+60
+00:01:39,635 --> 00:01:42,434
+ humano. Claude comenzará a leer mi
+
+61
+00:01:41,471 --> 00:01:43,788
+ habilidad, comprenderá el conjunto
+
+62
+00:01:42,825 --> 00:01:45,066
+ básico de instrucciones que debe
+
+63
+00:01:44,104 --> 00:01:46,420
+ seguir y luego creará una lista de
+
+64
+00:01:45,458 --> 00:01:48,661
+ tareas pendientes para sí mismo. Aquí
+
+65
+00:01:47,710 --> 00:01:50,505
+ comienza leyendo el esquema del curso
+
+66
+00:01:49,554 --> 00:01:52,252
+ real e intentará extraer los temas
+
+67
+00:01:51,301 --> 00:01:54,048
+ principales que imparto cada semana,
+
+68
+00:01:53,096 --> 00:01:55,989
+ así como los resultados de aprendizaje
+
+69
+00:01:55,037 --> 00:01:57,952
+ de mi curso. Aquí pueden ver que ha
+
+70
+00:01:56,994 --> 00:01:59,603
+ podido extraer los temas principales e
+
+71
+00:01:58,645 --> 00:02:01,296
+ identificar en qué semanas se imparten
+
+72
+00:02:00,296 --> 00:02:03,501
+. Ahora comenzará a buscar consenso
+
+73
+00:02:02,546 --> 00:02:04,998
+ para artículos recientes que se
+
+74
+00:02:04,043 --> 00:02:06,761
+ publicaron sobre estos temas. A la
+
+75
+00:02:05,792 --> 00:02:07,959
+ izquierda pueden ver que ha creado una
+
+76
+00:02:06,989 --> 00:02:09,064
+ lista de tareas pendientes para sí
+
+77
+00:02:08,094 --> 00:02:11,011
+ mismo. Si la abro, podrán ver lo que
+
+78
+00:02:10,054 --> 00:02:12,519
+ está sucediendo entre bastidores.
+
+79
+00:02:12,139 --> 00:02:14,712
+ Aquí pueden ver que está comenzando a
+
+80
+00:02:13,753 --> 00:02:16,286
+ realizar varias búsquedas de consenso
+
+81
+00:02:15,326 --> 00:02:18,186
+ por semana para encontrar artículos. Y
+
+82
+00:02:17,234 --> 00:02:20,088
+ si hago clic en resultados, puedo abrir
+
+83
+00:02:19,136 --> 00:02:21,895
+ uno de estos y ver que está buscando
+
+84
+00:02:20,943 --> 00:02:23,559
+ mecanismos de supresión tumoral y
+
+85
+00:02:22,607 --> 00:02:25,414
+ está añadiendo un filtro para que el
+
+86
+00:02:24,461 --> 00:02:26,935
+ año de publicación sea 2025 o
+
+87
+00:02:25,983 --> 00:02:28,754
+ posterior. Puedes ver que encontró 20
+
+88
+00:02:27,796 --> 00:02:30,392
+ artículos. Y si miro algunas de las
+
+89
+00:02:29,433 --> 00:02:31,840
+ otras búsquedas, puedo ver que lo
+
+90
+00:02:30,881 --> 00:02:33,477
+ está haciendo en paralelo. Así que
+
+91
+00:02:32,513 --> 00:02:34,773
+ está haciendo varias búsquedas en
+
+92
+00:02:33,809 --> 00:02:35,925
+ función de los temas que estoy
+
+93
+00:02:34,961 --> 00:02:37,516
+ enseñando cada semana. Y ahora aquí
+
+94
+00:02:36,565 --> 00:02:39,449
+ abajo, ha creado el documento para mí.
+
+95
+00:02:38,639 --> 00:02:41,378
+ Y si lo abro, verás que ha creado un
+
+96
+00:02:40,425 --> 00:02:42,930
+ resultado estructurado que puedo
+
+97
+00:02:41,977 --> 00:02:44,387
+ compartir directamente con los
+
+98
+00:02:43,434 --> 00:02:46,122
+ estudiantes. Aquí están los
+
+99
+00:02:45,155 --> 00:02:47,322
+ resultados de aprendizaje del curso
+
+100
+00:02:46,355 --> 00:02:48,927
+ arriba. Y aquí está cada parte
+
+101
+00:02:47,978 --> 00:02:50,681
+ fundamental del curso dividida en
+
+102
+00:02:49,732 --> 00:02:52,331
+ semanas y los artículos que se
+
+103
+00:02:51,383 --> 00:02:54,234
+ recomienda leer. Ahora bien, lo bueno
+
+104
+00:02:53,275 --> 00:02:55,785
+ de esto es que incluye un resumen del
+
+105
+00:02:54,825 --> 00:02:57,335
+ artículo, un enlace a la pregunta de
+
+106
+00:02:56,376 --> 00:02:58,967
+ debate, y un estudiante puede abrirlo y
+
+107
+00:02:58,008 --> 00:03:00,517
+ lo llevará directamente a la página
+
+108
+00:02:59,558 --> 00:03:02,249
+ del artículo en consenso. Para que
+
+109
+00:03:01,285 --> 00:03:03,556
+ puedan entender cómo los temas que
+
+110
+00:03:02,593 --> 00:03:04,791
+ aprenden cada semana se aplican a
+
+111
+00:03:03,827 --> 00:03:06,244
+ investigaciones recientes que se están
+
+112
+00:03:05,280 --> 00:03:07,968
+ llevando a cabo en la actualidad. Ahora
+
+113
+00:03:07,016 --> 00:03:09,704
+ bien, si no tienes un plan pago con
+
+114
+00:03:08,752 --> 00:03:11,632
+ Claude o Judge PT, puedes hacerlo en el
+
+115
+00:03:10,681 --> 00:03:13,561
+ plan gratuito, solo en su chat habitual
+
+116
+00:03:12,561 --> 00:03:14,735
+. Habrá simplemente un par de
+
+117
+00:03:13,772 --> 00:03:16,200
+ funciones que faltarán, las cuales vas
+
+118
+00:03:15,236 --> 00:03:17,665
+ a tener que excluir de la habilidad por
+
+119
+00:03:16,701 --> 00:03:19,470
+ tu cuenta. Por lo tanto, lo que quieres
+
+120
+00:03:18,509 --> 00:03:20,874
+ hacer es seguir adelante y abrir la
+
+121
+00:03:19,913 --> 00:03:22,394
+ habilidad como un archivo Markdown; he
+
+122
+00:03:21,433 --> 00:03:23,915
+ incluido ese enlace para descargarlo a
+
+123
+00:03:22,954 --> 00:03:25,600
+ continuación. Luego, todo lo que
+
+124
+00:03:24,645 --> 00:03:27,204
+ necesitas hacer es iniciar un nuevo
+
+125
+00:03:26,249 --> 00:03:28,941
+ chat y cargar el esquema del curso con
+
+126
+00:03:27,986 --> 00:03:30,679
+ la habilidad y solicitar lo siguiente.
+
+127
+00:03:29,779 --> 00:03:32,416
+ Pídele que genere la lista de lecturas
+
+128
+00:03:31,416 --> 00:03:34,622
+. Pero es importante especificar que no
+
+129
+00:03:33,675 --> 00:03:37,066
+ debe generar un archivo .doc. No creo
+
+130
+00:03:36,103 --> 00:03:38,528
+ que pueda hacerlo a menos que tengas un
+
+131
+00:03:37,565 --> 00:03:40,285
+ plan pago. Así que solo especifícalo
+
+132
+00:03:39,327 --> 00:03:41,829
+ aquí en el chat y luego dile que lo
+
+133
+00:03:40,870 --> 00:03:43,671
+ escriba en el chat para mí. Aún
+
+134
+00:03:42,704 --> 00:03:44,756
+ debería poder seguir adelante y
+
+135
+00:03:43,789 --> 00:03:46,526
+ realizar las búsquedas. Aquí puedes
+
+136
+00:03:45,587 --> 00:03:48,891
+ ver que pudo leer el archivo, entender
+
+137
+00:03:47,952 --> 00:03:51,256
+ las instrucciones, revisarlo y leer el
+
+138
+00:03:50,317 --> 00:03:52,999
+ PDF. Y aquí puedes ver que está
+
+139
+00:03:52,039 --> 00:03:54,279
+ realizando varias búsquedas en
+
+140
+00:03:53,319 --> 00:03:55,799
+ consenso para poder generar esa lista
+
+141
+00:03:54,839 --> 00:03:57,919
+ de lectura. Puede que tarde un poco.
+
+142
+00:03:57,159 --> 00:03:59,426
+ Aquí puedes ver que está haciendo
+
+143
+00:03:58,463 --> 00:04:00,684
+ algo muy similar. En lugar de un
+
+144
+00:03:59,720 --> 00:04:02,090
+ archivo doc, solo muestra la salida en
+
+145
+00:04:01,126 --> 00:04:03,497
+ el chat, pero también me da enlaces a
+
+146
+00:04:02,533 --> 00:04:05,205
+ todos los archivos. Así que si sigo
+
+147
+00:04:04,255 --> 00:04:06,974
+ adelante y abro esto, verás que en
+
+148
+00:04:06,023 --> 00:04:08,939
+ realidad abre el documento en consenso.
+
+149
+00:04:08,279 --> 00:04:10,761
+ Ahora puedes hacer lo mismo con el chat
+
+150
+00:04:09,799 --> 00:04:12,243
+ GPT o cualquier otra herramienta de IA
+
+151
+00:04:11,281 --> 00:04:13,764
+ simplemente cargando esas instrucciones
+
+152
+00:04:12,802 --> 00:04:15,018
+ y luego trabajando dentro de los
+
+153
+00:04:14,056 --> 00:04:16,386
+ límites de lo que está disponible
+
+154
+00:04:15,424 --> 00:04:18,178
+ dentro del plan en el que estás. Pero
+
+155
+00:04:17,215 --> 00:04:19,606
+ la parte principal aquí es que le he
+
+156
+00:04:18,644 --> 00:04:21,072
+ dado un conjunto de instrucciones y le
+
+157
+00:04:20,110 --> 00:04:22,538
+ estoy permitiendo usar la habilidad de
+
+158
+00:04:21,576 --> 00:04:23,666
+ consenso para realizar varias
+
+159
+00:04:22,704 --> 00:04:25,307
+ búsquedas diferentes. En el siguiente
+
+160
+00:04:24,345 --> 00:04:26,597
+ vídeo, repasaremos las otras dos
+
+161
+00:04:25,635 --> 00:04:28,000
+ habilidades y, con suerte, al final,
+
+162
+00:04:27,038 --> 00:04:29,214
+ podrás tener una idea de cómo
+
+163
+00:04:28,252 --> 00:04:30,617
+ funcionan todas ellas y cómo puedes
+
+164
+00:04:29,655 --> 00:04:32,020
+ empezar a utilizarlas como base para
+
+165
+00:04:31,058 --> 00:04:33,930
+ poder modificarlas. Haznos saber en los
+
+166
+00:04:32,968 --> 00:04:35,323
+ comentarios si hay otras habilidades
+
+167
+00:04:34,361 --> 00:04:36,792
+ que te gustaría haber creado para que
+
+168
+00:04:35,829 --> 00:04:38,223
+ podamos crear una biblioteca completa
+
+169
+00:04:37,260 --> 00:04:39,654
+ de ellas con las que puedas trabajar.
+

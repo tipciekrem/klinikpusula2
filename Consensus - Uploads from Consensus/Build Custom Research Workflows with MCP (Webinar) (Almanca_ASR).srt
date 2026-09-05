@@ -1,0 +1,8692 @@
+1
+00:00:03,360 --> 00:00:09,832
+Alles klar, cool. Willkommen zusammen.
+
+2
+00:00:08,932 --> 00:00:12,034
+ Wow. Okay, großartig. Wir sind schon
+
+3
+00:00:11,085 --> 00:00:13,835
+ bei fast 500 Leuten. Alle Transkripte
+
+4
+00:00:12,874 --> 00:00:15,627
+ treten dem Meeting bei. Sehr schön.
+
+5
+00:00:17,801 --> 00:00:22,784
+ Großartig. Cool. Ähm, klasse.
+
+6
+00:00:21,884 --> 00:00:23,863
+ Willkommen, willkommen alle zusammen.
+
+7
+00:00:22,963 --> 00:00:24,951
+ Vielen Dank, dass ihr euch äh, dass
+
+8
+00:00:23,978 --> 00:00:26,226
+ ihr euch zugeschaltet habt. Äh, wir
+
+9
+00:00:25,277 --> 00:00:28,056
+ warten wahrscheinlich noch ein paar
+
+10
+00:00:27,107 --> 00:00:29,988
+ Minuten, bevor wir wirklich anfangen,
+
+11
+00:00:29,039 --> 00:00:31,819
+ aber ähm die Resonanz hierfür ist
+
+12
+00:00:30,870 --> 00:00:33,885
+ einfach wahnsinnig. Äh, ich schaue mir
+
+13
+00:00:32,922 --> 00:00:35,369
+ gerade die Statistiken an und weißt du
+
+14
+00:00:34,369 --> 00:00:36,780
+, das Meeting hat gerade erst begonnen
+
+15
+00:00:35,817 --> 00:00:38,042
+ und wir sind schon bei fast 1.000
+
+16
+00:00:37,079 --> 00:00:40,157
+ Leuten. Äh, wir hatten über 6.000
+
+17
+00:00:39,197 --> 00:00:41,499
+ Leute, die sich für das Webinar
+
+18
+00:00:40,539 --> 00:00:42,800
+ angemeldet haben, was ein neuer
+
+19
+00:00:41,841 --> 00:00:44,873
+ Allzeitrekord für mich ist. Als wir
+
+20
+00:00:43,924 --> 00:00:46,806
+ das Zotero-Webinar gemacht haben, äh
+
+21
+00:00:45,857 --> 00:00:48,739
+ hatten wir etwa 2.500 und äh, na ja,
+
+22
+00:00:47,790 --> 00:00:50,624
+ wir wollten das übertreffen. Ich hatte
+
+23
+00:00:49,652 --> 00:00:51,714
+ nicht damit gerechnet, dass es so, so
+
+24
+00:00:50,743 --> 00:00:52,973
+ verrückt werden würde. Also, ähm
+
+25
+00:00:52,017 --> 00:00:54,520
+ danke euch allen so, so sehr fürs
+
+26
+00:00:53,564 --> 00:00:56,114
+ Mitmachen. Ähm, falls ihr mir einen
+
+27
+00:00:55,148 --> 00:00:57,447
+ Gefallen tun könntet. Ich möchte
+
+28
+00:00:56,488 --> 00:00:59,362
+ testen, ob der Chat funktioniert. Ähm,
+
+29
+00:00:58,411 --> 00:01:01,119
+ wenn ihr in den Chat gehen und eine
+
+30
+00:01:00,168 --> 00:01:03,022
+ Nachricht schreiben könntet, ähm und
+
+31
+00:01:02,070 --> 00:01:04,632
+ uns einfach sagt, von wo aus ihr
+
+32
+00:01:03,680 --> 00:01:06,512
+ zuschaut. Also zum Beispiel: Äh, ich
+
+33
+00:01:05,560 --> 00:01:08,384
+ bin Daniel. Äh, ich bin in Toronto,
+
+34
+00:01:07,428 --> 00:01:09,997
+ also schreibe ich das einfach in den
+
+35
+00:01:09,041 --> 00:01:11,779
+ Chat. Äh, ja, würde mich freuen zu
+
+36
+00:01:10,819 --> 00:01:14,262
+ sehen, woher alle zuschauen. Wow. Okay,
+
+37
+00:01:13,355 --> 00:01:16,683
+ das ist irre. Äh, ich versuche mal,
+
+38
+00:01:15,714 --> 00:01:18,246
+ ein paar herauszupicken. Wir haben Peru
+
+39
+00:01:17,246 --> 00:01:20,388
+. Äh, ich sehe. Oh mein Gott. Ich kann
+
+40
+00:01:19,440 --> 00:01:26,802
+ das kaum Wow. Okay, wir haben äh
+
+41
+00:01:25,886 --> 00:01:29,887
+ Zürich, Southampton, Nashville, äh
+
+42
+00:01:28,970 --> 00:01:33,221
+ ich sehe Kolumbien, Florida, Äthiopien
+
+43
+00:01:32,221 --> 00:01:36,381
+, Simbabwe. Wow. Äh, Indien. Vielen
+
+44
+00:01:35,412 --> 00:01:37,635
+ Dank an alle, die so früh aufgestanden
+
+45
+00:01:36,667 --> 00:01:38,764
+ sind oder zu so unmöglichen Zeiten
+
+46
+00:01:37,796 --> 00:01:40,364
+ dabei sind. Ich weiß. Ich glaube, in
+
+47
+00:01:39,398 --> 00:01:41,660
+ Europa ist es eine vernünftige Zeit.
+
+48
+00:01:40,760 --> 00:01:43,282
+ Ich glaube, in Indien ist es ziemlich
+
+49
+00:01:42,323 --> 00:01:45,252
+ spät. Ähm, ich sehe eine Menge Leute
+
+50
+00:01:44,302 --> 00:01:47,207
+ aus äh ich glaube, da war auch jemand
+
+51
+00:01:46,257 --> 00:01:49,140
+ aus China dabei. Äh, okay. Wir haben
+
+52
+00:01:48,178 --> 00:01:50,942
+ New York. Wir haben Ägypten. Äh, oh,
+
+53
+00:01:49,973 --> 00:01:51,995
+ ich war tatsächlich vor ein paar
+
+54
+00:01:51,026 --> 00:01:53,708
+ Jahren in Ägypten. Äh, in Kairo. Es
+
+55
+00:01:52,736 --> 00:01:55,304
+ war fantastisch. Oh, aus dem Baskenland
+
+56
+00:01:54,304 --> 00:01:56,781
+, glaube ich. Äh, ich glaube, eines
+
+57
+00:01:55,816 --> 00:01:58,099
+ unserer Teammitglieder, ist der nicht
+
+58
+00:01:57,133 --> 00:02:00,519
+ im Baskenland? Ähm, in in Spanien. Ja.
+
+59
+00:02:00,259 --> 00:02:04,147
+ Aserbaidschan. Okay, cool. Ich glaube,
+
+60
+00:02:03,185 --> 00:02:05,337
+ das ist das erste Mal, dass wir
+
+61
+00:02:04,374 --> 00:02:06,638
+ jemanden aus Aserbaidschan im Call
+
+62
+00:02:05,675 --> 00:02:09,610
+ haben. Wir haben Saudi-Arabien, Spanien
+
+63
+00:02:08,610 --> 00:02:12,059
+, äh Burkina Faso. Wow, das ist cool.
+
+64
+00:02:11,161 --> 00:02:13,924
+ Das ist wirklich cool. Beim letzten Mal
+
+65
+00:02:12,965 --> 00:02:15,564
+ hatten wir jemanden aus Madagaskar, das
+
+66
+00:02:14,605 --> 00:02:17,122
+ war für mich eine absolute Premiere.
+
+67
+00:02:16,222 --> 00:02:19,938
+ Myanmar, äh, Kasachstan, Indonesien.
+
+68
+00:02:19,038 --> 00:02:21,712
+ Wow. Danke fürs Dabeisein. Ich glaube,
+
+69
+00:02:20,742 --> 00:02:22,854
+ bei euch ist es gerade 2 Uhr morgens.
+
+70
+00:02:21,954 --> 00:02:23,753
+ Das weiß ich wirklich sehr zu
+
+71
+00:02:22,779 --> 00:02:26,021
+ schätzen. Reuben, wir haben RNA aus
+
+72
+00:02:25,096 --> 00:02:28,906
+ Norwegen. Äh, Tekashi aus Japan. Ich
+
+73
+00:02:27,948 --> 00:02:30,516
+ fliege tatsächlich morgen für meine
+
+74
+00:02:29,559 --> 00:02:32,798
+ Flitterwochen nach Japan. Ich werde
+
+75
+00:02:31,849 --> 00:02:34,841
+ also für 5 Tage in Korea sein und dann
+
+76
+00:02:33,841 --> 00:02:37,553
+, äh, in Tokio. Ähm, großartig.
+
+77
+00:02:36,653 --> 00:02:39,470
+ Penny aus Malaysia. Nochmals vielen
+
+78
+00:02:38,508 --> 00:02:40,804
+ Dank fürs Aufstehen oder für das
+
+79
+00:02:39,843 --> 00:02:44,089
+ lange Aufbleiben. Belgien, Irak, Indien
+
+80
+00:02:43,195 --> 00:02:46,256
+ wieder. Wow. Okay, das ist, das ist,
+
+81
+00:02:45,293 --> 00:02:47,615
+ das ist fantastisch. Ähm ja, ein
+
+82
+00:02:46,655 --> 00:02:49,095
+ großes Dankeschön an alle, die von
+
+83
+00:02:48,135 --> 00:02:50,803
+ überall auf der Welt dabei sind. Ähm
+
+84
+00:02:49,834 --> 00:02:51,748
+ ja, ich schaue mir gerade die
+
+85
+00:02:50,780 --> 00:02:53,398
+ Teilnehmerzahl an. Wir sind fast bei
+
+86
+00:02:52,454 --> 00:02:55,607
+ 1500 Teilnehmern, äh, nur hier. Äh,
+
+87
+00:02:54,639 --> 00:02:56,823
+ und ich weiß, dass im Laufe der Zeit
+
+88
+00:02:55,855 --> 00:02:58,039
+ noch viele weitere dazukommen werden.
+
+89
+00:02:57,219 --> 00:03:00,289
+ Sri Lanka, Ruanda, Hijara, schön, dich
+
+90
+00:02:59,342 --> 00:03:02,899
+ kennenzulernen. The tall aus Portugal.
+
+91
+00:03:02,159 --> 00:03:05,932
+ Okay. Während wir also warten–in ein
+
+92
+00:03:04,968 --> 00:03:07,306
+ paar Minuten werde ich wahrscheinlich
+
+93
+00:03:06,343 --> 00:03:08,645
+ eine kurze Umfrage starten, weil ich
+
+94
+00:03:07,681 --> 00:03:09,983
+ gerne verstehen würde, was für ein
+
+95
+00:03:09,019 --> 00:03:12,747
+ Forschertyp Sie sind. Wir haben alle
+
+96
+00:03:11,800 --> 00:03:14,570
+ Arten von Forschern, die Consensus
+
+97
+00:03:13,622 --> 00:03:16,601
+ nutzen und hier im Webinar sind, genau
+
+98
+00:03:15,653 --> 00:03:19,402
+ wie in den vorherigen auch. Wir würden
+
+99
+00:03:18,446 --> 00:03:21,028
+ gerne wissen, ob Sie in der privaten
+
+100
+00:03:20,072 --> 00:03:22,435
+ Forschung tätig sind, an einer
+
+101
+00:03:21,479 --> 00:03:24,193
+ Fakultät arbeiten, Doktorand sind oder
+
+102
+00:03:23,237 --> 00:03:25,687
+ kein Forscher, aber die Forschung
+
+103
+00:03:24,731 --> 00:03:27,142
+ lieben. Äh, bitte lassen Sie es uns
+
+104
+00:03:26,177 --> 00:03:28,808
+ hier wissen. Wow, diese Zahlen sind der
+
+105
+00:03:27,849 --> 00:03:32,079
+ Wahnsinn. Ähm, großartig. Cool. Wir
+
+106
+00:03:31,108 --> 00:03:33,153
+ haben jede Menge Fakultätsmitglieder
+
+107
+00:03:32,181 --> 00:03:34,782
+ dabei. Äh, das sieht nach, äh, ein
+
+108
+00:03:33,828 --> 00:03:36,619
+ paar hundert Fakultätsmitarbeitern aus
+
+109
+00:03:35,619 --> 00:03:38,411
+, die gerade an der Umfrage teilnehmen.
+
+110
+00:03:37,639 --> 00:03:40,155
+ Äh, wir haben Doktoranden, Leute aus
+
+111
+00:03:39,196 --> 00:03:41,753
+ der privaten Forschung, der klinischen
+
+112
+00:03:40,794 --> 00:03:42,982
+ Forschung, ähm, Studenten im
+
+113
+00:03:42,023 --> 00:03:45,429
+ Bachelorstudium. Ähm, klasse. Daniel
+
+114
+00:03:44,467 --> 00:03:46,684
+ sagt, er hat Consensus für drei
+
+115
+00:03:45,722 --> 00:03:48,326
+ Dissertationen verwendet. Vielen Dank,
+
+116
+00:03:47,371 --> 00:03:50,014
+ dass du ein Teil der Community bist,
+
+117
+00:03:49,059 --> 00:03:51,656
+ Daniel. Ähm, das macht uns sehr
+
+118
+00:03:50,702 --> 00:03:53,209
+ glücklich. Äh Tanish, du bist Student
+
+119
+00:03:52,242 --> 00:03:54,268
+ und interessierst dich für die
+
+120
+00:03:53,302 --> 00:03:55,526
+ Forschung. Das ist erst der Anfang
+
+121
+00:03:54,561 --> 00:03:57,039
+ deiner Reise. Ich denke, wie wir zeigen
+
+122
+00:03:56,076 --> 00:03:58,265
+ werden, wird es in der Forschung
+
+123
+00:03:57,302 --> 00:03:59,528
+ richtig spannend; im Vergleich zu
+
+124
+00:03:58,565 --> 00:04:00,755
+ meiner Zeit, als ich noch in der
+
+125
+00:03:59,792 --> 00:04:02,092
+ Forschung tätig war, etwa in einem
+
+126
+00:04:01,130 --> 00:04:03,505
+ Labor für chemische Materialien, hat
+
+127
+00:04:02,542 --> 00:04:04,880
+ sich die Welt grundlegend gewandelt.
+
+128
+00:04:04,080 --> 00:04:06,561
+ Ähm, William, Instruktionsbibliothekar
+
+129
+00:04:05,561 --> 00:04:07,739
+, danke für die Arbeit, die du
+
+130
+00:04:06,777 --> 00:04:09,412
+ leistest. Ich glaube, wir arbeiten mit
+
+131
+00:04:08,444 --> 00:04:10,618
+ sehr vielen Bibliothekaren zusammen,
+
+132
+00:04:09,651 --> 00:04:11,825
+ und wir sehen, dass Bibliothekare in
+
+133
+00:04:10,857 --> 00:04:13,031
+ gewisser Weise die neuen Wegbereiter
+
+134
+00:04:12,064 --> 00:04:14,336
+ für einen Großteil dieser Technologie
+
+135
+00:04:13,368 --> 00:04:15,542
+ im neuen Zeitalter sind und Menschen
+
+136
+00:04:14,575 --> 00:04:16,930
+ dabei helfen, sie gut zu nutzen. Also
+
+137
+00:04:15,973 --> 00:04:18,519
+ vielen Dank für alles, was ihr tut.
+
+138
+00:04:18,170 --> 00:04:20,841
+ Ähm, pflegerische Rechtsberatung. Das
+
+139
+00:04:19,877 --> 00:04:22,858
+ ist großartig. Danke, Lynn. Daniel,
+
+140
+00:04:21,896 --> 00:04:24,333
+ wir bekommen einige Hinweise, dass der
+
+141
+00:04:23,370 --> 00:04:25,505
+ Bildschirm etwas unscharf ist.
+
+142
+00:04:24,605 --> 00:04:27,667
+ Okay. Schon dabei. Alles klar. Lass uns
+
+143
+00:04:26,696 --> 00:04:28,608
+ zur normalen Bildschirmfreigabe
+
+144
+00:04:27,638 --> 00:04:29,823
+ zurückkehren. Probieren wir das mal.
+
+145
+00:04:30,360 --> 00:04:33,461
+ Ähm, okay. Ich werde hier unten den
+
+146
+00:04:32,510 --> 00:04:36,486
+ gesamten Desktop freigeben. Okay. Gebt
+
+147
+00:04:35,517 --> 00:04:37,931
+ mir Bescheid. Hat das funktioniert?
+
+148
+00:04:38,025 --> 00:04:40,019
+ Ja, das sieht super aus.
+
+149
+00:04:39,119 --> 00:04:42,883
+ Okay, großartig. Und, ähm, cool. Also
+
+150
+00:04:41,883 --> 00:04:44,252
+, lass mich diese Umfrage beenden. Ich
+
+151
+00:04:43,282 --> 00:04:45,367
+ glaube, wir haben eine Menge wirklich
+
+152
+00:04:44,396 --> 00:04:46,423
+ guter Antworten, oder ich lasse sie
+
+153
+00:04:45,452 --> 00:04:48,053
+ einfach noch ein bisschen offen. Und,
+
+154
+00:04:47,116 --> 00:04:50,393
+ ähm, ja, wir können jetzt loslegen
+
+155
+00:04:49,456 --> 00:04:52,902
+ und das Webinar beginnen. Und also,
+
+156
+00:04:51,945 --> 00:04:54,602
+ ähm, nochmals vielen Dank an alle für
+
+157
+00:04:53,645 --> 00:04:56,579
+ die Teilnahme. Das ist wirklich ein
+
+158
+00:04:55,639 --> 00:04:58,846
+ Höhepunkt für unsere Community. Und
+
+159
+00:04:57,882 --> 00:05:00,068
+ ich glaube, das sieht man hier in
+
+160
+00:04:59,104 --> 00:05:02,219
+ diesem Call ganz gut. Um zum Einstieg:
+
+161
+00:05:01,259 --> 00:05:03,819
+ Ich möchte nur, dass alle wissen, dass
+
+162
+00:05:02,859 --> 00:05:05,379
+ wir bei Consensus kein großer Konzern
+
+163
+00:05:04,419 --> 00:05:08,166
+ sind. Ähm, wir sind ein Team von etwa
+
+164
+00:05:07,229 --> 00:05:10,416
+ 20 Leuten in San Francisco. Aber wir
+
+165
+00:05:09,453 --> 00:05:11,753
+ sind alle ehemalige Forscher, ähm,
+
+166
+00:05:10,790 --> 00:05:13,201
+ oder haben, wissen Sie, Freunde in der
+
+167
+00:05:12,239 --> 00:05:14,687
+ Forschung oder Familie in der Forschung
+
+168
+00:05:13,687 --> 00:05:15,393
+, oder sind einfach
+
+169
+00:05:14,430 --> 00:05:16,879
+ Wissenschaftsbegeisterte, ähm, und wir
+
+170
+00:05:15,916 --> 00:05:18,327
+ wollten etwas bauen, das unser eigenes
+
+171
+00:05:17,364 --> 00:05:19,701
+ Problem löste, als wir Hunderte von
+
+172
+00:05:18,739 --> 00:05:21,150
+ Stunden damit verbrachten, nach Papern
+
+173
+00:05:20,187 --> 00:05:23,078
+ zu suchen. Ähm, daher kommt Consensus.
+
+174
+00:05:22,178 --> 00:05:24,674
+ Und auf dem Weg dorthin konnten wir mit
+
+175
+00:05:23,713 --> 00:05:26,171
+ einigen unglaublichen Beratern aus der
+
+176
+00:05:25,209 --> 00:05:27,591
+ Wissenschaft und aus dem Bereich der
+
+177
+00:05:26,629 --> 00:05:29,011
+ Suche zusammenarbeiten, ein wirklich
+
+178
+00:05:28,049 --> 00:05:30,507
+ starkes Team aufbauen und nun eine der
+
+179
+00:05:29,546 --> 00:05:31,889
+ größten Communities, ähm, in der
+
+180
+00:05:30,927 --> 00:05:33,424
+ Forschung, die versucht, Menschen dabei
+
+181
+00:05:32,462 --> 00:05:34,920
+ zu helfen, bessere Forschung schneller
+
+182
+00:05:33,959 --> 00:05:37,061
+ zu betreiben. Das soll heißen: Das
+
+183
+00:05:36,108 --> 00:05:38,743
+ gesamte Feedback und alles, was wir
+
+184
+00:05:37,790 --> 00:05:40,285
+ entwickeln, kommt direkt aus der
+
+185
+00:05:39,332 --> 00:05:42,215
+ Community. Das Hilfreichste, was wir
+
+186
+00:05:41,254 --> 00:05:43,601
+ von Ihnen allen hören können, ist
+
+187
+00:05:42,640 --> 00:05:44,910
+ einfach: Was sollen wir für euch
+
+188
+00:05:43,949 --> 00:05:46,484
+ entwickeln? Ähm, vor welchen Problemen
+
+189
+00:05:45,521 --> 00:05:47,697
+ steht ihr? Wie können wir helfen,
+
+190
+00:05:46,728 --> 00:05:49,018
+ diese zu lösen? Ähm, genau so sind
+
+191
+00:05:48,055 --> 00:05:50,461
+ wir, äh, dahin gekommen, wo wir heute
+
+192
+00:05:49,498 --> 00:05:52,338
+ stehen. Und, ähm, ich denke, für uns
+
+193
+00:05:51,388 --> 00:05:53,919
+ steht die Community wirklich im
+
+194
+00:05:52,968 --> 00:05:55,697
+ Mittelpunkt von allem, was wir tun.
+
+195
+00:05:55,372 --> 00:05:59,856
+ Ähm, und also cool. Lass uns, äh,
+
+196
+00:05:58,901 --> 00:06:01,759
+ loslegen. Ich möchte also kurz einen
+
+197
+00:06:00,807 --> 00:06:03,567
+ Überblick geben, was ihr aus diesem
+
+198
+00:06:02,616 --> 00:06:05,753
+ Webinar mitnehmen werdet. Und ähm
+
+199
+00:06:04,800 --> 00:06:07,531
+ falls Sie Fragen haben, der beste Weg
+
+200
+00:06:06,577 --> 00:06:09,355
+ für uns, Fragen zu sehen, ist, sie in
+
+201
+00:06:08,402 --> 00:06:11,503
+ das F&A-Tool zu schreiben. Unten am
+
+202
+00:06:10,562 --> 00:06:13,509
+ Zoom-Bildschirm sollten Sie einen
+
+203
+00:06:12,568 --> 00:06:15,507
+ kleinen F&A-Button sehen. Falls nicht,
+
+204
+00:06:14,537 --> 00:06:16,718
+ klicken Sie auf „Mehr“, dort sollte
+
+205
+00:06:15,748 --> 00:06:19,035
+ sich ein F&A-Bereich befinden. Ich sehe
+
+206
+00:06:18,097 --> 00:06:21,330
+ schon, dass dort eine ganze Reihe an
+
+207
+00:06:20,392 --> 00:06:24,454
+ Fragen eingegangen ist. Das ist der
+
+208
+00:06:23,500 --> 00:06:26,107
+ beste Weg für unser Team, diese zu
+
+209
+00:06:25,153 --> 00:06:27,857
+ sehen. Bei so vielen Leuten im Call–
+
+210
+00:06:26,857 --> 00:06:29,357
+ich glaube, wir sind jetzt bei fast
+
+211
+00:06:28,400 --> 00:06:30,771
+ 2.000 Personen–wird es im Chat
+
+212
+00:06:29,814 --> 00:06:32,556
+ ziemlich drunter und drüber gehen. Wir
+
+213
+00:06:31,603 --> 00:06:34,455
+ werden versuchen, alles zu beantworten,
+
+214
+00:06:33,503 --> 00:06:36,260
+ aber am besten stellen Sie Ihre Frage
+
+215
+00:06:35,307 --> 00:06:38,304
+ über das F&A-Tool. Ich werde sie dann
+
+216
+00:06:37,347 --> 00:06:39,599
+ live beantworten, oder andere
+
+217
+00:06:38,643 --> 00:06:41,327
+ Teammitglieder im Call werden ebenfalls
+
+218
+00:06:40,370 --> 00:06:44,264
+ dort Fragen beantworten. Was dieses
+
+219
+00:06:43,308 --> 00:06:46,000
+ Webinar betrifft, so soll es nicht nur
+
+220
+00:06:45,045 --> 00:06:48,275
+ rein informativ sein. Ein Teil besteht
+
+221
+00:06:47,342 --> 00:06:50,762
+ aus Folien, um zu verstehen, was ein
+
+222
+00:06:49,829 --> 00:06:53,182
+ MCP ist, wie man es am besten...ja,
+
+223
+00:06:52,249 --> 00:06:55,803
+ bitte sagen Sie Bescheid, falls jemand
+
+224
+00:06:54,870 --> 00:06:58,437
+ ein Echo hört. Ich sehe dazu ein paar
+
+225
+00:06:57,500 --> 00:07:00,727
+ Kommentare. Ich schaue mal, ob ich ein
+
+226
+00:06:59,781 --> 00:07:03,007
+ anderes Mikrofon verwenden kann. Kein
+
+227
+00:07:02,079 --> 00:07:07,210
+ Echo. Nein. Okay, gut. Ja. Wir möchten
+
+228
+00:07:06,266 --> 00:07:09,277
+ über das bloße Wissen hinausgehen,
+
+229
+00:07:08,332 --> 00:07:11,399
+ was ein MCP ist, wie man es verwendet
+
+230
+00:07:10,455 --> 00:07:13,803
+ oder wie man Consensus verbindet. Wir
+
+231
+00:07:12,847 --> 00:07:15,563
+ gehen zwar all diese Schritte mit Ihnen
+
+232
+00:07:14,607 --> 00:07:17,323
+ durch, aber der Kern des Webinars folgt
+
+233
+00:07:16,367 --> 00:07:19,536
+ im zweiten Teil. Wenn es eine Sache
+
+234
+00:07:18,579 --> 00:07:21,140
+ gibt, die Sie mitnehmen sollen, dann
+
+235
+00:07:20,184 --> 00:07:22,831
+ ist es die Frage: Wie kommen wir über
+
+236
+00:07:21,875 --> 00:07:25,087
+ das reine Suchen hinaus? Als wir in den
+
+237
+00:07:24,128 --> 00:07:26,713
+ letzten Monaten mit Forschern an diesem
+
+238
+00:07:25,753 --> 00:07:28,338
+ Connector für Claude gearbeitet haben,
+
+239
+00:07:27,379 --> 00:07:30,016
+ war genau das unsere Beobachtung. Wir
+
+240
+00:07:29,055 --> 00:07:31,387
+ sahen, wie Leute dazu übergingen,
+
+241
+00:07:30,427 --> 00:07:32,837
+ nicht nur Fragen zu stellen, sondern
+
+242
+00:07:31,876 --> 00:07:34,326
+ maßgeschneiderte Recherche-Workflows
+
+243
+00:07:33,365 --> 00:07:35,423
+ für Literaturübersichten,
+
+244
+00:07:34,462 --> 00:07:36,990
+ Stipendiensuche und Lehrplanentwicklung
+
+245
+00:07:36,029 --> 00:07:38,801
+ zu erstellen. Und genau das werden wir
+
+246
+00:07:37,844 --> 00:07:40,379
+ Ihnen in der zweiten Hälfte zeigen.
+
+247
+00:07:39,554 --> 00:07:41,974
+ Bleiben Sie also unbedingt bis zum Ende
+
+248
+00:07:41,010 --> 00:07:43,383
+ dabei. Es wird unglaublich wertvoll
+
+249
+00:07:42,421 --> 00:07:44,928
+ werden. Außerdem haben wir einen
+
+250
+00:07:43,969 --> 00:07:46,493
+ kompletten Kurs auf YouTube erstellt,
+
+251
+00:07:45,534 --> 00:07:48,099
+ den wir an alle hier versenden werden.
+
+252
+00:07:47,241 --> 00:07:49,283
+ Falls es also etwas zu schnell geht
+
+253
+00:07:48,312 --> 00:07:50,354
+ oder Sie sich überfordert fühlen,
+
+254
+00:07:49,384 --> 00:07:51,543
+ keine Sorge. Wir haben alles für Sie
+
+255
+00:07:50,572 --> 00:07:52,609
+ aufbereitet. Ich habe tatsächlich das
+
+256
+00:07:51,633 --> 00:07:53,525
+ letzte Wochenende damit verbracht, das
+
+257
+00:07:52,548 --> 00:07:54,661
+ alles zu filmen. Wir haben das Ganze
+
+258
+00:07:53,694 --> 00:07:55,944
+ also in sechs Teile unterteilt. Sie
+
+259
+00:07:54,980 --> 00:07:57,255
+ können es sich jederzeit auf Abruf
+
+260
+00:07:56,291 --> 00:08:00,376
+ ansehen. Doch zunächst einmal: Mein
+
+261
+00:07:59,420 --> 00:08:01,921
+ Name ist Daniel. Ich leite den
+
+262
+00:08:00,975 --> 00:08:03,865
+ Wachstums-und Community-Bereich bei
+
+263
+00:08:02,919 --> 00:08:05,740
+ Consensus. Ich arbeite mit Forschern
+
+264
+00:08:04,783 --> 00:08:07,227
+ weltweit zusammen und helfe ihnen,
+
+265
+00:08:06,269 --> 00:08:09,300
+ Consensus zu nutzen. Daher stammen auch
+
+266
+00:08:08,356 --> 00:08:11,399
+ viele der Informationen aus dem MCP.
+
+267
+00:08:10,639 --> 00:08:13,664
+ Ich verbringe den Großteil meiner Zeit
+
+268
+00:08:12,716 --> 00:08:15,585
+ damit, mit Forschern, Bibliothekaren
+
+269
+00:08:14,637 --> 00:08:17,662
+ und Lehrkräften auf der ganzen Welt zu
+
+270
+00:08:16,714 --> 00:08:19,428
+ sprechen, um zu verstehen, welche
+
+271
+00:08:18,480 --> 00:08:22,336
+ Probleme sie lösen. Wenn Sie auf
+
+272
+00:08:21,389 --> 00:08:24,461
+ LinkedIn sind, vernetzen Sie sich gerne
+
+273
+00:08:23,514 --> 00:08:26,721
+ mit mir. Wir posten dort Updates,
+
+274
+00:08:25,764 --> 00:08:28,298
+ Tutorials, Interviews und Dinge, die
+
+275
+00:08:27,341 --> 00:08:29,917
+ für Sie hilfreich sein könnten, und
+
+276
+00:08:28,960 --> 00:08:31,451
+ Sie können mir auch jederzeit eine
+
+277
+00:08:30,494 --> 00:08:33,728
+ Nachricht senden. Ich helfe Ihnen gerne
+
+278
+00:08:32,781 --> 00:08:35,577
+ dabei, die richtigen Forscher oder
+
+279
+00:08:34,630 --> 00:08:37,581
+ Ressourcen zu finden. Wir haben auch
+
+280
+00:08:36,615 --> 00:08:38,819
+ noch ein paar andere Teammitglieder
+
+281
+00:08:37,853 --> 00:08:40,392
+ dabei. Eric, möchtest du dich kurz
+
+282
+00:08:39,436 --> 00:08:40,920
+ vorstellen?
+
+283
+00:08:41,020 --> 00:08:44,646
+ Gerne. Vielen Dank, dass Sie alle hier
+
+284
+00:08:43,691 --> 00:08:47,057
+ sind. Das bedeutet uns unglaublich viel
+
+285
+00:08:46,057 --> 00:08:48,782
+. Mein Name ist Eric Olsson. Ich bin
+
+286
+00:08:47,831 --> 00:08:50,599
+ Mitbegründer und CEO von Consensus.
+
+287
+00:08:49,899 --> 00:08:52,834
+ Ich arbeite eng mit Daniel zusammen und
+
+288
+00:08:51,883 --> 00:08:54,818
+ habe hoffentlich einige von Ihnen heute
+
+289
+00:08:53,868 --> 00:08:57,220
+ schon im Call getroffen. Währenddessen
+
+290
+00:08:56,272 --> 00:08:59,282
+ werde ich zusammen mit ein paar anderen
+
+291
+00:08:58,334 --> 00:09:01,189
+ Teammitgliedern wie erwähnt im Chat
+
+292
+00:09:00,241 --> 00:09:02,449
+ sein. Wenn Sie also Fragen haben,
+
+293
+00:09:01,480 --> 00:09:03,709
+ stellen Sie diese bitte im F&A-Bereich.
+
+294
+00:09:02,809 --> 00:09:05,234
+ Wir werden unser Bestes geben, sie zu
+
+295
+00:09:04,272 --> 00:09:06,811
+ beantworten. Sollte es Probleme mit
+
+296
+00:09:05,855 --> 00:09:08,320
+ Echos oder der Lautstärke geben,
+
+297
+00:09:07,364 --> 00:09:09,917
+ schreiben Sie es bitte in den Chat,
+
+298
+00:09:08,961 --> 00:09:11,470
+ damit wir versuchen können, es zu
+
+299
+00:09:10,515 --> 00:09:14,319
+ beheben. Die häufigste Frage bisher
+
+300
+00:09:13,399 --> 00:09:18,106
+ ist: Wird dies aufgezeichnet? Ja, das
+
+301
+00:09:17,159 --> 00:09:19,839
+ wird es, und wir senden Ihnen im
+
+302
+00:09:18,892 --> 00:09:21,940
+ Anschluss eine Aufzeichnung zu, die Sie
+
+303
+00:09:20,993 --> 00:09:24,899
+ gerne mit Kollegen teilen können. Also
+
+304
+00:09:23,939 --> 00:09:26,459
+ noch einmal vielen Dank, dass Sie hier
+
+305
+00:09:25,499 --> 00:09:28,399
+ sind. Es bedeutet uns sehr viel und Sie
+
+306
+00:09:27,445 --> 00:09:30,032
+ sind bei Daniel in besten Händen,
+
+307
+00:09:29,079 --> 00:09:31,573
+ während wir im Chat Ihre Fragen
+
+308
+00:09:30,619 --> 00:09:33,319
+ beantworten. Zurück zu dir, Daniel.
+
+309
+00:09:32,486 --> 00:09:35,568
+ Großartig. Cool. Sehr schön. Ich
+
+310
+00:09:34,596 --> 00:09:36,689
+ werde jetzt eine weitere kurze Umfrage
+
+311
+00:09:35,718 --> 00:09:38,406
+ starten. Ähm, und für diesen Teil,
+
+312
+00:09:37,456 --> 00:09:40,267
+ ähm, was ich gerne hätte, wenn ich
+
+313
+00:09:39,318 --> 00:09:41,978
+ finde, wo das ist, ist, ähm, ich
+
+314
+00:09:41,028 --> 00:09:43,990
+ möchte ein Gefühl dafür bekommen, oh
+
+315
+00:09:43,040 --> 00:09:46,002
+ mein Gott, Allison, wenn du die Umfrage
+
+316
+00:09:45,053 --> 00:09:47,914
+ finden kannst, das wäre Oh, ich habe
+
+317
+00:09:46,964 --> 00:09:49,897
+ sie gefunden. Okay, cool. Ähm,
+
+318
+00:09:48,960 --> 00:09:51,882
+ großartig. Ja. Äh, wenn ihr uns
+
+319
+00:09:50,924 --> 00:09:53,437
+ wissen lassen könntet, wie vertraut
+
+320
+00:09:52,479 --> 00:09:54,783
+ ihr aktuell mit der Nutzung von
+
+321
+00:09:53,825 --> 00:09:56,170
+ KI-Tools seid oder ähm, wie ihr
+
+322
+00:09:55,212 --> 00:09:57,695
+ KI-Tools einsetzt. Also, ihr solltet
+
+323
+00:09:56,732 --> 00:09:59,134
+ ein kleines äh Umfrage-Fenster sehen.
+
+324
+00:09:58,499 --> 00:10:00,621
+ Das hilft mir einfach dabei, ähm
+
+325
+00:09:59,655 --> 00:10:01,743
+ herauszufinden, wo ich mehr Zeit
+
+326
+00:10:00,777 --> 00:10:02,899
+ verbringen sollte, ähm wie viele
+
+327
+00:10:01,933 --> 00:10:04,056
+ Grundlagen ich abdecken sollte im
+
+328
+00:10:03,090 --> 00:10:05,416
+ Vergleich zu, ihr wisst schon, wie viel
+
+329
+00:10:04,450 --> 00:10:06,674
+ von den fortgeschrittenen Themen ich
+
+330
+00:10:05,708 --> 00:10:08,273
+ behandeln kann. Ähm fühlt euch frei,
+
+331
+00:10:07,308 --> 00:10:09,580
+ einfach ehrlich zu antworten. Macht
+
+332
+00:10:08,610 --> 00:10:10,798
+ euch keine Sorgen, falls ihr gar nichts
+
+333
+00:10:09,828 --> 00:10:12,505
+ davon nutzt. Äh ich werde ohnehin ein
+
+334
+00:10:11,554 --> 00:10:14,251
+ paar Grundlagen vermitteln. Äh aber
+
+335
+00:10:13,287 --> 00:10:15,478
+ das hilft mir einfach ein Gefühl
+
+336
+00:10:14,514 --> 00:10:16,884
+ dafür zu bekommen, wo jeder hier ähm
+
+337
+00:10:15,920 --> 00:10:19,386
+ im Raum steht. Und es sieht ungefähr
+
+338
+00:10:18,428 --> 00:10:21,361
+ so aus, wie ich es erwartet habe. Ähm
+
+339
+00:10:20,407 --> 00:10:23,050
+ viele Leute nutzen, ihr wisst schon,
+
+340
+00:10:22,096 --> 00:10:24,785
+ einfach ChatGPT für Chats oder nicht
+
+341
+00:10:23,830 --> 00:10:26,686
+ LLMs. Äh wir haben tatsächlich einige
+
+342
+00:10:25,724 --> 00:10:28,182
+ Leute, mehr als ich dachte, die Claude
+
+343
+00:10:27,220 --> 00:10:29,851
+ mit Connectors verwenden. Äh was was
+
+344
+00:10:28,903 --> 00:10:31,630
+ wirklich cool ist. Äh und dann äh
+
+345
+00:10:30,671 --> 00:10:33,069
+ auch einige Leute, die Claude-Code
+
+346
+00:10:32,111 --> 00:10:34,889
+ nutzen. Und daher ähm keine Sorge, äh
+
+347
+00:10:33,934 --> 00:10:36,593
+ wir werden in dieser Sitzung nicht in
+
+348
+00:10:35,638 --> 00:10:38,173
+ irgendwelchen Code eintauchen. Es
+
+349
+00:10:37,218 --> 00:10:39,973
+ sollte also äh für jeden nutzbar sein
+
+350
+00:10:38,973 --> 00:10:40,772
+. Und wenn ihr einige der
+
+351
+00:10:39,800 --> 00:10:41,909
+ fortgeschritteneren Tools nutzt, werdet
+
+352
+00:10:40,937 --> 00:10:43,047
+ ihr wissen, wie ihr es anpassen könnt.
+
+353
+00:10:42,147 --> 00:10:44,700
+ Ähm und falls nicht, bekommt ihr eine
+
+354
+00:10:43,741 --> 00:10:46,131
+ wirklich gute Einführung, wie ihr
+
+355
+00:10:45,172 --> 00:10:47,440
+ anfangen könnt, diese KI-Tools
+
+356
+00:10:46,481 --> 00:10:48,953
+ tatsächlich mehr zu nutzen und ähm
+
+357
+00:10:47,994 --> 00:10:49,975
+ eine Art personalisierte
+
+358
+00:10:49,016 --> 00:10:51,439
+ Research-Workflows aufzubauen. Ich
+
+359
+00:10:50,471 --> 00:10:52,724
+ werde diese Umfrage also jetzt beenden.
+
+360
+00:10:51,824 --> 00:10:53,973
+ Danke euch allen für die Teilnahme.
+
+361
+00:10:53,073 --> 00:10:56,793
+ Ähm das ist sehr hilfreich und nett.
+
+362
+00:10:55,893 --> 00:10:59,969
+ Also lasst uns zu ähm äh Teil eins
+
+363
+00:10:59,054 --> 00:11:03,031
+ kommen. Es gibt also zwei Teile in
+
+364
+00:11:02,102 --> 00:11:05,755
+ diesem Webinar. Der erste wird eher
+
+365
+00:11:04,808 --> 00:11:07,717
+ konzeptionell sein. Wir werden also ein
+
+366
+00:11:06,760 --> 00:11:09,176
+ grundlegendes Verständnis dafür
+
+367
+00:11:08,219 --> 00:11:10,764
+ schaffen, was der Consensus MCP ist,
+
+368
+00:11:09,807 --> 00:11:12,438
+ was generell ein Connector ist und wie
+
+369
+00:11:11,481 --> 00:11:14,177
+ man Consensus mit Claude verbindet. Wir
+
+370
+00:11:13,208 --> 00:11:15,355
+ werden also tatsächlich hingehen und
+
+371
+00:11:14,386 --> 00:11:16,502
+ den Connector hinzufügen, der jetzt
+
+372
+00:11:15,533 --> 00:11:18,024
+ live ist. Ihr könnt das also alle auch
+
+373
+00:11:17,062 --> 00:11:19,133
+ machen. Äh und dann werden wir
+
+374
+00:11:18,164 --> 00:11:20,325
+ anfangen darüber zu sprechen, wie man
+
+375
+00:11:19,355 --> 00:11:22,993
+ über das Suchen hinausgeht. Die zweite
+
+376
+00:11:22,040 --> 00:11:24,889
+ Frage äh wird sich um den zweiten Teil
+
+377
+00:11:23,937 --> 00:11:26,786
+ drehen, der wird sich um den Aufbau von
+
+378
+00:11:25,833 --> 00:11:29,064
+ Workflows drehen. Jetzt gehen wir über
+
+379
+00:11:28,104 --> 00:11:30,591
+ die Suche hinaus, und ehrlich gesagt:
+
+380
+00:11:29,631 --> 00:11:32,199
+ Falls Sie jetzt gerade dazustoßen oder
+
+381
+00:11:31,239 --> 00:11:33,646
+ die Aufzeichnung sehen, schauen Sie
+
+382
+00:11:32,686 --> 00:11:34,851
+ sich diesen Teil an, wenn Sie
+
+383
+00:11:33,892 --> 00:11:36,339
+ überhaupt etwas davon sehen wollen.
+
+384
+00:11:35,612 --> 00:11:37,944
+ Ähm, hier gelangen wir von dem, was
+
+385
+00:11:36,981 --> 00:11:39,388
+ ich Stufe eins nennen würde, also der
+
+386
+00:11:38,425 --> 00:11:40,795
+ Suche, hin dazu, Dinge zu entwickeln,
+
+387
+00:11:39,832 --> 00:11:41,979
+ die wirklich personalisiert und
+
+388
+00:11:41,016 --> 00:11:43,208
+ nützlich sind. Und wir haben eine
+
+389
+00:11:42,238 --> 00:11:44,073
+ ganze Reihe von Vorlagen und
+
+390
+00:11:43,103 --> 00:11:45,176
+ Anleitungen für Sie erstellt, damit
+
+391
+00:11:44,206 --> 00:11:48,919
+ Sie genau das tun können. Großartig.
+
+392
+00:11:51,219 --> 00:11:54,406
+ Um anzufangen, ähm, wissen Sie, ich
+
+393
+00:11:53,467 --> 00:11:56,715
+ glaube, wir alle waren in den letzten
+
+394
+00:11:55,776 --> 00:11:58,963
+ ein bis maximal zwei Jahren ziemlich
+
+395
+00:11:58,024 --> 00:12:01,333
+ beeindruckt davon, wie weit sich viele
+
+396
+00:12:00,394 --> 00:12:03,460
+ dieser Tools entwickelt haben, von
+
+397
+00:12:05,359 --> 00:12:07,973
+ seltsamen, interessanten Spielereien
+
+398
+00:12:07,018 --> 00:12:09,633
+ hin zu Dingen, die in unserem Alltag
+
+399
+00:12:08,678 --> 00:12:11,625
+ tatsächlich sehr nützlich sind. Dinge
+
+400
+00:12:10,670 --> 00:12:13,121
+ wie Planung, Unterstützung beim
+
+401
+00:12:12,166 --> 00:12:14,933
+ Schreiben, Hilfe beim Nachdenken, ähm,
+
+402
+00:12:13,979 --> 00:12:16,655
+ wissen Sie, jemanden zum Austausch zu
+
+403
+00:12:15,701 --> 00:12:18,332
+ haben, mit dem man chatten kann, war
+
+404
+00:12:17,377 --> 00:12:20,068
+ wirklich hilfreich. Ich weiß, für
+
+405
+00:12:19,110 --> 00:12:21,410
+ mich persönlich und für viele
+
+406
+00:12:20,452 --> 00:12:23,088
+ Forscher, mit denen ich gesprochen habe
+
+407
+00:12:22,088 --> 00:12:24,388
+, hilft es auch, Arbeiten etwas
+
+408
+00:12:23,430 --> 00:12:25,982
+ schneller zu schreiben und die eigene
+
+409
+00:12:25,024 --> 00:12:27,492
+ Arbeit noch einmal zu überprüfen,
+
+410
+00:12:26,534 --> 00:12:28,877
+ bevor man sie einreicht oder die
+
+411
+00:12:27,919 --> 00:12:30,093
+ eigentliche Forschungsarbeit
+
+412
+00:12:29,135 --> 00:12:32,281
+ durchführt. Aber eines haben wir von
+
+413
+00:12:31,328 --> 00:12:33,963
+ Forschern überall gehört und auch
+
+414
+00:12:33,010 --> 00:12:35,692
+ selbst festgestellt: Während KI bei
+
+415
+00:12:34,739 --> 00:12:37,514
+ der Planung extrem leistungsfähig und
+
+416
+00:12:36,561 --> 00:12:39,243
+ sehr flexibel ist, ähm, ist sie bei
+
+417
+00:12:38,290 --> 00:12:41,579
+ der Recherche sehr schlecht. Ähm, und
+
+418
+00:12:40,614 --> 00:12:42,824
+ letztendlich liegt das daran, dass
+
+419
+00:12:41,860 --> 00:12:43,998
+ viele dieser KI-Tools nicht für
+
+420
+00:12:43,034 --> 00:12:45,350
+ akademische Forschung auf die Art und
+
+421
+00:12:44,386 --> 00:12:46,738
+ Weise konzipiert sind, wie Sie und ich
+
+422
+00:12:45,773 --> 00:12:48,144
+ wissenschaftlich arbeiten. Sie
+
+423
+00:12:47,179 --> 00:12:49,489
+ durchsuchen das gesamte Internet, was
+
+424
+00:12:48,524 --> 00:12:50,693
+ ein Kernproblem darstellt, da sie
+
+425
+00:12:49,728 --> 00:12:51,920
+ wichtige Artikel übersehen. Sie
+
+426
+00:12:50,953 --> 00:12:53,515
+ verlinken auf falsche Ergebnisse. Und
+
+427
+00:12:52,554 --> 00:12:55,031
+ ich glaube, das eigentliche Problem im
+
+428
+00:12:54,070 --> 00:12:56,509
+ Kern ist, dass sie Forschung wie jede
+
+429
+00:12:55,548 --> 00:12:58,643
+ andere Webseite behandeln. Während wir
+
+430
+00:12:57,687 --> 00:13:00,304
+ als Forscher wissen, dass es so viele
+
+431
+00:12:59,348 --> 00:13:02,008
+ andere Faktoren gibt, die, wissen Sie,
+
+432
+00:13:01,052 --> 00:13:03,407
+ die Qualität einer Arbeit, die
+
+433
+00:13:02,451 --> 00:13:04,806
+ Relevanz einer Arbeit und ihren
+
+434
+00:13:03,849 --> 00:13:06,292
+ tatsächlichen Nutzen für unsere
+
+435
+00:13:05,335 --> 00:13:09,937
+ Studie ausmachen. Aber eine Frage, die
+
+436
+00:13:08,985 --> 00:13:11,710
+ von vielen Forschern aufkam, als wir
+
+437
+00:13:10,758 --> 00:13:13,626
+ darüber nachdachten, wie wir am besten
+
+438
+00:13:12,674 --> 00:13:15,543
+ mit diesen Tools arbeiten können, war:
+
+439
+00:13:14,591 --> 00:13:17,412
+ Was wäre, wenn diese Tools wie Claude
+
+440
+00:13:16,460 --> 00:13:19,089
+ oder ChatGPT in einer akademischen
+
+441
+00:13:18,137 --> 00:13:20,957
+ Datenbank suchen und relevante Artikel
+
+442
+00:13:20,005 --> 00:13:23,309
+ zurückgeben könnten? Anstatt sich
+
+443
+00:13:22,343 --> 00:13:24,575
+ also auf die Suche und all die damit
+
+444
+00:13:23,609 --> 00:13:25,909
+ verbundenen Probleme zu konzentrieren,
+
+445
+00:13:24,943 --> 00:13:27,003
+ geht es darum, tatsächlich nur
+
+446
+00:13:26,037 --> 00:13:28,337
+ relevante Artikel zu erhalten und sich
+
+447
+00:13:27,371 --> 00:13:29,671
+ dann auf die Flexibilität und Planung
+
+448
+00:13:28,705 --> 00:13:31,689
+ zu fokussieren. Und so sind wir an die
+
+449
+00:13:30,730 --> 00:13:33,186
+ Situation herangegangen: Wie können
+
+450
+00:13:32,226 --> 00:13:34,763
+ wir uns mit diesen Tools abstimmen und
+
+451
+00:13:33,804 --> 00:13:36,179
+ dazu beitragen, sie zu nutzen, und
+
+452
+00:13:35,219 --> 00:13:37,554
+ Ihnen helfen, Consensus mit ihnen
+
+453
+00:13:36,594 --> 00:13:40,404
+ einzusetzen? Die Frage, die wir uns und
+
+454
+00:13:39,450 --> 00:13:42,214
+ den Forschern gestellt haben, war: Was
+
+455
+00:13:41,260 --> 00:13:43,142
+ wäre, wenn wir die
+
+456
+00:13:42,188 --> 00:13:44,488
+ Planungsfähigkeiten und die
+
+457
+00:13:43,534 --> 00:13:46,298
+ Flexibilität von KI-Tools wie ChatGPT
+
+458
+00:13:45,344 --> 00:13:47,690
+ und Claude mit der Fähigkeit
+
+459
+00:13:46,736 --> 00:13:49,546
+ kombinieren könnten, zuverlässig nach
+
+460
+00:13:48,593 --> 00:13:52,026
+ Forschungsergebnissen zu suchen? So
+
+461
+00:13:51,077 --> 00:13:53,969
+ entstand der Consensus-Connector für
+
+462
+00:13:53,021 --> 00:13:56,379
+ Claude oder ChatGPT. Dies ist also eine
+
+463
+00:13:55,425 --> 00:13:57,870
+ Möglichkeit, Ihre KI-Tools mit
+
+464
+00:13:56,917 --> 00:13:59,362
+ Consensus zu verbinden, um nach
+
+465
+00:13:58,408 --> 00:14:01,180
+ wissenschaftlichen Arbeiten zu suchen.
+
+466
+00:14:00,813 --> 00:14:03,093
+ Falls Sie noch nicht vertraut damit
+
+467
+00:14:02,130 --> 00:14:04,411
+ sind–ich gehe davon aus, dass die
+
+468
+00:14:03,447 --> 00:14:05,728
+ meisten von Ihnen Consensus kennen,
+
+469
+00:14:04,764 --> 00:14:07,082
+ aber vielleicht waren Sie eine Weile
+
+470
+00:14:06,118 --> 00:14:08,545
+ nicht mehr hier oder sehen es heute zum
+
+471
+00:14:07,582 --> 00:14:10,465
+ ersten Mal. Es gibt einige Gründe,
+
+472
+00:14:09,499 --> 00:14:11,764
+ warum wir zu einem der meistgenutzten
+
+473
+00:14:10,798 --> 00:14:12,926
+ Tools für die Forschung weltweit
+
+474
+00:14:11,960 --> 00:14:14,659
+ geworden sind. Der erste Grund ist,
+
+475
+00:14:13,699 --> 00:14:15,979
+ dass wir den größten Suchindex
+
+476
+00:14:15,019 --> 00:14:17,579
+ außerhalb von Google Scholar besitzen.
+
+477
+00:14:16,699 --> 00:14:19,148
+ Wir verfügen über mehr als 220
+
+478
+00:14:18,193 --> 00:14:20,733
+ Millionen von Fachleuten geprüfte
+
+479
+00:14:19,778 --> 00:14:22,499
+ Forschungsarbeiten aus allen wichtigen
+
+480
+00:14:21,544 --> 00:14:24,220
+ akademischen Datenbanken wie Semantic
+
+481
+00:14:23,265 --> 00:14:26,305
+ Scholar, OpenAlex und PubMed. Wir haben
+
+482
+00:14:25,362 --> 00:14:28,502
+ über 250.000 Zeitschriften sowie alle
+
+483
+00:14:27,559 --> 00:14:30,586
+ wichtigen Preprint-Archive wie arXiv
+
+484
+00:14:29,643 --> 00:14:34,000
+ und bioRxiv. Der zweite Grund ist, dass
+
+485
+00:14:33,043 --> 00:14:35,102
+ wir über diesen riesigen
+
+486
+00:14:34,144 --> 00:14:36,288
+ Forschungsindex hinaus auch
+
+487
+00:14:35,331 --> 00:14:37,899
+ Partnerschaften mit Verlagen pflegen.
+
+488
+00:14:37,899 --> 00:14:40,452
+ Wir konnten Partnerschaften mit
+
+489
+00:14:39,502 --> 00:14:42,205
+ Verlagen wie Wiley, SAGE, der APA,
+
+490
+00:14:41,255 --> 00:14:44,059
+ Taylor&Francis sowie ACS schließen,
+
+491
+00:14:44,783 --> 00:14:48,249
+ und vielen anderen. Dies ermöglicht es
+
+492
+00:14:47,311 --> 00:14:50,056
+ uns, sogar die Volltexte von
+
+493
+00:14:49,118 --> 00:14:52,173
+ Bezahlinhalten zu durchsuchen, um
+
+494
+00:14:51,236 --> 00:14:54,965
+ relevantere Artikel zu finden. Wie Sie
+
+495
+00:14:54,026 --> 00:14:57,390
+ sicher wissen, verrät das Abstract nur
+
+496
+00:14:56,451 --> 00:14:59,452
+ einen Teil, und ein Großteil der
+
+497
+00:14:58,513 --> 00:15:01,635
+ Relevanz steckt im Papier selbst–
+
+498
+00:15:00,635 --> 00:15:04,000
+genau diese können wir nun durchsuchen
+
+499
+00:15:03,000 --> 00:15:06,660
+. Der dritte Punkt ist, dass wir weit
+
+500
+00:15:05,698 --> 00:15:07,976
+ über eine einfache Stichwortsuche
+
+501
+00:15:07,013 --> 00:15:09,426
+ hinausgehen. Wenn Sie eine Suche in
+
+502
+00:15:08,465 --> 00:15:10,952
+ Consensus durchführen, betrachten wir
+
+503
+00:15:09,991 --> 00:15:12,521
+ nicht nur Schlagworte und Zitate. Wir
+
+504
+00:15:11,567 --> 00:15:14,275
+ gehen dabei um mehrere Ebenen tiefer.
+
+505
+00:15:13,375 --> 00:15:15,632
+ Wir nutzen nämlich eine semantische
+
+506
+00:15:14,667 --> 00:15:16,922
+ Suche. Das bedeutet, wir verstehen,
+
+507
+00:15:15,955 --> 00:15:18,272
+ welche Arbeiten inhaltlich tatsächlich
+
+508
+00:15:17,305 --> 00:15:19,715
+ dem entsprechen, wonach Sie suchen. Wir
+
+509
+00:15:18,757 --> 00:15:21,177
+ verfügen über benutzerdefinierte
+
+510
+00:15:20,218 --> 00:15:22,722
+ Modelle, die auf über 100 Millionen
+
+511
+00:15:21,764 --> 00:15:24,017
+ Fragen von Forschern aus jeder
+
+512
+00:15:23,058 --> 00:15:25,718
+ einzelnen Disziplin basieren. Dies
+
+513
+00:15:24,760 --> 00:15:27,009
+ hilft uns zu verstehen, welche
+
+514
+00:15:26,051 --> 00:15:28,509
+ Eigenschaften eines Papiers je nach
+
+515
+00:15:27,551 --> 00:15:30,009
+ Branche oder Fachgebiet, in dem Sie
+
+516
+00:15:29,050 --> 00:15:31,592
+ suchen, tatsächlich relevanter sind.
+
+517
+00:15:30,921 --> 00:15:33,569
+ Wir haben zum Beispiel gelernt, dass in
+
+518
+00:15:32,611 --> 00:15:35,048
+ der Gesundheits-oder medizinischen
+
+519
+00:15:34,091 --> 00:15:36,697
+ Forschung Aktualität und Qualität–
+
+520
+00:15:35,697 --> 00:15:38,261
+wie die Qualität der Fachzeitschrift
+
+521
+00:15:37,261 --> 00:15:39,909
+–wichtiger sind als Zitate, da neuere
+
+522
+00:15:38,952 --> 00:15:41,600
+ Ergebnisse im medizinischen Bereich oft
+
+523
+00:15:40,642 --> 00:15:43,249
+ deutlich anwendbarer sind, während in
+
+524
+00:15:42,291 --> 00:15:44,812
+ anderen Bereichen andere Qualitäten
+
+525
+00:15:43,855 --> 00:15:46,438
+ eine größere Rolle spielen. Deshalb
+
+526
+00:15:45,475 --> 00:15:47,653
+ gewichten wir all diese Faktoren
+
+527
+00:15:46,690 --> 00:15:49,043
+ unterschiedlich. Darüber hinaus bieten
+
+528
+00:15:48,073 --> 00:15:50,249
+ wir eine Vielzahl intelligenter Filter,
+
+529
+00:15:49,279 --> 00:15:51,455
+ die speziell für die wissenschaftliche
+
+530
+00:15:50,485 --> 00:15:52,872
+ Forschung entwickelt wurden. Also nicht
+
+531
+00:15:51,917 --> 00:15:54,644
+ nur die Anzahl der Zitate, sondern auch
+
+532
+00:15:53,688 --> 00:15:56,150
+ Dinge wie die Studienart oder die
+
+533
+00:15:55,194 --> 00:15:57,832
+ Zielpopulation ermöglichen es Ihnen,
+
+534
+00:15:56,877 --> 00:15:59,604
+ nach Artikeln zu filtern, die für Ihre
+
+535
+00:15:58,648 --> 00:16:02,691
+ Recherche wirklich relevant sind. Und
+
+536
+00:16:01,759 --> 00:16:05,327
+ genau das wollten wir mit diesen Tools
+
+537
+00:16:04,394 --> 00:16:08,698
+ erreichen und anbieten. Kommen wir also
+
+538
+00:16:07,741 --> 00:16:10,233
+ dazu, was ein MCP eigentlich ist–
+
+539
+00:16:09,233 --> 00:16:11,641
+vielleicht haben einige von Ihnen
+
+540
+00:16:10,683 --> 00:16:13,219
+ diesen Begriff schon einmal gehört.
+
+541
+00:16:12,777 --> 00:16:15,221
+ Und wenn Sie diesen Begriff „MCP“
+
+542
+00:16:14,260 --> 00:16:16,782
+ hören, denken Sie am besten einfach an
+
+543
+00:16:15,821 --> 00:16:18,109
+ das Wort „Connector“ bzw. „
+
+544
+00:16:17,109 --> 00:16:19,817
+Verbinder“. Ein MCP ist ein Connector
+
+545
+00:16:18,817 --> 00:16:21,105
+. Das ist lediglich der Fachbegriff
+
+546
+00:16:20,140 --> 00:16:23,429
+ dafür. Es ist eine Methode, um Ihr
+
+547
+00:16:22,500 --> 00:16:26,156
+ KI-Tool miteinander zu verbinden. Also
+
+548
+00:16:25,200 --> 00:16:27,789
+ zum Beispiel ChatGPT oder Claude mit
+
+549
+00:16:26,834 --> 00:16:29,988
+ jedem anderen Tool, das Sie nutzen. Und
+
+550
+00:16:29,027 --> 00:16:31,550
+ das gibt es heute überall um uns herum
+
+551
+00:16:30,550 --> 00:16:32,809
+. So bekommt Ihre Banking-App
+
+552
+00:16:31,850 --> 00:16:34,343
+ Informationen von Ihren Kreditkarten
+
+553
+00:16:33,385 --> 00:16:36,376
+ oder umgekehrt. Aber hier geht es eben
+
+554
+00:16:35,433 --> 00:16:38,204
+ um KI-Tools, KI-Dienste und die
+
+555
+00:16:37,261 --> 00:16:41,063
+ Werkzeuge, die sie verwenden. Ein
+
+556
+00:16:40,104 --> 00:16:42,636
+ wirklich interessantes Beispiel–und
+
+557
+00:16:41,677 --> 00:16:44,291
+ sofern ich keinen Kommentar sehe, werde
+
+558
+00:16:43,333 --> 00:16:49,069
+ ich ein wenig langsamer sprechen. Ein
+
+559
+00:16:48,139 --> 00:16:50,682
+ einfaches Beispiel zur
+
+560
+00:16:49,752 --> 00:16:52,506
+ Veranschaulichung ist der
+
+561
+00:16:51,576 --> 00:16:55,386
+ Gmail-Connector. Gmail hat also einen
+
+562
+00:16:54,450 --> 00:16:58,016
+ Connector in ChatGPT und Claude. Und
+
+563
+00:16:57,055 --> 00:16:59,498
+ was Sie damit tun können, ist, Ihrem
+
+564
+00:16:58,537 --> 00:17:01,059
+ KI-Tool Zugriff auf Gmail zu gewähren.
+
+565
+00:17:00,399 --> 00:17:03,576
+ ChatGPT oder Claude können also in
+
+566
+00:17:02,639 --> 00:17:05,879
+ Ihrem Namen Dinge tun, wie Entwürfe
+
+567
+00:17:04,941 --> 00:17:09,298
+ erstellen oder E-Mails durchsuchen. Es
+
+568
+00:17:08,348 --> 00:17:11,292
+ ist also eine Verbindung zwischen Ihrem
+
+569
+00:17:10,341 --> 00:17:14,481
+ KI-Tool und Gmail. Genauso ermöglicht
+
+570
+00:17:13,545 --> 00:17:16,988
+ der Consensus-Connector Ihrem KI-Tool,
+
+571
+00:17:16,052 --> 00:17:19,559
+ eine Suche in Consensus durchzuführen,
+
+572
+00:17:18,623 --> 00:17:21,873
+ alle verfügbaren Filter zu nutzen,
+
+573
+00:17:20,937 --> 00:17:23,609
+ woraufhin Consensus die 20
+
+574
+00:17:22,673 --> 00:17:27,715
+ relevantesten Artikel zurückgibt. Das
+
+575
+00:17:26,767 --> 00:17:29,535
+ erlaubt Ihnen, Ihr KI-Tool auf die
+
+576
+00:17:28,587 --> 00:17:31,250
+ Synthese, Analyse und Planung zu
+
+577
+00:17:30,302 --> 00:17:33,225
+ konzentrieren, während Consensus die
+
+578
+00:17:32,277 --> 00:17:35,252
+ wissenschaftliche Suche übernimmt, um
+
+579
+00:17:34,304 --> 00:17:37,944
+ relevante Artikel zu finden. So
+
+580
+00:17:36,997 --> 00:17:39,777
+ beseitigen Sie das Problem bei der
+
+581
+00:17:38,830 --> 00:17:41,767
+ Websuche, bei der oft Links oder URLs
+
+582
+00:17:40,820 --> 00:17:43,862
+ fehlen, da jede Quelle und jedes Zitat,
+
+583
+00:17:42,915 --> 00:17:45,852
+ das Consensus zurückgibt, ein echter
+
+584
+00:17:44,905 --> 00:17:47,947
+ Artikel mit einer echten DOI-Nummer ist
+
+585
+00:17:46,947 --> 00:17:49,761
+. Es ist in Consensus mit dem
+
+586
+00:17:48,805 --> 00:17:51,338
+ eigentlichen Artikel verknüpft und
+
+587
+00:17:50,381 --> 00:17:53,002
+ enthält Informationen wie den Autor,
+
+588
+00:17:52,046 --> 00:17:54,184
+ die Zitierhäufigkeit, die
+
+589
+00:17:53,228 --> 00:17:55,104
+ Fachzeitschrift, das
+
+590
+00:17:54,148 --> 00:17:56,768
+ Veröffentlichungsjahr und eine Reihe
+
+591
+00:17:55,812 --> 00:17:58,082
+ weiterer Faktoren, die der KI
+
+592
+00:17:57,126 --> 00:18:01,529
+ zusätzliche Informationen liefern. Was
+
+593
+00:18:00,579 --> 00:18:03,379
+ wir jetzt tun werden, ist: Wir legen
+
+594
+00:18:02,429 --> 00:18:05,393
+ direkt los. Ich werde meinen Bildschirm
+
+595
+00:18:04,439 --> 00:18:07,268
+ teilen. Ich werde Claude öffnen und
+
+596
+00:18:06,315 --> 00:18:09,166
+ Ihnen zeigen, wie man die Verbindung zu
+
+597
+00:18:08,213 --> 00:18:11,407
+ Consensus tatsächlich herstellt. Wir
+
+598
+00:18:10,457 --> 00:18:13,104
+ haben das erst vor ein paar Tagen
+
+599
+00:18:12,154 --> 00:18:15,100
+ veröffentlicht, es ist also noch stark
+
+600
+00:18:14,149 --> 00:18:16,861
+ in der Entwicklung. Wenn es also Dinge
+
+601
+00:18:15,898 --> 00:18:18,336
+ gibt, die Sie sich wünschen–ich sehe
+
+602
+00:18:17,372 --> 00:18:19,773
+ schon Fragen wie: Kann ich mehr als 20
+
+603
+00:18:18,810 --> 00:18:21,062
+ Arbeiten bekommen? Lassen Sie es uns
+
+604
+00:18:20,090 --> 00:18:22,488
+ wissen. Schreiben Sie diese Dinge in
+
+605
+00:18:21,527 --> 00:18:24,400
+ den Chat oder in die F&A. Genau dieses
+
+606
+00:18:23,445 --> 00:18:25,887
+ Feedback suchen wir, um das Tool
+
+607
+00:18:24,932 --> 00:18:27,646
+ gemeinsam mit Ihnen weiterzuentwickeln
+
+608
+00:18:26,691 --> 00:18:29,628
+ und wirklich nützlich zu machen. Aber
+
+609
+00:18:28,670 --> 00:18:31,186
+ schon heute eröffnet es Ihnen viele
+
+610
+00:18:30,228 --> 00:18:32,787
+ neue Möglichkeiten, die bisher nicht
+
+611
+00:18:31,829 --> 00:18:34,642
+ machbar waren. Ich zeige Ihnen Schritt
+
+612
+00:18:33,686 --> 00:18:36,247
+ für Schritt, wie das aussieht, denn
+
+613
+00:18:35,291 --> 00:18:37,835
+ Suchen ist nur die erste Stufe. Sie
+
+614
+00:18:36,868 --> 00:18:38,793
+ können zum Beispiel mehrere
+
+615
+00:18:37,826 --> 00:18:40,050
+ Suchanfragen miteinander verknüpfen.
+
+616
+00:18:39,150 --> 00:18:41,337
+ Ich werde Ihnen zeigen, was das alles
+
+617
+00:18:40,369 --> 00:18:44,160
+ bedeutet. Aber zunächst einmal: Lassen
+
+618
+00:18:43,235 --> 00:18:46,567
+ Sie mich schauen, ob ich meinen
+
+619
+00:18:45,642 --> 00:18:50,180
+ Claude-Bildschirm teilen kann. Hoppla.
+
+620
+00:18:49,780 --> 00:18:52,196
+ Geben Sie mir eine Sekunde, während
+
+621
+00:18:51,235 --> 00:18:57,315
+ ich das hier einrichte. Okay. Kann
+
+622
+00:18:56,414 --> 00:19:01,267
+ jeder hier Claude auf meinem Bildschirm
+
+623
+00:19:00,366 --> 00:19:06,490
+ sehen? Ja. Ja. Okay, cool. Großartig.
+
+624
+00:19:05,590 --> 00:19:07,871
+ Und wenn ich umschalte, können Sie die
+
+625
+00:19:06,903 --> 00:19:09,522
+ Folien sehen. Okay, super. Alles klar,
+
+626
+00:19:08,551 --> 00:19:11,579
+ ich habe es hinbekommen. Sehr schön.
+
+627
+00:19:10,679 --> 00:19:13,422
+ Wenn Sie Claude noch nicht benutzt
+
+628
+00:19:12,473 --> 00:19:15,319
+ haben: Es ist ChatGPT sehr ähnlich.
+
+629
+00:19:15,120 --> 00:19:17,167
+ Wir bringen bald einen
+
+630
+00:19:16,214 --> 00:19:18,976
+ ChatGPT-Connector heraus, mit dem Sie
+
+631
+00:19:18,024 --> 00:19:21,290
+ Ähnliches tun können. Ich habe Claude
+
+632
+00:19:20,344 --> 00:19:23,175
+ sehr viel genutzt. Es bietet mehr
+
+633
+00:19:22,228 --> 00:19:25,281
+ Möglichkeiten für komplexere Aufgaben
+
+634
+00:19:24,281 --> 00:19:27,228
+, und ich werde Ihnen einige davon im
+
+635
+00:19:26,281 --> 00:19:29,494
+ Laufe der Zeit zeigen. Davon abgesehen
+
+636
+00:19:28,544 --> 00:19:31,383
+ können Sie es sich im Grunde als das
+
+637
+00:19:30,433 --> 00:19:33,322
+ Äquivalent zu ChatGPT vorstellen, nur
+
+638
+00:19:32,372 --> 00:19:35,676
+ mit anderen Modellen. Es ist daher bei
+
+639
+00:19:34,749 --> 00:19:38,143
+ einer Vielzahl von Anwendern sehr
+
+640
+00:19:37,215 --> 00:19:40,105
+ beliebt. Aber wie gesagt, ich finde es
+
+641
+00:19:39,142 --> 00:19:41,551
+ für komplexere Aufgaben etwas besser.
+
+642
+00:19:40,651 --> 00:19:42,942
+ Es gibt hier einige Funktionen, die ich
+
+643
+00:19:41,975 --> 00:19:45,466
+ Ihnen zeigen werde. Zunächst einmal:
+
+644
+00:19:44,523 --> 00:19:47,687
+ Unser Consensus-Connector ist jetzt im
+
+645
+00:19:46,744 --> 00:19:50,646
+ Connector-Store live. Wenn Sie in
+
+646
+00:19:49,710 --> 00:19:52,764
+ Claude sind, klicken Sie auf das
+
+647
+00:19:51,828 --> 00:19:55,331
+ Plus-Symbol, gehen Sie zu „Connectors
+
+648
+00:19:54,331 --> 00:19:57,834
+“ und dann zu „Manage connectors“
+
+649
+00:19:56,834 --> 00:20:01,899
+. Hier klicken wir auf das Plus-Symbol,
+
+650
+00:20:00,960 --> 00:20:04,260
+ um „Browse connectors“ zu wählen.
+
+651
+00:20:03,419 --> 00:20:08,123
+ Jetzt sind wir im Connector-Store. Wenn
+
+652
+00:20:07,174 --> 00:20:10,058
+ ich nach „Consensus“ suche, sehen
+
+653
+00:20:09,109 --> 00:20:12,373
+ Sie, dass ich es direkt hier habe. Ich
+
+654
+00:20:11,412 --> 00:20:13,829
+ werde kurz die Verbindung trennen und
+
+655
+00:20:12,868 --> 00:20:15,362
+ wieder herstellen, damit Sie sehen, wie
+
+656
+00:20:14,400 --> 00:20:16,865
+ das aussieht. Wenn ich, ähm, hier,
+
+657
+00:20:15,904 --> 00:20:18,359
+ lassen Sie mich meins kurz entfernen,
+
+658
+00:20:17,399 --> 00:20:19,854
+ damit ich es neu hinzufügen kann und
+
+659
+00:20:18,893 --> 00:20:22,242
+ Sie den Vorgang sehen. Ähm, aber wenn
+
+660
+00:20:21,292 --> 00:20:23,867
+ ich hier reingehe und Consensus
+
+661
+00:20:22,918 --> 00:20:25,899
+ hinzufüge, öffnet sich als Erstes ein
+
+662
+00:20:24,950 --> 00:20:27,881
+ Fenster, das gerade auf meinem anderen
+
+663
+00:20:26,932 --> 00:20:30,109
+ Bildschirm erscheint. Mal sehen, ob ich
+
+664
+00:20:29,141 --> 00:20:35,533
+ das hierher ziehen kann. Cool. Äh ja,
+
+665
+00:20:34,597 --> 00:20:38,074
+ hier öffnet sich also ein Fenster für
+
+666
+00:20:37,138 --> 00:20:39,929
+ Ihr Consensus-Konto. Wenn Sie nicht
+
+667
+00:20:38,959 --> 00:20:40,770
+ angemeldet sind, werden Sie
+
+668
+00:20:39,800 --> 00:20:42,109
+ aufgefordert, sich einzuloggen. Ähm,
+
+669
+00:20:41,147 --> 00:20:43,643
+ Sie brauchen nicht den Max-Plan. Ähm,
+
+670
+00:20:42,676 --> 00:20:44,945
+ wenn Sie aber Claude Enterprise haben,
+
+671
+00:20:43,979 --> 00:20:46,092
+ funktioniert das auch. Äh, den
+
+672
+00:20:45,126 --> 00:20:47,490
+ Max-Plan benötigen Sie nicht. Ähm,
+
+673
+00:20:46,534 --> 00:20:49,121
+ das meiste davon können Sie im Chat
+
+674
+00:20:48,166 --> 00:20:50,621
+ erledigen, aber für manche Dinge
+
+675
+00:20:49,665 --> 00:20:52,384
+ empfehle ich einen Pro-Plan, um Co-Work
+
+676
+00:20:51,429 --> 00:20:54,653
+ zu nutzen. Ähm, aber in Consensus
+
+677
+00:20:53,708 --> 00:20:56,834
+ öffnet sich dieser Bildschirm. Sie
+
+678
+00:20:55,889 --> 00:20:59,048
+ klicken einfach auf „Zugriff erlauben
+
+679
+00:20:58,048 --> 00:21:00,874
+“ und dann sehen Sie zurück in
+
+680
+00:20:59,930 --> 00:21:02,756
+ Claude, dass es nun mit Consensus
+
+681
+00:21:01,812 --> 00:21:05,391
+ verbunden ist. Wenn ich also hier auf
+
+682
+00:21:04,441 --> 00:21:07,328
+ Consensus klicke, sehen Sie, dass dort
+
+683
+00:21:06,378 --> 00:21:09,315
+ „Trennen“ steht, was bedeutet, dass
+
+684
+00:21:08,365 --> 00:21:11,754
+ ich verbunden bin. Das bedeutet nun,
+
+685
+00:21:10,793 --> 00:21:13,013
+ dass es tatsächlich mit meinem
+
+686
+00:21:12,052 --> 00:21:14,520
+ Consensus-Konto verknüpft ist. Und
+
+687
+00:21:13,569 --> 00:21:16,487
+ falls Sie verschiedene Consensus-Pläne
+
+688
+00:21:15,537 --> 00:21:18,455
+ nutzen, gibt es unterschiedliche Limits
+
+689
+00:21:17,455 --> 00:21:20,324
+, die ich gleich erläutern kann, aber
+
+690
+00:21:19,373 --> 00:21:21,897
+ Sie können dies auch kostenlos
+
+691
+00:21:20,947 --> 00:21:23,283
+ verwenden. Sie können es also auch
+
+692
+00:21:22,314 --> 00:21:24,058
+ ohne Verbindung zu einem
+
+693
+00:21:23,089 --> 00:21:25,275
+ Consensus-Konto nutzen. Sie erhalten
+
+694
+00:21:24,306 --> 00:21:26,543
+ dann nur begrenzte Ergebnisse. Wenn Sie
+
+695
+00:21:25,569 --> 00:21:27,527
+ einen kostenlosen Plan haben, können
+
+696
+00:21:26,552 --> 00:21:28,498
+ Sie es trotzdem nutzen. Es gibt
+
+697
+00:21:27,534 --> 00:21:29,751
+ lediglich eine bestimmte Anzahl an
+
+698
+00:21:28,786 --> 00:21:31,088
+ Suchanfragen pro Monat. Und wenn Sie
+
+699
+00:21:30,120 --> 00:21:32,318
+ einen Pro-Plan haben, erhalten Sie die
+
+700
+00:21:31,350 --> 00:21:33,422
+ vollständigen Ergebnisse und eine
+
+701
+00:21:32,454 --> 00:21:34,715
+ größere Anzahl an Suchanfragen. Ich
+
+702
+00:21:33,755 --> 00:21:36,275
+ werde gleich noch auf all diese Zahlen
+
+703
+00:21:35,315 --> 00:21:38,710
+ eingehen. Aber lassen Sie uns nun
+
+704
+00:21:37,747 --> 00:21:41,773
+ testen, wie das funktioniert. Ich sage
+
+705
+00:21:40,867 --> 00:21:44,414
+ also zum Beispiel: „Finde
+
+706
+00:21:43,508 --> 00:21:47,621
+ Forschungsarbeiten zu Koffein und
+
+707
+00:21:46,715 --> 00:21:51,197
+ Demenz.“ Ich möchte nur
+
+708
+00:21:50,235 --> 00:21:52,706
+ sicherstellen, dass die Consensus-Suche
+
+709
+00:21:51,744 --> 00:21:54,510
+ aktiviert ist. Lassen Sie mich für
+
+710
+00:21:53,566 --> 00:21:56,672
+ diese Demonstration einige davon kurz
+
+711
+00:21:55,729 --> 00:21:58,459
+ ausschalten. Ähm, aber Sie sehen hier,
+
+712
+00:21:57,495 --> 00:22:00,093
+ dass Consensus aktiviert ist. Wenn ich
+
+713
+00:21:59,143 --> 00:22:01,919
+ hier also eine Suche durchführe und
+
+714
+00:22:00,968 --> 00:22:03,843
+ alles richtig funktioniert, werden wir
+
+715
+00:22:02,893 --> 00:22:05,472
+ sehen, wie es das Consensus-Tool
+
+716
+00:22:04,521 --> 00:22:07,701
+ tatsächlich nutzt. Sie sehen hier also
+
+717
+00:22:06,701 --> 00:22:09,215
+: „Suche nach verfügbaren Tools“.
+
+718
+00:22:08,519 --> 00:22:10,514
+ Es sieht so aus, als hätte es
+
+719
+00:22:09,547 --> 00:22:11,841
+ Consensus gefunden, und man sieht, dass
+
+720
+00:22:10,874 --> 00:22:13,168
+ es tatsächlich eine Suche in Consensus
+
+721
+00:22:12,201 --> 00:22:15,321
+ durchführt. Wenn ich diese Anfrage
+
+722
+00:22:14,368 --> 00:22:16,932
+ öffne, sehen Sie die eigentliche
+
+723
+00:22:15,980 --> 00:22:18,780
+ Abfrage, die Claude jetzt an Consensus
+
+724
+00:22:17,828 --> 00:22:21,004
+ sendet. Es ist also erledigt und nun
+
+725
+00:22:20,036 --> 00:22:21,947
+ wird es mir einen Überblick
+
+726
+00:22:20,979 --> 00:22:23,565
+ verschaffen. Besonders hilfreich ist
+
+727
+00:22:22,612 --> 00:22:25,327
+ aber, wenn ich auf diesem Tab bleibe
+
+728
+00:22:24,374 --> 00:22:27,231
+ und das hier öffne, denn dann kann ich
+
+729
+00:22:26,279 --> 00:22:29,243
+ tatsächlich alles sehen. Ich sehe also
+
+730
+00:22:28,243 --> 00:22:31,264
+, was Claude an Consensus gesendet hat:
+
+731
+00:22:30,315 --> 00:22:33,181
+ eine Abfrage zu den Auswirkungen von
+
+732
+00:22:32,232 --> 00:22:35,149
+ Koffeinkonsum auf Demenz, wobei sogar
+
+733
+00:22:34,201 --> 00:22:36,859
+ ein Filter nur für Humanstudien
+
+734
+00:22:35,911 --> 00:22:38,725
+ angewendet wurde. Consensus filtert
+
+735
+00:22:37,774 --> 00:22:40,685
+ jetzt also gezielt nach Humanstudien zu
+
+736
+00:22:39,734 --> 00:22:43,304
+ diesem Thema. Der nächste Teil–und
+
+737
+00:22:42,346 --> 00:22:44,983
+ daran erkennen Sie, dass die Verbindung
+
+738
+00:22:44,025 --> 00:22:46,620
+ funktioniert–sieht ungefähr so aus.
+
+739
+00:22:45,979 --> 00:22:49,012
+ Es wurden also 20 Artikel gefunden, die
+
+740
+00:22:48,064 --> 00:22:50,470
+ etwas aufzeigen. Wenn Sie den
+
+741
+00:22:49,505 --> 00:22:51,870
+ kostenlosen Plan nutzen, wird dort „
+
+742
+00:22:50,870 --> 00:22:53,092
+10 angezeigt“ stehen, da wir bei
+
+743
+00:22:52,127 --> 00:22:54,528
+ jeder Suche 10 Ergebnisse wie bei einer
+
+744
+00:22:53,564 --> 00:22:56,128
+ Schnellsuche liefern. Und wenn Sie den
+
+745
+00:22:55,172 --> 00:22:57,765
+ Pro-Plan oder höher haben, werden 20
+
+746
+00:22:56,808 --> 00:22:59,699
+ angezeigt. Sie sehen also „20 Artikel
+
+747
+00:22:58,744 --> 00:23:01,412
+ gefunden, 20 angezeigt“; falls dort
+
+748
+00:23:00,457 --> 00:23:02,944
+ drei steht...Wenn dort also „20
+
+749
+00:23:01,989 --> 00:23:04,387
+ gefunden, 3 angezeigt“ steht,
+
+750
+00:23:03,432 --> 00:23:06,145
+ bedeutet das, dass Sie nicht mit Ihrem
+
+751
+00:23:05,190 --> 00:23:07,813
+ Consensus-Konto verbunden sind. Wenn
+
+752
+00:23:06,845 --> 00:23:08,944
+ Sie das ändern möchten, gehen Sie
+
+753
+00:23:07,976 --> 00:23:10,138
+ zurück zu den Connectors und klicken
+
+754
+00:23:09,169 --> 00:23:11,480
+ Sie auf „Verbinden“. Dann können
+
+755
+00:23:10,518 --> 00:23:12,737
+ Sie sich bei Consensus anmelden.
+
+756
+00:23:13,780 --> 00:23:18,938
+ Großartig. Ähm, cool. Lassen Sie uns
+
+757
+00:23:17,990 --> 00:23:21,022
+ also hierher zurückkehren–mal sehen,
+
+758
+00:23:20,074 --> 00:23:24,040
+ ob ich wechseln kann. Ja, cool. Ich
+
+759
+00:23:23,087 --> 00:23:25,551
+ möchte kurz auf einige unserer
+
+760
+00:23:24,598 --> 00:23:27,581
+ anfänglichen Limits eingehen. Dieser
+
+761
+00:23:26,659 --> 00:23:30,379
+ Consensus-Connector steht jedem zur
+
+762
+00:23:29,457 --> 00:23:32,070
+ Verfügung. Sie benötigen also kein
+
+763
+00:23:31,097 --> 00:23:33,149
+ kostenpflichtiges Konto. Sie können
+
+764
+00:23:32,176 --> 00:23:34,164
+ direkt damit beginnen, ihn zu nutzen.
+
+765
+00:23:33,264 --> 00:23:35,299
+ Es gibt einige anfängliche
+
+766
+00:23:34,338 --> 00:23:36,833
+ Beschränkungen; denken Sie daran, dass
+
+767
+00:23:35,872 --> 00:23:38,176
+ sich dies derzeit in der Testphase
+
+768
+00:23:37,214 --> 00:23:39,521
+ befindet. Wir haben dies erst vor
+
+769
+00:23:38,559 --> 00:23:41,039
+ wenigen Tagen veröffentlicht. Es gibt
+
+770
+00:23:40,076 --> 00:23:42,433
+ bereits eine Reihe von Forschern, die
+
+771
+00:23:41,470 --> 00:23:43,441
+ es verwenden. Derselbe
+
+772
+00:23:42,490 --> 00:23:45,216
+ Technologie-Stack treibt es an, der
+
+773
+00:23:44,265 --> 00:23:47,040
+ auch unseren benutzerdefinierten GPT
+
+774
+00:23:46,089 --> 00:23:48,815
+ antreibt, der bereits millionenfach
+
+775
+00:23:47,864 --> 00:23:50,519
+ genutzt wurde. Und selbst bei diesem
+
+776
+00:23:49,556 --> 00:23:51,929
+ Connector liegen wir nach nur wenigen
+
+777
+00:23:50,966 --> 00:23:52,894
+ Tagen bereits bei einigen
+
+778
+00:23:51,931 --> 00:23:54,466
+ Hunderttausend Nutzungen. Es ist also
+
+779
+00:23:53,509 --> 00:23:56,002
+ wirklich explodiert. Es gibt jedoch
+
+780
+00:23:55,040 --> 00:23:57,512
+ einige Limits, damit wir sicherstellen
+
+781
+00:23:56,551 --> 00:23:59,061
+ können, dass es für alle funktioniert
+
+782
+00:23:58,061 --> 00:24:00,875
+. Wenn Sie nicht bei Consensus
+
+783
+00:23:59,919 --> 00:24:02,526
+ angemeldet sind, können Sie nur drei
+
+784
+00:24:01,570 --> 00:24:05,196
+ Artikel pro Suche abrufen. Außerdem
+
+785
+00:24:04,251 --> 00:24:07,405
+ gibt es eine Art gemeinsames Limit für
+
+786
+00:24:06,460 --> 00:24:09,449
+ alle Nutzer, was die Häufigkeit der
+
+787
+00:24:08,504 --> 00:24:11,814
+ Anfragen betrifft. Je mehr Leute es
+
+788
+00:24:10,852 --> 00:24:12,932
+ nutzen, desto länger kann es
+
+789
+00:24:11,969 --> 00:24:14,421
+ natürlich dauern, bis wir bei dir sind
+
+790
+00:24:13,421 --> 00:24:17,419
+. Im kostenlosen Plan erhältst du 10
+
+791
+00:24:16,474 --> 00:24:19,395
+ Suchanfragen, bzw. 10 Dokumente pro
+
+792
+00:24:18,450 --> 00:24:21,793
+ Suche. Und das kannst du jeden Monat 30
+
+793
+00:24:20,845 --> 00:24:23,525
+ Mal tun. Wenn du den Pro-Plan oder
+
+794
+00:24:22,565 --> 00:24:24,945
+ höher hast, erhältst du das volle
+
+795
+00:24:23,985 --> 00:24:26,894
+ Ergebnis. Also alle 20 Dokumente, und
+
+796
+00:24:25,947 --> 00:24:29,048
+ du kannst es zudem tausendmal pro Monat
+
+797
+00:24:28,102 --> 00:24:30,863
+ nutzen. Großartig. Ich sehe, dass
+
+798
+00:24:29,907 --> 00:24:32,513
+ Jesus es zum Laufen gebracht hat und
+
+799
+00:24:31,558 --> 00:24:34,119
+ auch ein paar andere Leute im Chat.
+
+800
+00:24:33,230 --> 00:24:36,025
+ Claudia, falls jemand Probleme hat,
+
+801
+00:24:35,076 --> 00:24:38,026
+ schreibt es einfach in den Q&A-Bereich
+
+802
+00:24:37,077 --> 00:24:39,890
+ oder in den Chat. Wir haben hier einige
+
+803
+00:24:38,930 --> 00:24:41,496
+ Leute im Call. Allison aus unserem
+
+804
+00:24:40,543 --> 00:24:43,344
+ Support-Team und Ger ist der Entwickler
+
+805
+00:24:42,344 --> 00:24:45,712
+, der das MCP gebaut hat. Also, alles,
+
+806
+00:24:44,771 --> 00:24:47,885
+ was wir an Problemen finden können,
+
+807
+00:24:46,943 --> 00:24:49,432
+ ist hilfreich. Ich sehe, Greg hat es
+
+808
+00:24:48,459 --> 00:24:50,618
+ auch zum Laufen gebracht. Danke, Greg,
+
+809
+00:24:49,650 --> 00:24:52,129
+ dass du das mitgeteilt hast. Bernardia
+
+810
+00:24:51,176 --> 00:24:56,292
+ sagt: „Wow.“ Großartig. Okay, cool
+
+811
+00:24:55,292 --> 00:24:58,310
+. Jonathan, wenn du dem Support deine
+
+812
+00:24:57,362 --> 00:25:00,362
+ E-Mail-Adresse schreibst, kann Allison
+
+813
+00:24:59,414 --> 00:25:01,839
+ sich das ansehen. Wenn du ein
+
+814
+00:25:00,875 --> 00:25:03,145
+ Enterprise-Konto hast, zum Beispiel
+
+815
+00:25:02,181 --> 00:25:04,597
+ über eine Universität, solltest du 20
+
+816
+00:25:03,633 --> 00:25:06,200
+ erhalten. Du wirst im Grunde genauso
+
+817
+00:25:05,239 --> 00:25:08,578
+ behandelt wie im Pro-Tarif. Eine Sache,
+
+818
+00:25:07,620 --> 00:25:10,038
+ die wir besonders in den nächsten
+
+819
+00:25:09,080 --> 00:25:11,456
+ Wochen und im nächsten Monat tun
+
+820
+00:25:10,498 --> 00:25:13,041
+ werden, ist die Möglichkeit, weitere
+
+821
+00:25:12,083 --> 00:25:15,049
+ Abrufe hinzuzufügen. Wir werden also
+
+822
+00:25:14,089 --> 00:25:16,666
+ eine gewisse Anzahl pro Monat inklusive
+
+823
+00:25:15,706 --> 00:25:17,757
+ haben und die Option, mehr
+
+824
+00:25:16,798 --> 00:25:19,237
+ hinzuzufügen. Außerdem werden wir
+
+825
+00:25:18,275 --> 00:25:20,783
+ mehr Filter und Funktionen integrieren.
+
+826
+00:25:19,919 --> 00:25:22,281
+ Denkt daran, dass dies nur zum Testen
+
+827
+00:25:21,318 --> 00:25:24,484
+ gedacht ist. Wenn du den Pro-oder
+
+828
+00:25:23,524 --> 00:25:26,059
+ Enterprise-Plan hast und das Limit von
+
+829
+00:25:25,100 --> 00:25:27,676
+ tausend erreichst, schreib uns einfach.
+
+830
+00:25:26,776 --> 00:25:28,865
+ Wir würden gerne erfahren, was du
+
+831
+00:25:27,897 --> 00:25:30,146
+ machst, also deinen Anwendungsfall, und
+
+832
+00:25:29,178 --> 00:25:31,396
+ sehen, ob wir dir zusätzliche Credits
+
+833
+00:25:30,428 --> 00:25:32,674
+ geben können. Damit du es weiterhin
+
+834
+00:25:31,707 --> 00:25:34,482
+ nutzen kannst. Wir fanden, dass dies
+
+835
+00:25:33,537 --> 00:25:36,420
+ ein guter Mittelweg ist. Also ja, falls
+
+836
+00:25:35,454 --> 00:25:37,660
+ du das Limit erreichst, keine Sorge.
+
+837
+00:25:36,760 --> 00:25:39,633
+ Schreib uns einfach. Wir würden gerne
+
+838
+00:25:38,671 --> 00:25:41,013
+ sehen, wie wir dir mehr ermöglichen
+
+839
+00:25:40,050 --> 00:25:42,467
+ können und gleichzeitig mehr darüber
+
+840
+00:25:41,504 --> 00:25:43,959
+ lernen, wie wir das verbessern können.
+
+841
+00:25:45,619 --> 00:25:48,274
+ Also gut, ich mache hier mal kurz eine
+
+842
+00:25:47,318 --> 00:25:50,430
+ Pause. Eric, gab es irgendwelche Fragen
+
+843
+00:25:49,430 --> 00:25:51,642
+, bei denen du denkst, es wäre
+
+844
+00:25:50,681 --> 00:25:53,206
+ hilfreich, wenn ich sie beantworte oder
+
+845
+00:25:52,245 --> 00:25:54,340
+ noch einmal kurz erläutere?
+
+846
+00:25:54,340 --> 00:25:59,408
+ Ja. Ich denke, die häufigsten Fragen,
+
+847
+00:25:58,480 --> 00:26:01,981
+ die wir erhalten, sind erstens: Wie
+
+848
+00:26:01,052 --> 00:26:04,696
+ wird die Anzahl der zurückgesendeten
+
+849
+00:26:03,767 --> 00:26:07,411
+ Dokumente bestimmt bzw. wie ermitteln
+
+850
+00:26:06,483 --> 00:26:09,841
+ wir die Top 20, Top 10 oder Top 3
+
+851
+00:26:08,912 --> 00:26:14,397
+ Ergebnisse? Nun, wir basieren dies auf
+
+852
+00:26:13,471 --> 00:26:17,006
+ einem Such-Ranking-System, das die
+
+853
+00:26:16,080 --> 00:26:19,391
+ Textrelevanz eines Beitrags zur
+
+854
+00:26:18,465 --> 00:26:22,298
+ Suchanfrage sowie andere Variablen wie
+
+855
+00:26:21,372 --> 00:26:24,832
+ Zitierhäufigkeit und Aktualität
+
+856
+00:26:23,907 --> 00:26:27,835
+ berücksichtigt. Wir versuchen also im
+
+857
+00:26:26,880 --> 00:26:29,084
+ Grunde unser Bestes, um die
+
+858
+00:26:28,128 --> 00:26:30,779
+ relevantesten Beiträge zu ermitteln.
+
+859
+00:26:30,319 --> 00:26:33,260
+ Wenn wir sagen, dass wir nur drei, zehn
+
+860
+00:26:32,310 --> 00:26:35,152
+ oder zwanzig Beiträge senden, meinen
+
+861
+00:26:34,202 --> 00:26:36,844
+ wir damit lediglich, dass wir die
+
+862
+00:26:35,894 --> 00:26:38,736
+ Anzahl derjenigen auswählen, die wir
+
+863
+00:26:37,786 --> 00:26:40,975
+ als am relevantesten erachten. Das
+
+864
+00:26:40,014 --> 00:26:42,366
+ bedeutet nicht, dass wir nicht eine
+
+865
+00:26:41,405 --> 00:26:43,757
+ viel größere Anzahl an Dokumenten
+
+866
+00:26:42,796 --> 00:26:45,645
+ durchsuchen. Wann immer wir eine Suche
+
+867
+00:26:44,683 --> 00:26:47,160
+ durchführen, durchsuchen wir Millionen
+
+868
+00:26:46,198 --> 00:26:48,675
+ von Dokumenten, um die relevantesten zu
+
+869
+00:26:47,713 --> 00:26:50,760
+ finden. Diese endgültige Anzahl ist
+
+870
+00:26:49,800 --> 00:26:52,320
+ nur das, wofür wir Claude den Zugriff
+
+871
+00:26:51,360 --> 00:26:53,360
+ gewähren, damit es diese
+
+872
+00:26:52,400 --> 00:26:56,188
+ zusammenfassen kann. Die Anzahl der
+
+873
+00:26:55,255 --> 00:26:58,764
+ Dokumente in jeder dieser Stufen, die
+
+874
+00:26:57,832 --> 00:27:01,205
+ Daniel gesendet hat, wird durch Ihr
+
+875
+00:27:00,272 --> 00:27:04,820
+ Konto bei Consensus bestimmt. Wenn Sie
+
+876
+00:27:03,865 --> 00:27:06,583
+ nicht angemeldet sind, werden nur drei
+
+877
+00:27:05,628 --> 00:27:08,566
+ Dokumente an Claude gesendet. Wenn Sie
+
+878
+00:27:07,616 --> 00:27:10,571
+ ein kostenloses Consensus-Konto nutzen,
+
+879
+00:27:09,621 --> 00:27:12,905
+ sind es zehn. Und wenn Sie ein
+
+880
+00:27:11,954 --> 00:27:14,674
+ kostenpflichtiges Einzelkonto haben
+
+881
+00:27:13,723 --> 00:27:16,639
+ oder Teil einer der Organisationen sind
+
+882
+00:27:15,639 --> 00:27:18,359
+, die mit uns zusammenarbeiten, wie
+
+883
+00:27:17,408 --> 00:27:19,980
+ eine Bibliothek oder ähnliches,
+
+884
+00:27:19,030 --> 00:27:21,799
+ erhalten Sie 20 Dokumente pro Suche.
+
+885
+00:27:21,499 --> 00:27:24,135
+ Und auf der rechten Seite sehen Sie die
+
+886
+00:27:23,177 --> 00:27:25,688
+ Anzahl der Suchanfragen, die Sie pro
+
+887
+00:27:24,729 --> 00:27:27,898
+ Monat in Claude erhalten. Jede
+
+888
+00:27:26,948 --> 00:27:29,194
+ Organisation, die mit uns
+
+889
+00:27:28,244 --> 00:27:31,138
+ zusammenarbeitet, hat pro Nutzer 1.000
+
+890
+00:27:30,187 --> 00:27:33,081
+ Suchanfragen in Claude pro Monat über
+
+891
+00:27:32,131 --> 00:27:33,979
+ diesen Connector.
+
+892
+00:27:33,491 --> 00:27:36,422
+ Ja. Und um hier kurz ein paar Fragen zu
+
+893
+00:27:35,459 --> 00:27:37,923
+ beantworten: Sie können dies mit jedem
+
+894
+00:27:36,960 --> 00:27:39,237
+ Claude-Tarif verwenden. Sie können
+
+895
+00:27:38,265 --> 00:27:40,263
+ also den kostenlosen Tarif oder den
+
+896
+00:27:39,291 --> 00:27:41,345
+ Pro-Tarif haben, das spielt in Claude
+
+897
+00:27:40,374 --> 00:27:43,047
+ keine Rolle. Diese spezifischen Stufen,
+
+898
+00:27:42,092 --> 00:27:44,755
+ über die wir sprechen, beziehen sich
+
+899
+00:27:43,800 --> 00:27:46,429
+ auf Ihr Consensus-Konto. Sie könnten
+
+900
+00:27:45,462 --> 00:27:47,554
+ also den kostenlosen Claude-Tarif
+
+901
+00:27:46,587 --> 00:27:48,778
+ nutzen und dennoch in der Lage sein,
+
+902
+00:27:47,811 --> 00:27:50,002
+ eine Verbindung herzustellen und all
+
+903
+00:27:49,035 --> 00:27:51,325
+ diese verschiedenen Bereiche zu nutzen.
+
+904
+00:27:51,974 --> 00:27:54,359
+ Cool. Und Vincent, ich sehe hier, da
+
+905
+00:27:53,394 --> 00:27:55,687
+ steht nur „Autorisierung läuft“.
+
+906
+00:27:54,787 --> 00:27:56,904
+ Schau nochmal in Claude nach. Es
+
+907
+00:27:55,934 --> 00:27:57,942
+ könnte sich tatsächlich bereits
+
+908
+00:27:56,973 --> 00:27:59,225
+ verbunden haben. Manchmal kann es eine
+
+909
+00:27:58,257 --> 00:28:00,173
+ Weile dauern, bis diese Seite
+
+910
+00:27:59,205 --> 00:28:01,483
+ aktualisiert wird. Aber wenn du in
+
+911
+00:28:00,523 --> 00:28:03,066
+ Claude nachsiehst, sollte es zu diesem
+
+912
+00:28:02,107 --> 00:28:06,143
+ Zeitpunkt einsatzbereit sein. Okay,
+
+913
+00:28:05,216 --> 00:28:08,113
+ großartig. Super. Ich sehe ein paar
+
+914
+00:28:07,152 --> 00:28:09,461
+ Fragen dazu, wie die Konsens-Suche
+
+915
+00:28:08,499 --> 00:28:11,001
+ funktioniert, und Eric hat das ja schon
+
+916
+00:28:10,039 --> 00:28:12,619
+ kurz erklärt. Wir bieten jeden
+
+917
+00:28:11,659 --> 00:28:14,179
+ Dienstag Onboarding-Sitzungen an, eine
+
+918
+00:28:13,219 --> 00:28:15,699
+ Art Best-Practice-Einführung, in der
+
+919
+00:28:14,739 --> 00:28:17,259
+ wir genau solche Dinge durchgehen, wie
+
+920
+00:28:16,299 --> 00:28:18,379
+ etwa die Funktionsweise der
+
+921
+00:28:17,419 --> 00:28:20,026
+ Konsens-Suche. Ich werde Ihnen nach dem
+
+922
+00:28:19,061 --> 00:28:21,374
+ Gespräch auch noch weitere Ressourcen
+
+923
+00:28:20,409 --> 00:28:22,880
+ zukommen lassen. Aber wie Eric bereits
+
+924
+00:28:21,919 --> 00:28:24,400
+ erwähnte, nutzen wir ein mehrstufiges
+
+925
+00:28:23,439 --> 00:28:25,882
+ Modell, um unseren riesigen Index von
+
+926
+00:28:24,921 --> 00:28:27,168
+ 220 Millionen wissenschaftlichen
+
+927
+00:28:26,207 --> 00:28:28,450
+ Arbeiten zu durchsuchen. Diesen
+
+928
+00:28:27,485 --> 00:28:29,593
+ schränken wir dann auf etwa 500
+
+929
+00:28:28,627 --> 00:28:31,488
+ Ergebnisse ein. Dabei berücksichtigen
+
+930
+00:28:30,528 --> 00:28:32,659
+ wir Aktualität, Zitationen,
+
+931
+00:28:31,699 --> 00:28:34,032
+ Journal-Impact und unsere eigenen
+
+932
+00:28:33,072 --> 00:28:35,837
+ internen Modelle. Am Ende erhalten wir
+
+933
+00:28:34,882 --> 00:28:37,545
+ die 20 relevantesten Artikel für die
+
+934
+00:28:36,590 --> 00:28:39,196
+ jeweilige Suchanfrage. Wenn Sie
+
+935
+00:28:38,232 --> 00:28:40,548
+ Consensus direkt nutzen, können Sie
+
+936
+00:28:39,585 --> 00:28:41,985
+ tatsächlich alles sehen. In Claude
+
+937
+00:28:41,028 --> 00:28:43,446
+ erhalten Sie lediglich die Top 20
+
+938
+00:28:42,489 --> 00:28:46,234
+ zurück. Das führt zu einem wichtigen
+
+939
+00:28:45,295 --> 00:28:48,535
+ Punkt, zu dem ich überleiten wollte:
+
+940
+00:28:47,595 --> 00:28:50,714
+ Wie gehen wir über die reine Suche
+
+941
+00:28:49,775 --> 00:28:53,482
+ hinaus? Um ganz ehrlich zu sein: Wenn
+
+942
+00:28:52,533 --> 00:28:55,476
+ Sie Suchen durchführen, so wie ich es
+
+943
+00:28:54,527 --> 00:28:57,418
+ gerade in Claude gemacht habe, ist es
+
+944
+00:28:56,470 --> 00:28:59,412
+ meist besser, dies direkt in Consensus
+
+945
+00:28:58,463 --> 00:29:00,895
+ zu tun, da Sie dort so viele
+
+946
+00:28:59,946 --> 00:29:04,415
+ zusätzliche Funktionen haben. Wenn Sie
+
+947
+00:29:03,479 --> 00:29:06,674
+ Consensus schon länger nicht mehr
+
+948
+00:29:05,738 --> 00:29:09,255
+ genutzt haben: Sie sehen dort nicht nur
+
+949
+00:29:08,320 --> 00:29:11,643
+ die reinen Ergebnisse, sondern haben
+
+950
+00:29:10,708 --> 00:29:13,838
+ auch Zugriff auf die eigentlichen
+
+951
+00:29:12,902 --> 00:29:16,420
+ wissenschaftlichen Arbeiten in der App.
+
+952
+00:29:16,237 --> 00:29:18,118
+ Sie können Referenzen,
+
+953
+00:29:17,157 --> 00:29:19,383
+ Visualisierungen und vieles mehr
+
+954
+00:29:18,422 --> 00:29:20,751
+ einsehen. Wenn Sie also eine normale
+
+955
+00:29:19,785 --> 00:29:22,077
+ Suche durchführen, ist es schlichtweg
+
+956
+00:29:21,111 --> 00:29:23,649
+ besser. Es ist sinnvoller, dies direkt
+
+957
+00:29:22,689 --> 00:29:25,137
+ in Consensus zu tun. Es gibt dort viel
+
+958
+00:29:24,169 --> 00:29:26,331
+ mehr Funktionen, die speziell darauf
+
+959
+00:29:25,363 --> 00:29:27,428
+ ausgelegt sind, dass Forscher die
+
+960
+00:29:26,461 --> 00:29:28,525
+ richtigen Arbeiten finden, sie im
+
+961
+00:29:27,558 --> 00:29:29,687
+ Detail analysieren und den Volltext
+
+962
+00:29:28,719 --> 00:29:32,148
+ nutzen können. Richtig wertvoll wird
+
+963
+00:29:31,193 --> 00:29:33,731
+ es, wenn Sie über die reine Suche
+
+964
+00:29:32,776 --> 00:29:36,440
+ hinausgehen. Und genau damit befassen
+
+965
+00:29:35,502 --> 00:29:38,786
+ wir uns in der zweiten Hälfte dieses
+
+966
+00:29:37,848 --> 00:29:41,194
+ Webinars: Wie betrachtet man die Suche
+
+967
+00:29:40,256 --> 00:29:43,664
+ nur als Werkzeug und kombiniert sie mit
+
+968
+00:29:42,725 --> 00:29:45,825
+ der Leistung und Flexibilität von
+
+969
+00:29:44,886 --> 00:29:49,625
+ Claude? Dazu führen wir ein neues
+
+970
+00:29:48,685 --> 00:29:51,952
+ Konzept ein. Wenn Sie mit Claude
+
+971
+00:29:50,994 --> 00:29:53,278
+ bereits vertraut sind oder ein
+
+972
+00:29:52,321 --> 00:29:54,819
+ fortgeschrittener Nutzer sind, wird
+
+973
+00:29:53,861 --> 00:29:56,999
+ Ihnen das bekannt vorkommen. Falls
+
+974
+00:29:56,063 --> 00:29:59,239
+ nicht, nennen wir es „Skills“.
+
+975
+00:29:59,839 --> 00:30:02,748
+ Skills sind die Fähigkeit, die Suche
+
+976
+00:30:01,800 --> 00:30:04,813
+ oder die Ihnen in Claude zur Verfügung
+
+977
+00:30:03,864 --> 00:30:06,877
+ stehenden Werkzeuge mit einer präzisen
+
+978
+00:30:05,929 --> 00:30:08,839
+ Reihe von Anweisungen zu kombinieren.
+
+979
+00:30:09,159 --> 00:30:12,447
+ Am besten lässt es sich so vorstellen:
+
+980
+00:30:11,506 --> 00:30:14,619
+ Nehmen wir an, Sie arbeiten in einem
+
+981
+00:30:13,677 --> 00:30:16,849
+ Labor und haben vielleicht ein neues,
+
+982
+00:30:15,907 --> 00:30:19,020
+ unerfahrenes Labormitglied; oder Sie
+
+983
+00:30:18,079 --> 00:30:21,015
+ sind Dozent und haben einen neuen
+
+984
+00:30:20,074 --> 00:30:23,128
+ studentischen Mitarbeiter; oder Sie
+
+985
+00:30:22,187 --> 00:30:25,299
+ sind Doktorand und haben einen neuen
+
+986
+00:30:24,358 --> 00:30:27,511
+ Master-oder Bachelorstudenten. Oft
+
+987
+00:30:26,564 --> 00:30:29,591
+ haben Sie bereits bestehende Prozesse,
+
+988
+00:30:28,644 --> 00:30:31,031
+ denen Sie bei Aufgaben wie
+
+989
+00:30:30,084 --> 00:30:32,151
+ Literaturrecherchen,
+
+990
+00:30:31,204 --> 00:30:34,285
+ Lehrplanentwicklung oder der Suche nach
+
+991
+00:30:33,338 --> 00:30:36,632
+ Fördermitteln folgen. Dies sind Dinge,
+
+992
+00:30:35,685 --> 00:30:38,712
+ die Sie von anderen gelernt oder über
+
+993
+00:30:37,765 --> 00:30:40,685
+ viele Jahre hinweg zu einer für Sie
+
+994
+00:30:39,739 --> 00:30:42,605
+ funktionierenden Methode verfeinert
+
+995
+00:30:41,659 --> 00:30:44,702
+ haben. Diese Anweisungen, die Sie einer
+
+996
+00:30:43,736 --> 00:30:46,081
+ Person geben würden, etwa: „Hey, bei
+
+997
+00:30:45,115 --> 00:30:47,425
+ der Literaturrecherche solltest du das
+
+998
+00:30:46,460 --> 00:30:48,701
+ Pico-Framework verwenden“, können
+
+999
+00:30:47,735 --> 00:30:50,136
+ Sie nun nutzen. So gehen Sie dabei vor.
+
+1000
+00:30:49,236 --> 00:30:51,417
+ So sollten Sie darüber nachdenken. So
+
+1001
+00:30:50,455 --> 00:30:52,944
+ führen Sie eine boolesche Suche durch.
+
+1002
+00:30:52,044 --> 00:30:54,725
+ Sie können diese Liste nehmen und sie
+
+1003
+00:30:53,769 --> 00:30:56,495
+ Claude zur Verfügung stellen, damit er
+
+1004
+00:30:55,539 --> 00:30:58,044
+ bestimmte Aufgaben erledigen kann.
+
+1005
+00:30:58,626 --> 00:31:01,169
+ Genau hier wird es richtig
+
+1006
+00:31:00,228 --> 00:31:03,424
+ leistungsstark, denn Sie nutzen diese
+
+1007
+00:31:02,484 --> 00:31:05,584
+ festgelegte Anweisungsliste. Das ist im
+
+1008
+00:31:04,618 --> 00:31:06,836
+ Grunde nur ein Textdokument, und wir
+
+1009
+00:31:05,870 --> 00:31:08,190
+ werden drei Beispiele dafür durchgehen
+
+1010
+00:31:07,190 --> 00:31:09,442
+: eines für die Lehrplanentwicklung,
+
+1011
+00:31:08,475 --> 00:31:10,626
+ eines für Literaturrecherchen und
+
+1012
+00:31:09,660 --> 00:31:11,607
+ eines für das Verfassen von
+
+1013
+00:31:10,641 --> 00:31:13,392
+ Förderanträgen. Es ist ein kompaktes
+
+1014
+00:31:12,444 --> 00:31:15,459
+ Textdokument mit sehr klaren Schritten,
+
+1015
+00:31:14,510 --> 00:31:18,503
+ was Claude an jedem Punkt tun soll. Sie
+
+1016
+00:31:17,551 --> 00:31:20,327
+ kombinieren dies mit den Fähigkeiten
+
+1017
+00:31:19,375 --> 00:31:22,247
+ von Claude und den neuen Tools, auf die
+
+1018
+00:31:21,295 --> 00:31:24,439
+ Sie Zugriff haben. In diesem Fall wäre
+
+1019
+00:31:23,488 --> 00:31:26,351
+ es die Konsens-Suche, und das Ergebnis
+
+1020
+00:31:25,400 --> 00:31:28,115
+ ist weit mehr als nur eine schnelle
+
+1021
+00:31:27,164 --> 00:31:30,576
+ Suche. Das erste Beispiel, das wir
+
+1022
+00:31:29,627 --> 00:31:32,387
+ durchgehen werden–wir schauen uns
+
+1023
+00:31:31,437 --> 00:31:34,399
+ drei davon an, die ich hier kurz zeige,
+
+1024
+00:31:33,449 --> 00:31:37,520
+ bevor wir sie einzeln behandeln. Das
+
+1025
+00:31:36,574 --> 00:31:39,518
+ erste ist eine Leseempfehlungsliste:
+
+1026
+00:31:38,572 --> 00:31:41,569
+ Wir laden einen Lehrplan hoch, lassen
+
+1027
+00:31:40,623 --> 00:31:43,351
+ Claude alle Themen und Lernziele
+
+1028
+00:31:42,405 --> 00:31:45,186
+ extrahieren, führen dann mehrere
+
+1029
+00:31:44,240 --> 00:31:46,860
+ aufeinanderfolgende Suchen und
+
+1030
+00:31:45,914 --> 00:31:48,803
+ Konsensabgleiche durch, um aktuelle
+
+1031
+00:31:47,857 --> 00:31:50,963
+ Beiträge für jede Kurswoche zu finden
+
+1032
+00:31:49,963 --> 00:31:52,690
+, und lassen daraus ein Dokument
+
+1033
+00:31:51,744 --> 00:31:54,795
+ erstellen–eine Leseempfehlungsliste,
+
+1034
+00:31:53,849 --> 00:31:56,955
+ die Sie an Mitarbeiter oder Studierende
+
+1035
+00:31:56,009 --> 00:31:59,114
+ weitergeben können, inklusive direkter
+
+1036
+00:31:58,168 --> 00:32:01,166
+ Links zu den jeweiligen Beiträgen in
+
+1037
+00:32:00,220 --> 00:32:04,479
+ Consensus. Das ist das erste Beispiel,
+
+1038
+00:32:03,513 --> 00:32:07,006
+ das wir durchgehen werden. Das zweite
+
+1039
+00:32:06,043 --> 00:32:08,402
+ Beispiel, das wir uns ansehen werden,
+
+1040
+00:32:07,439 --> 00:32:09,467
+ ist ein „Launchpad“ für
+
+1041
+00:32:08,504 --> 00:32:11,414
+ Literaturrecherchen. Wie gelangt man
+
+1042
+00:32:10,456 --> 00:32:13,022
+ also zu einem Ausgangspunkt für eine
+
+1043
+00:32:12,065 --> 00:32:14,716
+ Literaturrecherche, bei der man Konsens
+
+1044
+00:32:13,758 --> 00:32:16,367
+ hat, oder man Claude sein Thema nehmen
+
+1045
+00:32:15,409 --> 00:32:17,976
+ lässt, eine erste Suche in Consensus
+
+1046
+00:32:17,018 --> 00:32:19,542
+ durchführt, die Ergebnisse erhält,
+
+1047
+00:32:18,585 --> 00:32:21,024
+ die Landschaft ein wenig versteht,
+
+1048
+00:32:20,067 --> 00:32:22,379
+ einen PICO-Rahmen verwendet, um
+
+1049
+00:32:21,421 --> 00:32:23,607
+ Teilbereiche und Unterfragen
+
+1050
+00:32:22,649 --> 00:32:25,089
+ aufzuschlüsseln, und dann mehrere
+
+1051
+00:32:24,131 --> 00:32:26,274
+ Suchläufe innerhalb dieser
+
+1052
+00:32:25,316 --> 00:32:27,883
+ Teilbereiche startet, um ein Dokument
+
+1053
+00:32:26,925 --> 00:32:29,449
+ für sich zusammenzustellen, das als
+
+1054
+00:32:28,492 --> 00:32:30,862
+ Ausgangspunkt dient? Was sind also
+
+1055
+00:32:29,890 --> 00:32:31,973
+ einige wichtige Artikel, mit denen man
+
+1056
+00:32:31,002 --> 00:32:33,104
+ beginnen kann? Was sind boolesche
+
+1057
+00:32:32,137 --> 00:32:34,640
+ Begriffe? Was sind Schlüsselwörter?
+
+1058
+00:32:33,740 --> 00:32:37,680
+ Also, eine Stufe höher gehen. Und das
+
+1059
+00:32:36,719 --> 00:32:39,086
+ letzte Beispiel, das wir durchgehen
+
+1060
+00:32:38,125 --> 00:32:40,647
+ werden–und wir haben Kurse für jedes
+
+1061
+00:32:39,686 --> 00:32:41,975
+ davon, keine Sorge, wenn es etwas
+
+1062
+00:32:41,014 --> 00:32:43,459
+ überwältigend ist, aber ich möchte
+
+1063
+00:32:42,498 --> 00:32:44,865
+ Ihnen nur die Entwicklung von einer
+
+1064
+00:32:43,904 --> 00:32:46,387
+ Suche hin zu etwas Fortgeschrittenerem
+
+1065
+00:32:45,426 --> 00:32:47,520
+ zeigen–ist eine Suche nach
+
+1066
+00:32:46,559 --> 00:32:48,903
+ Fördermitteln. Das kombiniert also
+
+1067
+00:32:47,937 --> 00:32:50,185
+ alles, was wir gerade gelernt haben.
+
+1068
+00:32:49,285 --> 00:32:51,889
+ Also, Sie wissen schon, Consensus-Suche
+
+1069
+00:32:50,889 --> 00:32:53,494
+, Planung, das Finden von Neuartigkeit,
+
+1070
+00:32:52,536 --> 00:32:55,017
+ kombiniert mit der Möglichkeit, die
+
+1071
+00:32:54,058 --> 00:32:56,581
+ NIH und grants.gov zu durchsuchen, um
+
+1072
+00:32:55,622 --> 00:32:57,939
+ relevante Fördermittel für ein
+
+1073
+00:32:56,980 --> 00:32:59,585
+ Forschungsprojekt zu finden, an dem Sie
+
+1074
+00:32:58,626 --> 00:33:01,791
+ gerade arbeiten. Und äh, wir fangen
+
+1075
+00:33:00,840 --> 00:33:03,875
+ hier sozusagen ganz von vorne an. Aber
+
+1076
+00:33:02,919 --> 00:33:05,591
+ ich möchte Ihnen nur zeigen, dass der
+
+1077
+00:33:04,635 --> 00:33:07,307
+ entscheidende Punkt, über den Sie als
+
+1078
+00:33:06,351 --> 00:33:08,760
+ Forscher bei KI-Tools nachdenken
+
+1079
+00:33:07,804 --> 00:33:10,520
+ sollten, darin besteht, über die Suche
+
+1080
+00:33:09,564 --> 00:33:12,016
+ hinauszugehen–die Suche nur als
+
+1081
+00:33:11,060 --> 00:33:13,733
+ Werkzeug zu betrachten und sie mit all
+
+1082
+00:33:12,777 --> 00:33:15,273
+ dem Wissen zu kombinieren, das Sie
+
+1083
+00:33:14,317 --> 00:33:16,946
+ bereits als Forscher haben, sowie den
+
+1084
+00:33:15,990 --> 00:33:18,574
+ Prozessen, die Sie gelernt haben, um
+
+1085
+00:33:17,618 --> 00:33:19,938
+ Dinge gut zusammenzufügen und
+
+1086
+00:33:18,982 --> 00:33:21,523
+ herauszufinden, wie Sie diese Tools
+
+1087
+00:33:20,567 --> 00:33:23,283
+ gemeinsam nutzen können, um sich einen
+
+1088
+00:33:22,327 --> 00:33:25,165
+ kleinen Vorsprung zu verschaffen. Und
+
+1089
+00:33:24,201 --> 00:33:26,505
+ nun ein wichtiger Haftungsausschluss,
+
+1090
+00:33:25,540 --> 00:33:27,915
+ bevor wir damit beginnen, und wir sagen
+
+1091
+00:33:26,950 --> 00:33:29,184
+ das eigentlich bei allem, sogar bei
+
+1092
+00:33:28,219 --> 00:33:31,011
+ Consensus selbst. Letztendlich sind
+
+1093
+00:33:30,048 --> 00:33:32,349
+ diese Tools nicht dazu gedacht, die
+
+1094
+00:33:31,386 --> 00:33:34,120
+ Forschung für Sie zu ersetzen. Diese
+
+1095
+00:33:33,153 --> 00:33:35,221
+ Tools sind dazu gedacht, Ihnen zu
+
+1096
+00:33:34,253 --> 00:33:36,483
+ helfen, bessere Forschung schneller zu
+
+1097
+00:33:35,515 --> 00:33:37,905
+ betreiben. Wenn wir also an eine
+
+1098
+00:33:36,939 --> 00:33:39,219
+ Literaturrecherche denken, würde ich
+
+1099
+00:33:38,254 --> 00:33:40,499
+ nicht denken: „Oh ja, das erledigt
+
+1100
+00:33:39,533 --> 00:33:41,779
+ die Literaturrecherche für mich.“
+
+1101
+00:33:41,300 --> 00:33:43,531
+ Ich würde es eher so sehen, dass es
+
+1102
+00:33:42,565 --> 00:33:44,728
+ mir einen Ausgangspunkt bietet und
+
+1103
+00:33:43,763 --> 00:33:46,097
+ Schlüsselbereiche identifiziert, über
+
+1104
+00:33:45,131 --> 00:33:47,579
+ die ich nachdenken sollte. So kann ich
+
+1105
+00:33:46,614 --> 00:33:48,804
+ sicherstellen, dass ich bei meiner
+
+1106
+00:33:47,838 --> 00:33:50,133
+ Literaturrecherche gleich beim ersten
+
+1107
+00:33:49,168 --> 00:33:51,392
+ Mal alles Wichtige abdecke, anstatt
+
+1108
+00:33:50,427 --> 00:33:52,756
+ Wochen und Wochen damit zu verbringen,
+
+1109
+00:33:51,791 --> 00:33:54,120
+ zurückzugehen und sich zu fragen: „
+
+1110
+00:33:53,120 --> 00:33:55,524
+Oh, habe ich etwas übersehen?“ Habe
+
+1111
+00:33:54,561 --> 00:33:57,218
+ ich hier etwas übersehen? Und genau so
+
+1112
+00:33:56,267 --> 00:33:59,179
+ sollten Sie über viele dieser KI-Tools
+
+1113
+00:33:58,228 --> 00:34:00,992
+ denken: Was ist etwas, das Sie heute
+
+1114
+00:34:00,041 --> 00:34:03,090
+ bereits tun? Welcher Teil davon gibt
+
+1115
+00:34:02,141 --> 00:34:05,128
+ dir deiner Meinung nach einen Vorsprung
+
+1116
+00:34:04,128 --> 00:34:07,064
+, wenn du weißt, dass dir etwas einen
+
+1117
+00:34:06,115 --> 00:34:09,102
+ Teil der Arbeit abnimmt, um bessere und
+
+1118
+00:34:08,153 --> 00:34:11,038
+ qualitativ hochwertigere Forschung zu
+
+1119
+00:34:10,089 --> 00:34:12,778
+ betreiben? Denke also darüber nach,
+
+1120
+00:34:11,813 --> 00:34:13,790
+ während wir diese einzelnen
+
+1121
+00:34:12,825 --> 00:34:15,046
+ Fähigkeiten durchgehen. Und eines
+
+1122
+00:34:14,077 --> 00:34:16,237
+ würde ich gerne von euch erfahren–
+
+1123
+00:34:15,237 --> 00:34:17,459
+wir machen am Ende eine kleine Umfrage,
+
+1124
+00:34:16,490 --> 00:34:18,650
+ aber schreibt es bitte schon jetzt in
+
+1125
+00:34:17,681 --> 00:34:19,778
+ den Chat, falls ihr eine Idee habt:
+
+1126
+00:34:18,810 --> 00:34:21,032
+ Welche anderen Fähigkeiten würdet ihr
+
+1127
+00:34:20,063 --> 00:34:22,585
+ gerne aufbauen? Welche Tätigkeiten als
+
+1128
+00:34:21,626 --> 00:34:24,198
+ Forscher nehmen viel Zeit in Anspruch,
+
+1129
+00:34:23,239 --> 00:34:25,728
+ bei denen ihr euch wünscht, dass so
+
+1130
+00:34:24,769 --> 00:34:27,275
+ etwas hier helfen könnte? Denn wir
+
+1131
+00:34:26,317 --> 00:34:28,640
+ möchten tatsächlich eine ganze
+
+1132
+00:34:27,681 --> 00:34:30,293
+ Bibliothek davon erstellen, um euch mit
+
+1133
+00:34:29,335 --> 00:34:31,865
+ Vorlagen den Einstieg zu erleichtern.
+
+1134
+00:34:32,659 --> 00:34:34,910
+ Okay, ich mache eine kurze Pause,
+
+1135
+00:34:33,948 --> 00:34:36,390
+ trinke etwas Wasser und dann legen wir
+
+1136
+00:34:35,428 --> 00:34:41,275
+ los. Alles klar, das Erste ist: Für
+
+1137
+00:34:40,349 --> 00:34:44,139
+ jede dieser verschiedenen Fähigkeiten
+
+1138
+00:34:43,212 --> 00:34:46,782
+ haben wir tatsächlich eine Vorlage
+
+1139
+00:34:45,855 --> 00:34:49,719
+ für euch, mit der ihr beginnen könnt.
+
+1140
+00:34:49,380 --> 00:34:51,696
+ Wir haben außerdem für jede dieser
+
+1141
+00:34:50,733 --> 00:34:53,123
+ Fähigkeiten einen Kurs für euch, und
+
+1142
+00:34:52,160 --> 00:34:54,367
+ ich zeige euch gleich, wo ihr den
+
+1143
+00:34:53,403 --> 00:34:56,507
+ findet. Alles, was ihr braucht, findet
+
+1144
+00:34:55,546 --> 00:34:58,091
+ ihr auf dieser Seite, und ich werde den
+
+1145
+00:34:57,131 --> 00:35:00,607
+ Link gleich in den Chat stellen. Wir
+
+1146
+00:34:59,650 --> 00:35:02,319
+ werden das auch per E-Mail verschicken.
+
+1147
+00:35:01,669 --> 00:35:04,093
+ Das ist eine Seite, die wir–ehrlich
+
+1148
+00:35:03,131 --> 00:35:05,593
+ gesagt–erst gestern zusammengestellt
+
+1149
+00:35:04,632 --> 00:35:07,133
+ haben, als wir sie gestartet haben, und
+
+1150
+00:35:06,171 --> 00:35:08,518
+ wir wollten, dass sie ein zentraler
+
+1151
+00:35:07,557 --> 00:35:10,129
+ Anlaufpunkt für Ressourcen ist. Oh,
+
+1152
+00:35:09,209 --> 00:35:12,689
+ okay. Alle Otter-Transkripte–ich
+
+1153
+00:35:11,727 --> 00:35:13,975
+ poste es noch einmal, sobald alle
+
+1154
+00:35:13,013 --> 00:35:15,423
+ Otter-Transkripte fertig sind. Sie
+
+1155
+00:35:14,482 --> 00:35:17,648
+ bieten 30 Minuten kostenlose Nutzung.
+
+1156
+00:35:17,292 --> 00:35:20,087
+ Um, okay, cool. Ich poste es hier noch
+
+1157
+00:35:19,124 --> 00:35:23,385
+ einmal. Auf dieser Seite gibt es ein
+
+1158
+00:35:22,434 --> 00:35:24,814
+ paar Dinge. Eines davon ist dieses
+
+1159
+00:35:23,848 --> 00:35:25,725
+ Einführungsvideo, das wir
+
+1160
+00:35:24,759 --> 00:35:27,104
+ veröffentlicht haben. Es ist quasi
+
+1161
+00:35:26,146 --> 00:35:28,655
+ eine zusammengefasste Version dieses
+
+1162
+00:35:27,697 --> 00:35:29,956
+ Webinars. Aber wenn ihr nach unten
+
+1163
+00:35:28,986 --> 00:35:31,048
+ scrollt, könnt ihr einige „Erste
+
+1164
+00:35:30,079 --> 00:35:32,191
+ Schritte“-Reiter sehen. Wenn ihr
+
+1165
+00:35:31,223 --> 00:35:33,397
+ bereits mit Cloud verbunden seid, ist
+
+1166
+00:35:32,429 --> 00:35:34,761
+ alles gut. Falls nicht, findet ihr hier
+
+1167
+00:35:33,794 --> 00:35:36,476
+ die Anleitungen. Wir gehen ein paar
+
+1168
+00:35:35,517 --> 00:35:39,969
+ Anwendungsfälle durch. Und genau hier
+
+1169
+00:35:39,053 --> 00:35:43,731
+ wollten wir euch etwas zeigen. Für
+
+1170
+00:35:42,769 --> 00:35:45,146
+ jeden dieser Arbeitsabläufe, die wir
+
+1171
+00:35:44,183 --> 00:35:46,336
+ durchgehen werden, gibt es eine
+
+1172
+00:35:45,374 --> 00:35:47,747
+ verfügbare Fähigkeit. Wir haben also
+
+1173
+00:35:46,777 --> 00:35:48,583
+ die Fähigkeit zum Download
+
+1174
+00:35:47,613 --> 00:35:49,982
+ bereitgestellt. Wenn ich das jetzt
+
+1175
+00:35:49,028 --> 00:35:51,671
+ herunterlade, seht ihr hier: Das war
+
+1176
+00:35:50,716 --> 00:35:53,622
+ die Liste der empfohlenen Lektüre. Wir
+
+1177
+00:35:52,670 --> 00:35:55,579
+ werden das gleich einmal öffnen. Ähm,
+
+1178
+00:35:54,611 --> 00:35:56,767
+ und dann haben wir auch ein Tutorial
+
+1179
+00:35:55,799 --> 00:35:58,020
+ dazu, wie die Fertigkeit funktioniert.
+
+1180
+00:35:57,219 --> 00:35:59,644
+ Also, fühlt euch nicht unter Druck
+
+1181
+00:35:58,684 --> 00:36:01,191
+ gesetzt, jetzt sofort alles erledigen
+
+1182
+00:36:00,232 --> 00:36:02,739
+ zu müssen oder überfordert zu sein.
+
+1183
+00:36:01,879 --> 00:36:04,063
+ Ähm, aber wenn ihr hier draufklickt,
+
+1184
+00:36:03,095 --> 00:36:05,087
+ oh, ich möchte nicht, dass das
+
+1185
+00:36:04,119 --> 00:36:06,271
+ abgespielt wird, da ich meine eigene
+
+1186
+00:36:05,303 --> 00:36:07,863
+ Stimme schon zu oft gehört habe. Ähm,
+
+1187
+00:36:06,904 --> 00:36:09,253
+ das ist eine Anleitung für diese
+
+1188
+00:36:08,294 --> 00:36:10,643
+ Fertigkeit, die ich am Wochenende
+
+1189
+00:36:09,684 --> 00:36:12,169
+ aufgenommen habe. Und wir haben hier
+
+1190
+00:36:11,207 --> 00:36:13,817
+ einen sechsteiligen Kurs. Ähm, und
+
+1191
+00:36:12,871 --> 00:36:15,201
+ wenn ihr zum eigentlichen
+
+1192
+00:36:14,254 --> 00:36:17,277
+ Consensus-Konto geht, also euren Kanal
+
+1193
+00:36:16,330 --> 00:36:19,033
+ anseht, dann werden wir das auch
+
+1194
+00:36:18,086 --> 00:36:20,798
+ versenden. Wenn ihr zu den Kursen geht,
+
+1195
+00:36:19,834 --> 00:36:22,222
+ haben wir einen ganzen Kurs dazu. Wie
+
+1196
+00:36:21,254 --> 00:36:23,150
+ ihr seht, gibt es eine Reihe
+
+1197
+00:36:22,182 --> 00:36:24,365
+ verschiedener Videos für jeden Teil.
+
+1198
+00:36:23,465 --> 00:36:25,968
+ Macht euch also keine allzu großen
+
+1199
+00:36:25,011 --> 00:36:27,601
+ Sorgen, jetzt schon alles meistern zu
+
+1200
+00:36:26,644 --> 00:36:31,490
+ wollen. Ähm, und dann, äh, Kep. Ja.
+
+1201
+00:36:30,590 --> 00:36:32,568
+ Äh, momentan ist es bei Claude
+
+1202
+00:36:31,599 --> 00:36:34,830
+ verfügbar. ChatGPT folgt in Kürze.
+
+1203
+00:36:33,930 --> 00:36:35,981
+ Wir warten nur noch auf die Freigabe
+
+1204
+00:36:35,010 --> 00:36:36,741
+ von deren Seite, um es zu
+
+1205
+00:36:35,770 --> 00:36:38,837
+ veröffentlichen. Fangen wir also hier
+
+1206
+00:36:37,873 --> 00:36:40,164
+ an und laden die Fertigkeit für die
+
+1207
+00:36:39,200 --> 00:36:41,708
+ Lehrplanentwicklung herunter. Ich werde
+
+1208
+00:36:40,745 --> 00:36:43,026
+ sie öffnen und wir werden zwischen
+
+1209
+00:36:42,063 --> 00:36:44,088
+ Claude und Consensus hin-und
+
+1210
+00:36:43,124 --> 00:36:45,552
+ herwechseln, da ich mir die Zeit nehmen
+
+1211
+00:36:44,589 --> 00:36:47,017
+ möchte, wirklich zu erklären, was vor
+
+1212
+00:36:46,053 --> 00:36:48,398
+ sich geht. Ich habe die Fertigkeit also
+
+1213
+00:36:47,427 --> 00:36:49,569
+ gerade heruntergeladen. Sie ist hier
+
+1214
+00:36:48,599 --> 00:36:51,131
+ drüben. Lasst mich das mal öffnen.
+
+1215
+00:36:50,640 --> 00:36:53,388
+ Wie ich bereits erwähnte, sind
+
+1216
+00:36:52,444 --> 00:36:55,928
+ Fertigkeiten nur Textdateien. Wenn ich
+
+1217
+00:36:54,984 --> 00:36:57,952
+ das also öffne, zeigt Claude diese
+
+1218
+00:36:57,008 --> 00:37:00,423
+ ziemlich dichte Textdatei an. Anstatt
+
+1219
+00:36:59,461 --> 00:37:01,900
+ also alles durchzulesen, werde ich nur
+
+1220
+00:37:00,938 --> 00:37:03,659
+ ein paar Teile hervorheben. Hier
+
+1221
+00:37:02,704 --> 00:37:05,319
+ drüben findet ihr einen Überblick.
+
+1222
+00:37:04,679 --> 00:37:06,839
+ Diese Fertigkeit nimmt einen
+
+1223
+00:37:05,881 --> 00:37:08,083
+ Kurslehrplan und erstellt ein
+
+1224
+00:37:07,124 --> 00:37:09,575
+ Word-Dokument mit einer kuratierten
+
+1225
+00:37:08,616 --> 00:37:10,363
+ Literaturliste aus
+
+1226
+00:37:09,404 --> 00:37:12,021
+ Peer-Review-Forschung oder Forschung im
+
+1227
+00:37:11,062 --> 00:37:14,259
+ Allgemeinen. Wenn ich zurück zu
+
+1228
+00:37:13,308 --> 00:37:16,039
+ unserer Präsentation gehe, besteht
+
+1229
+00:37:15,088 --> 00:37:18,052
+ diese Fertigkeit aus drei Teilen. Und
+
+1230
+00:37:17,089 --> 00:37:19,559
+ dieses Textdokument mit den Anweisungen
+
+1231
+00:37:18,596 --> 00:37:21,765
+ hat ebenfalls drei Teile. Der erste ist
+
+1232
+00:37:20,817 --> 00:37:23,712
+ das Identifizieren von Themen aus dem
+
+1233
+00:37:22,763 --> 00:37:26,029
+ Kurs. Der zweite ist die Suche in
+
+1234
+00:37:25,082 --> 00:37:27,631
+ Consensus. Und der dritte ist das
+
+1235
+00:37:26,669 --> 00:37:29,471
+ Zusammenstellen eines Dokuments. In
+
+1236
+00:37:28,521 --> 00:37:31,376
+ meiner Fertigkeit oder Textdatei habe
+
+1237
+00:37:30,427 --> 00:37:33,231
+ ich diese drei Abschnitte. Hier habe
+
+1238
+00:37:32,276 --> 00:37:35,614
+ ich also den Überblick. Und wenn ich,
+
+1239
+00:37:34,676 --> 00:37:37,707
+ hoppla, wo ist er? Zum Arbeitsablauf
+
+1240
+00:37:36,755 --> 00:37:39,726
+ scrolle. Könnt ihr sehen, dass ich
+
+1241
+00:37:38,770 --> 00:37:41,156
+ hier Phase eins habe, in der die
+
+1242
+00:37:40,200 --> 00:37:42,456
+ Kursthemen und Lernergebnisse
+
+1243
+00:37:41,500 --> 00:37:44,738
+ tatsächlich ermittelt werden. Ihr seht
+
+1244
+00:37:43,738 --> 00:37:46,374
+, es gibt Phase zwei, wo für jeden
+
+1245
+00:37:45,421 --> 00:37:48,178
+ Abschnitt Consensus genutzt wird. Und
+
+1246
+00:37:47,216 --> 00:37:49,712
+ ihr seht hier, dass es sogar Tipps dazu
+
+1247
+00:37:48,750 --> 00:37:51,093
+ gibt, wie man die Anfrage gestalten
+
+1248
+00:37:50,131 --> 00:37:52,586
+ sollte. Hier sind Beispielanfragen,
+
+1249
+00:37:51,627 --> 00:37:54,208
+ etwa für einen Ernährungskurs. Ähm,
+
+1250
+00:37:53,247 --> 00:37:56,378
+ wie denkst du darüber nach? Und dann
+
+1251
+00:37:55,420 --> 00:37:57,984
+ schließlich, scrolle ein Stück nach
+
+1252
+00:37:57,026 --> 00:37:59,497
+ unten. Teil drei ist das tatsächliche
+
+1253
+00:37:58,533 --> 00:38:00,795
+ Schreiben der Zusammenfassungen und
+
+1254
+00:37:59,831 --> 00:38:02,258
+ Diskussionen. Jeder kann diese
+
+1255
+00:38:01,304 --> 00:38:04,015
+ Fertigkeit nehmen, sie durchlesen und
+
+1256
+00:38:03,061 --> 00:38:05,680
+ herausfinden, wie sie funktioniert.
+
+1257
+00:38:04,815 --> 00:38:06,821
+ Ähm, aber das ist etwas, das du
+
+1258
+00:38:05,852 --> 00:38:07,827
+ tatsächlich einer Person geben
+
+1259
+00:38:06,858 --> 00:38:08,959
+ könntest, um zu sagen: „Hey, ich
+
+1260
+00:38:07,990 --> 00:38:09,965
+ möchte, dass du eine Leseliste
+
+1261
+00:38:08,996 --> 00:38:11,393
+ erstellst. Hier sind Anweisungen dazu.
+
+1262
+00:38:10,393 --> 00:38:13,192
+“ Also genau dasselbe, einfach ein
+
+1263
+00:38:12,242 --> 00:38:14,962
+ Dokument. Es ist ein Rezept. Es ist ein
+
+1264
+00:38:13,997 --> 00:38:16,266
+ Leitfaden. Es ist eine Liste mit
+
+1265
+00:38:15,305 --> 00:38:17,917
+ Anweisungen. Äh, und diese hier habe
+
+1266
+00:38:16,960 --> 00:38:19,436
+ ich selbst erstellt, damit sie äh
+
+1267
+00:38:18,479 --> 00:38:20,608
+ wirklich gut mit Consensus
+
+1268
+00:38:19,651 --> 00:38:22,158
+ funktionieren. Und ich werde versuchen,
+
+1269
+00:38:21,191 --> 00:38:23,323
+ sie zu aktualisieren, während wir
+
+1270
+00:38:22,356 --> 00:38:24,588
+ Neues lernen äh und weitere davon zu
+
+1271
+00:38:23,622 --> 00:38:25,687
+ erstellen, aber es ist ein guter
+
+1272
+00:38:24,720 --> 00:38:27,631
+ Ausgangspunkt für dich. Also werde ich
+
+1273
+00:38:26,660 --> 00:38:28,801
+ jetzt auf „Zur Bibliothek hinzufügen
+
+1274
+00:38:27,801 --> 00:38:30,016
+“ klicken. Und lass mich kurz sehen,
+
+1275
+00:38:29,046 --> 00:38:31,116
+ ob ich diese Menüleiste ausblenden
+
+1276
+00:38:30,147 --> 00:38:32,339
+ kann, um das hier etwas zu vergrößern
+
+1277
+00:38:31,339 --> 00:38:34,643
+. Cool. Also, ich klicke auf „Zur
+
+1278
+00:38:33,674 --> 00:38:35,963
+ Bibliothek hinzufügen“. Und ich habe
+
+1279
+00:38:34,995 --> 00:38:37,237
+ das hier bereits getan. Wie du sehen
+
+1280
+00:38:36,271 --> 00:38:38,618
+ kannst, habe ich drei Fertigkeiten, die
+
+1281
+00:38:37,652 --> 00:38:40,027
+ wir durchgehen werden. Empfohlene
+
+1282
+00:38:39,070 --> 00:38:41,697
+ Leseliste, Literaturübersichts-Helfer
+
+1283
+00:38:40,740 --> 00:38:43,707
+ und Stipendienfinder. Also, bei der
+
+1284
+00:38:42,747 --> 00:38:45,156
+ empfohlenen Leseliste zeige ich dir,
+
+1285
+00:38:44,195 --> 00:38:46,604
+ wie sie funktioniert, und dann gehen
+
+1286
+00:38:45,644 --> 00:38:48,092
+ wir hinein und zeigen dir, wie du sie
+
+1287
+00:38:47,131 --> 00:38:51,225
+ ändern kannst. Also, gehen wir zurück
+
+1288
+00:38:50,283 --> 00:38:53,820
+ zu Claude. Und jetzt, dafür empfehle
+
+1289
+00:38:52,869 --> 00:38:55,495
+ ich Folgendes in Claude, und hier
+
+1290
+00:38:54,544 --> 00:38:57,317
+ kannst du das in einem normalen Chat
+
+1291
+00:38:56,366 --> 00:38:59,145
+ verwenden. Wenn ich also auf
+
+1292
+00:38:58,185 --> 00:39:00,678
+ Plus-Fertigkeiten gehe, kannst du die
+
+1293
+00:38:59,719 --> 00:39:02,252
+ empfohlene Leseliste in einem normalen
+
+1294
+00:39:01,292 --> 00:39:03,701
+ Chat hinzufügen. Wenn du ein
+
+1295
+00:39:02,743 --> 00:39:05,256
+ Claude-Pro-Konto hast oder zahlendes
+
+1296
+00:39:04,298 --> 00:39:06,853
+ Claude-Mitglied bist, hast du Zugriff
+
+1297
+00:39:05,895 --> 00:39:08,851
+ auf etwas namens „Co-work“. Ich
+
+1298
+00:39:07,889 --> 00:39:10,277
+ werde das in der Demo verwenden, weil
+
+1299
+00:39:09,315 --> 00:39:11,554
+ es leistungsfähiger ist und sich
+
+1300
+00:39:10,591 --> 00:39:13,017
+ besser für einige dieser komplexeren,
+
+1301
+00:39:12,055 --> 00:39:14,771
+ strukturierten Aufgaben eignet. Und ich
+
+1302
+00:39:13,819 --> 00:39:16,418
+ zeige dir gleich, warum. Ähm, du
+
+1303
+00:39:15,456 --> 00:39:17,870
+ kannst das auch im Chat machen. Ähm,
+
+1304
+00:39:16,897 --> 00:39:18,760
+ nur, weißt du, ich glaube, die
+
+1305
+00:39:17,788 --> 00:39:19,790
+ Dokumentenerstellung funktioniert in
+
+1306
+00:39:18,817 --> 00:39:20,791
+ der kostenlosen Version nicht, aber
+
+1307
+00:39:19,819 --> 00:39:21,875
+ alles andere wird funktionieren. Es
+
+1308
+00:39:20,908 --> 00:39:22,990
+ wird immer noch in der Lage sein,
+
+1309
+00:39:22,023 --> 00:39:24,237
+ Consensus zum Suchen zu verwenden und
+
+1310
+00:39:23,269 --> 00:39:25,518
+ ein Ergebnis zu liefern. Es wird dir
+
+1311
+00:39:24,551 --> 00:39:26,703
+ das Ergebnis einfach im Chat geben.
+
+1312
+00:39:25,920 --> 00:39:27,947
+ Aber lass uns zu „Co-work“
+
+1313
+00:39:26,981 --> 00:39:29,521
+ übergehen. „Co-work“ ist ähm
+
+1314
+00:39:28,561 --> 00:39:30,776
+ einfach eine leistungsfähigere
+
+1315
+00:39:29,816 --> 00:39:32,345
+ Funktion in Claude, die es ermöglicht,
+
+1316
+00:39:31,384 --> 00:39:33,914
+ eine eigene Aufgabenliste zu erstellen,
+
+1317
+00:39:32,953 --> 00:39:35,287
+ Aufgaben abzuarbeiten und Dinge zu
+
+1318
+00:39:34,326 --> 00:39:36,699
+ erledigen, die viel länger dauern.
+
+1319
+00:39:36,959 --> 00:39:39,871
+ Also, ich werde jetzt einfach mal auf
+
+1320
+00:39:38,922 --> 00:39:41,783
+ „Plus Skills“ gehen und hier die
+
+1321
+00:39:40,835 --> 00:39:43,799
+ empfohlene Literaturliste hinzufügen.
+
+1322
+00:39:45,360 --> 00:39:48,983
+ Und dann habe ich auch noch eine ähm
+
+1323
+00:39:48,054 --> 00:39:53,592
+ Frage. Wo ist sie? Eine Sekunde. Oh,
+
+1324
+00:39:52,703 --> 00:39:56,365
+ huch. Ich muss nur kurz meine Notizen
+
+1325
+00:39:55,415 --> 00:40:00,537
+ finden. Okay, cool. Also, ich habe auch
+
+1326
+00:39:59,589 --> 00:40:02,375
+ noch eine Frage, die ich einfügen
+
+1327
+00:40:01,428 --> 00:40:06,071
+ werde, und zwar: Wo ist sie? Hier. Cool
+
+1328
+00:40:05,071 --> 00:40:08,199
+. Ja. Zurück in Claude sage ich jetzt
+
+1329
+00:40:07,246 --> 00:40:09,841
+ also „Plus Skill“ und dann „
+
+1330
+00:40:08,841 --> 00:40:11,389
+Erstelle eine Literaturliste für
+
+1331
+00:40:10,436 --> 00:40:12,937
+ diesen Kurs über die molekulare
+
+1332
+00:40:11,984 --> 00:40:15,081
+ Genetik von menschlichem Krebs“. Und
+
+1333
+00:40:14,121 --> 00:40:16,302
+ dann werde ich einfach meinen
+
+1334
+00:40:15,343 --> 00:40:17,972
+ Kurslehrplan hochladen. Ich habe ihn
+
+1335
+00:40:17,010 --> 00:40:19,480
+ auf meinem Desktop unter „Webinar“.
+
+1336
+00:40:18,580 --> 00:40:21,476
+ Da ist er. Das ist einfach ein ganz
+
+1337
+00:40:20,509 --> 00:40:22,814
+ normaler Kurslehrplan. Ich habe ihn
+
+1338
+00:40:21,854 --> 00:40:24,339
+ online gefunden für einen Kurs über
+
+1339
+00:40:23,379 --> 00:40:25,944
+ die molekulare Genetik von menschlichem
+
+1340
+00:40:24,984 --> 00:40:27,110
+ Krebs. Er enthält eine Menge
+
+1341
+00:40:26,146 --> 00:40:28,905
+ Informationen. Da sind Themen usw. drin
+
+1342
+00:40:27,905 --> 00:40:30,469
+. Aber lassen wir es laufen und ich
+
+1343
+00:40:29,512 --> 00:40:31,970
+ werde Ihnen zeigen, was hinter den
+
+1344
+00:40:31,013 --> 00:40:34,410
+ Kulissen passiert. Wenn man in Claude
+
+1345
+00:40:33,455 --> 00:40:36,079
+ ist, passiert hier eine ganze Menge.
+
+1346
+00:40:35,499 --> 00:40:38,331
+ Die einzigen Dinge, auf die Sie achten
+
+1347
+00:40:37,380 --> 00:40:40,164
+ müssen–und ich klappe sie hier mal
+
+1348
+00:40:39,212 --> 00:40:42,132
+ ein–, sind genau hier vorne. Sie
+
+1349
+00:40:41,170 --> 00:40:43,372
+ können sehen, dass Claude Ihnen
+
+1350
+00:40:42,409 --> 00:40:44,837
+ anzeigt, was hinter den Skills, hinter
+
+1351
+00:40:43,874 --> 00:40:46,690
+ den Kulissen, passiert. Man sieht also
+
+1352
+00:40:45,737 --> 00:40:48,505
+ sofort, dass er diesen Skill gestartet
+
+1353
+00:40:47,552 --> 00:40:50,228
+ hat, den ich geladen habe, und jetzt
+
+1354
+00:40:49,274 --> 00:40:52,724
+ lädt er die Tools. Ich sehe hier, dass
+
+1355
+00:40:51,773 --> 00:40:55,790
+ er meinen Kurs durchliest. Was auch
+
+1356
+00:40:54,842 --> 00:40:57,746
+ ziemlich cool ist: Während der Skill
+
+1357
+00:40:56,798 --> 00:40:59,702
+ läuft, erstellt er tatsächlich eine
+
+1358
+00:40:58,754 --> 00:41:01,659
+ eigene To-Do-Liste hier an der Seite.
+
+1359
+00:41:02,002 --> 00:41:04,264
+ Man sieht, dass er den ersten Schritt
+
+1360
+00:41:03,298 --> 00:41:05,629
+ erledigt hat; er sagt: „Hey, ich habe
+
+1361
+00:41:04,663 --> 00:41:06,976
+ den Lehrplan analysiert. Hier ist das,
+
+1362
+00:41:06,007 --> 00:41:08,234
+ was ich extrahiert habe. Hier sind
+
+1363
+00:41:07,278 --> 00:41:09,993
+ sieben Kernthemen. „Und dann hat er
+
+1364
+00:41:09,039 --> 00:41:11,578
+ hier an der Seite eine To-Do-Liste
+
+1365
+00:41:10,623 --> 00:41:13,299
+ erstellt, die von meinem Skill kommt.
+
+1366
+00:41:12,819 --> 00:41:15,103
+ Hier sind also all die verschiedenen
+
+1367
+00:41:14,138 --> 00:41:17,166
+ Schritte. Lehrplan analysieren. Jetzt
+
+1368
+00:41:16,203 --> 00:41:18,663
+ möchte ich, dass du auf Consensus nach
+
+1369
+00:41:17,700 --> 00:41:20,160
+ Artikeln zu diesen verschiedenen Themen
+
+1370
+00:41:19,197 --> 00:41:22,337
+ suchst. Dann wählt er die
+
+1371
+00:41:21,390 --> 00:41:23,932
+ relevantesten Artikel aus den
+
+1372
+00:41:22,985 --> 00:41:25,687
+ Ergebnissen aus und erstellt ein
+
+1373
+00:41:24,740 --> 00:41:28,260
+ Dokument. Und wenn ich hierhin gehe,
+
+1374
+00:41:27,296 --> 00:41:29,672
+ kann man darauf klicken und sehen, was
+
+1375
+00:41:28,708 --> 00:41:31,419
+ hinter den Kulissen passiert. Wenn ich
+
+1376
+00:41:30,467 --> 00:41:33,323
+ also auf Suchen klicke, sehen Sie, dass
+
+1377
+00:41:32,371 --> 00:41:34,846
+ Consensus oder Claude die Suche
+
+1378
+00:41:33,894 --> 00:41:36,464
+ gestartet hat; es kontaktiert nun
+
+1379
+00:41:35,512 --> 00:41:38,083
+ Consensus und hat eine Anfrage zu
+
+1380
+00:41:37,130 --> 00:41:39,701
+ Genmutationen gesendet, wobei der
+
+1381
+00:41:38,748 --> 00:41:41,605
+ Filter für 2025 hinzugefügt wurde, da
+
+1382
+00:41:40,652 --> 00:41:43,270
+ dies eine Leseliste ist und in den
+
+1383
+00:41:42,318 --> 00:41:44,841
+ Anweisungen steht, dass aktuelle
+
+1384
+00:41:43,889 --> 00:41:47,055
+ Arbeiten gewünscht sind. Alle
+
+1385
+00:41:46,114 --> 00:41:49,362
+ abgerufenen Dokumente stammen also aus
+
+1386
+00:41:48,421 --> 00:41:52,417
+ dem Jahr 2025 oder später. Wenn wir zu
+
+1387
+00:41:51,459 --> 00:41:53,998
+ unserem Dokument zurückkehren, sehen
+
+1388
+00:41:53,040 --> 00:41:55,329
+ wir, dass es die Themen bereits
+
+1389
+00:41:54,371 --> 00:41:57,249
+ identifiziert hat. Es verwendet
+
+1390
+00:41:56,293 --> 00:41:59,428
+ Consensus für die Suche. Und Anita, ja
+
+1391
+00:41:58,428 --> 00:42:01,164
+, es nutzt ausschließlich Consensus,
+
+1392
+00:42:00,211 --> 00:42:02,806
+ denn wenn Sie hier hinten schauen,
+
+1393
+00:42:01,852 --> 00:42:04,307
+ können Sie alles sehen, was im
+
+1394
+00:42:03,353 --> 00:42:08,120
+ Hintergrund abläuft. Oh. Oh nein,
+
+1395
+00:42:07,173 --> 00:42:09,886
+ meine Kamera. Einen Augenblick bitte.
+
+1396
+00:42:08,986 --> 00:42:10,938
+ Ich bringe nur kurz meine Kamera wieder
+
+1397
+00:42:09,963 --> 00:42:12,327
+ zum Laufen. Ich weiß nicht, warum das
+
+1398
+00:42:11,365 --> 00:42:15,017
+ passiert ist. Okay, wir müssen diese
+
+1399
+00:42:14,093 --> 00:42:17,306
+ Webcam benutzen. Entschuldigung, meine
+
+1400
+00:42:16,349 --> 00:42:18,889
+ Videoqualität ist jetzt schlechter.
+
+1401
+00:42:18,139 --> 00:42:22,725
+ Aber ja. Zurück in Consensus oder hier
+
+1402
+00:42:21,778 --> 00:42:24,735
+ in Claude sehen Sie, dass es für die
+
+1403
+00:42:23,788 --> 00:42:26,639
+ Suche nur Consensus verwendet, denn
+
+1404
+00:42:25,692 --> 00:42:28,596
+ wenn es etwas anderes nutzen würde,
+
+1405
+00:42:27,649 --> 00:42:30,183
+ stünde dort Websuche, und es
+
+1406
+00:42:29,236 --> 00:42:32,299
+ durchläuft jetzt quasi diese Schleife.
+
+1407
+00:42:31,759 --> 00:42:34,383
+ Es sagt also: „Cool, ich habe diese
+
+1408
+00:42:33,427 --> 00:42:36,140
+ sieben Themen, und jetzt werde ich für
+
+1409
+00:42:35,184 --> 00:42:37,853
+ jedes einzelne eine Suche in Consensus
+
+1410
+00:42:36,897 --> 00:42:40,494
+ durchführen.“ Und schließlich,
+
+1411
+00:42:39,536 --> 00:42:42,174
+ lassen Sie mich hier vorspulen, da dies
+
+1412
+00:42:41,216 --> 00:42:43,687
+ eine Weile dauern kann, weil es all
+
+1413
+00:42:42,729 --> 00:42:46,086
+ diese Suchen durchführt. Ich habe das
+
+1414
+00:42:45,171 --> 00:42:49,582
+ zuvor bereits erstellt. Ich glaube, es
+
+1415
+00:42:48,620 --> 00:42:52,211
+ ist dieses hier. Ja, cool. Lassen Sie
+
+1416
+00:42:51,246 --> 00:42:53,606
+ mich Ihnen eine fertige Version zeigen,
+
+1417
+00:42:52,640 --> 00:42:54,965
+ da dies normalerweise 5 bis 10 Minuten
+
+1418
+00:42:54,000 --> 00:42:56,325
+ dauert, aber Sie werden sehen, dass es
+
+1419
+00:42:55,360 --> 00:42:57,741
+ die gleiche Frage ist. Hier ist also
+
+1420
+00:42:56,781 --> 00:42:59,047
+ eine fertige Version, bei der es
+
+1421
+00:42:58,087 --> 00:43:00,314
+ tatsächlich alle Suchvorgänge
+
+1422
+00:42:59,353 --> 00:43:02,147
+ durchlaufen hat. Sie sehen also, wie es
+
+1423
+00:43:01,195 --> 00:43:04,076
+ im Hintergrund die Themen ermittelt und
+
+1424
+00:43:03,124 --> 00:43:05,667
+ dann mehrere Suchen in Consensus
+
+1425
+00:43:04,715 --> 00:43:07,416
+ durchgeführt hat. Wenn ich diese
+
+1426
+00:43:06,462 --> 00:43:09,235
+ öffne, sehe ich, dass jede Suche etwas
+
+1427
+00:43:08,280 --> 00:43:10,963
+ anders ist und sich mit einem anderen
+
+1428
+00:43:10,008 --> 00:43:13,468
+ Teil des Kurses befasst. Ich kann sogar
+
+1429
+00:43:12,505 --> 00:43:14,751
+ sehen, dass es, wenn es auf einen
+
+1430
+00:43:13,788 --> 00:43:16,184
+ Fehler stieß, die Ursache herausfand
+
+1431
+00:43:15,222 --> 00:43:17,354
+ und die Suche wiederholte, bis
+
+1432
+00:43:16,392 --> 00:43:18,788
+ genügend Ergebnisse vorlagen, um die
+
+1433
+00:43:17,826 --> 00:43:20,260
+ Suche für jedes Thema abzuschließen.
+
+1434
+00:43:20,340 --> 00:43:23,839
+ Was wirklich beeindruckend ist, ist die
+
+1435
+00:43:22,903 --> 00:43:25,442
+ Fähigkeit, ein Dokument
+
+1436
+00:43:24,506 --> 00:43:27,474
+ zusammenzustellen. In den Anweisungen
+
+1437
+00:43:26,506 --> 00:43:28,592
+ steht: „Ich möchte, dass du ein
+
+1438
+00:43:27,624 --> 00:43:29,805
+ Dokument zusammenstellst“, und hier
+
+1439
+00:43:28,837 --> 00:43:32,059
+ ist das Format dafür. Wenn ich also
+
+1440
+00:43:31,107 --> 00:43:33,968
+ hingehe und das hier öffne, sehen Sie,
+
+1441
+00:43:33,016 --> 00:43:35,734
+ dass es dieses Dokument tatsächlich
+
+1442
+00:43:34,782 --> 00:43:38,697
+ für mich erstellt hat. Und wenn ich
+
+1443
+00:43:37,754 --> 00:43:40,904
+ das in Google Drive öffne, oder nein,
+
+1444
+00:43:39,960 --> 00:43:43,562
+ nicht dieses hier. Entschuldigung, ich
+
+1445
+00:43:42,608 --> 00:43:45,375
+ habe zu viele Tabs offen, äh, zurück
+
+1446
+00:43:44,421 --> 00:43:47,959
+ zu diesem hier. Ich zeige Ihnen einfach
+
+1447
+00:43:47,019 --> 00:43:50,300
+ mal, wie die fertige Version aussieht.
+
+1448
+00:43:49,488 --> 00:43:52,221
+ Wo ist sie? Diese hier. Da ich sie
+
+1449
+00:43:51,263 --> 00:43:53,805
+ bereits in Google Drive geladen habe.
+
+1450
+00:43:52,919 --> 00:43:55,825
+ Aber Sie sehen hier, dass es eine
+
+1451
+00:43:54,883 --> 00:43:58,079
+ ziemlich solide Struktur erstellt hat.
+
+1452
+00:43:57,389 --> 00:43:59,741
+ Zurück dazu, was es gemacht hat: Es
+
+1453
+00:43:58,779 --> 00:44:01,219
+ hat die Themen identifiziert. Es hat
+
+1454
+00:44:00,261 --> 00:44:02,850
+ die Suchen und Consensus durchgeführt
+
+1455
+00:44:01,892 --> 00:44:04,439
+ und ist dann alles durchgegangen, und
+
+1456
+00:44:03,481 --> 00:44:05,736
+ man sieht, dass jede Kurswoche
+
+1457
+00:44:04,778 --> 00:44:07,909
+ unterteilt wurde. Es konnte die
+
+1458
+00:44:06,959 --> 00:44:09,860
+ relevanten Fachartikel identifizieren.
+
+1459
+00:44:09,379 --> 00:44:11,894
+ Und gemäß meiner Anweisungen habe ich
+
+1460
+00:44:10,933 --> 00:44:13,331
+ es gebeten, eine Zusammenfassung des
+
+1461
+00:44:12,370 --> 00:44:14,885
+ Artikels sowie eine Diskussionsfrage zu
+
+1462
+00:44:13,924 --> 00:44:16,361
+ erstellen, die sich auf die Lernziele
+
+1463
+00:44:15,400 --> 00:44:18,096
+ des Kurses bezieht. Und hier ist es
+
+1464
+00:44:17,144 --> 00:44:20,445
+ jede Woche durchgegangen. Es konnte
+
+1465
+00:44:19,495 --> 00:44:22,282
+ relevante Artikel finden, sie in die
+
+1466
+00:44:21,332 --> 00:44:24,119
+ jeweilige Woche einordnen, und jetzt
+
+1467
+00:44:23,169 --> 00:44:25,956
+ haben Sie etwas, das Sie einem Tutor
+
+1468
+00:44:25,006 --> 00:44:27,892
+ oder einem Studenten geben können, um
+
+1469
+00:44:26,942 --> 00:44:29,729
+ zu sagen: „Hey, während wir diese
+
+1470
+00:44:28,779 --> 00:44:31,467
+ Themen lernen, könnt ihr aktuelle
+
+1471
+00:44:30,517 --> 00:44:33,155
+ Forschung dazu lesen und darüber
+
+1472
+00:44:32,205 --> 00:44:34,992
+ nachdenken, wie das Gelernte auf die
+
+1473
+00:44:34,042 --> 00:44:36,879
+ heutige Forschung angewendet wird.“
+
+1474
+00:44:36,620 --> 00:44:38,835
+ Und das Großartige daran und warum
+
+1475
+00:44:37,870 --> 00:44:40,189
+ dies wirklich hilfreich ist, ist, dass
+
+1476
+00:44:39,224 --> 00:44:41,404
+ jeder Punkt mit dem tatsächlichen
+
+1477
+00:44:40,439 --> 00:44:43,020
+ Artikel in Consensus verlinkt ist. Wenn
+
+1478
+00:44:42,061 --> 00:44:44,477
+ ich das also öffne, wird Consensus
+
+1479
+00:44:43,518 --> 00:44:45,893
+ direkt beim entsprechenden Artikel
+
+1480
+00:44:44,934 --> 00:44:48,453
+ geöffnet. Und wenn ein Student, sagen
+
+1481
+00:44:47,500 --> 00:44:50,173
+ wir, an einer Partnerschule ist oder
+
+1482
+00:44:49,219 --> 00:44:51,939
+ die Schule dies unterstützt, kann er
+
+1483
+00:44:50,985 --> 00:44:53,519
+ direkt auf den Artikel zugreifen.
+
+1484
+00:44:53,340 --> 00:44:55,188
+ Dieser hier scheint ein
+
+1485
+00:44:54,225 --> 00:44:56,406
+ Open-Access-Artikel zu sein, was
+
+1486
+00:44:55,443 --> 00:44:57,771
+ großartig ist, denn wenn ich darauf
+
+1487
+00:44:56,808 --> 00:44:59,210
+ klicke, erhalte ich direkt das PDF des
+
+1488
+00:44:58,247 --> 00:45:01,381
+ Artikels. Ich kann hier auch Referenzen
+
+1489
+00:45:00,428 --> 00:45:03,554
+ und Zitate sehen. Ich kann das zitieren
+
+1490
+00:45:02,602 --> 00:45:05,247
+ und in meiner Consensus-Bibliothek
+
+1491
+00:45:04,295 --> 00:45:07,298
+ speichern. Es stellt eine wirklich gute
+
+1492
+00:45:06,344 --> 00:45:09,107
+ Verbindung zwischen Ihren Inhalten und
+
+1493
+00:45:08,154 --> 00:45:10,639
+ den tatsächlichen Artikeln her.
+
+1494
+00:45:09,840 --> 00:45:12,594
+ Dadurch wird es für Studenten viel
+
+1495
+00:45:11,644 --> 00:45:14,599
+ einfacher, auf die Artikel zuzugreifen.
+
+1496
+00:45:14,161 --> 00:45:16,256
+ Und wenn ich hier durchgehe, sehe ich,
+
+1497
+00:45:15,285 --> 00:45:17,322
+ dass es dies für jede Woche gemacht
+
+1498
+00:45:16,351 --> 00:45:19,072
+ hat. Ich habe also Woche drei, Woche
+
+1499
+00:45:18,120 --> 00:45:20,966
+ vier und fünf, Woche sechs und sieben
+
+1500
+00:45:20,014 --> 00:45:22,969
+ sowie die Wochen acht und neun. Es gibt
+
+1501
+00:45:22,019 --> 00:45:24,565
+ hier also eine tolle Auswahl an
+
+1502
+00:45:23,615 --> 00:45:26,561
+ Beiträgen, alle aus dem Jahr 2025, um,
+
+1503
+00:45:25,611 --> 00:45:29,299
+ durchweg. Und also, ähm, nehmen wir
+
+1504
+00:45:28,335 --> 00:45:30,745
+ aber mal an, wissen Sie, nehmen wir an,
+
+1505
+00:45:29,781 --> 00:45:32,120
+ mir gefällt die Struktur hier nicht.
+
+1506
+00:45:31,279 --> 00:45:33,519
+ Ich möchte die Struktur dieses
+
+1507
+00:45:32,559 --> 00:45:35,209
+ Dokuments ändern. Oder nehmen wir zum
+
+1508
+00:45:34,247 --> 00:45:36,477
+ Beispiel an, ich sehe hier, dass
+
+1509
+00:45:35,515 --> 00:45:37,822
+ tatsächlich ein Pre-Print-Beitrag
+
+1510
+00:45:36,860 --> 00:45:39,475
+ enthalten ist. Ich hatte also keine
+
+1511
+00:45:38,518 --> 00:45:41,060
+ Anweisung, Pre-Prints zu ignorieren.
+
+1512
+00:45:40,199 --> 00:45:42,428
+ Ähm, ich finde das eigentlich ganz
+
+1513
+00:45:41,463 --> 00:45:43,921
+ cool. Aber nehmen wir an, ich möchte
+
+1514
+00:45:42,954 --> 00:45:45,030
+ Pre-Prints einbeziehen, aber ich
+
+1515
+00:45:44,063 --> 00:45:46,240
+ möchte einen Haftungsausschluss im
+
+1516
+00:45:45,273 --> 00:45:47,599
+ Dokument, richtig? Ich möchte, dass
+
+1517
+00:45:46,633 --> 00:45:48,964
+ die Studenten wissen, was ein Pre-Print
+
+1518
+00:45:47,998 --> 00:45:50,022
+ ist, und ich möchte, dass sie
+
+1519
+00:45:49,056 --> 00:45:51,285
+ Pre-Prints von Peer-Review-Forschung
+
+1520
+00:45:50,319 --> 00:45:52,548
+ unterscheiden und verstehen können,
+
+1521
+00:45:51,582 --> 00:45:54,777
+ warum das anders ist. Also, was Sie tun
+
+1522
+00:45:53,811 --> 00:45:56,105
+ können, ist, wenn wir hier zurück zu
+
+1523
+00:45:55,139 --> 00:45:57,433
+ Claude gehen, zeige ich Ihnen, wie Sie
+
+1524
+00:45:56,467 --> 00:45:58,590
+ anfangen können, eine Fähigkeit
+
+1525
+00:45:57,624 --> 00:46:01,875
+ anzupassen. Also, in Con äh in Claude,
+
+1526
+00:46:00,921 --> 00:46:03,596
+ äh werde ich einfach diesen kleinen
+
+1527
+00:46:02,642 --> 00:46:05,519
+ „Anpassen“-Tab öffnen. Hier sind
+
+1528
+00:46:04,556 --> 00:46:06,993
+ alle Fähigkeiten gespeichert, das ist
+
+1529
+00:46:06,031 --> 00:46:08,429
+ der Ort, an den wir gegangen sind und
+
+1530
+00:46:07,467 --> 00:46:10,143
+ sie hochgeladen haben. Ich werde auf
+
+1531
+00:46:09,181 --> 00:46:11,575
+ „Fähigkeiten“ klicken und gehen
+
+1532
+00:46:10,614 --> 00:46:12,852
+ wir zu der Liste der empfohlenen
+
+1533
+00:46:11,891 --> 00:46:14,480
+ Lektüre. Nun, es gibt zwei
+
+1534
+00:46:13,510 --> 00:46:15,525
+ Möglichkeiten, eine Fähigkeit zu
+
+1535
+00:46:14,555 --> 00:46:16,843
+ ändern. Eine davon, und das zeige ich
+
+1536
+00:46:15,876 --> 00:46:18,054
+ Ihnen hier, ist, dass Sie es einfach
+
+1537
+00:46:17,087 --> 00:46:19,364
+ direkt machen können, es ist nur Text,
+
+1538
+00:46:18,397 --> 00:46:20,378
+ richtig? Sie können also tatsächlich
+
+1539
+00:46:19,399 --> 00:46:21,211
+ einfach hingehen und hier Ihre eigenen
+
+1540
+00:46:20,233 --> 00:46:22,944
+ Regeln hinzufügen. Aber eine andere,
+
+1541
+00:46:21,978 --> 00:46:24,319
+ die eigentlich etwas einfacher ist, ist
+
+1542
+00:46:23,319 --> 00:46:25,626
+, Claude zu benutzen, um den Umfang zu
+
+1543
+00:46:24,660 --> 00:46:27,187
+ bearbeiten. Es gibt also hier einen
+
+1544
+00:46:26,219 --> 00:46:28,486
+ Button für „Mit Claude bearbeiten“
+
+1545
+00:46:27,486 --> 00:46:31,866
+. Und was ich jetzt tun kann, ist, dass
+
+1546
+00:46:30,924 --> 00:46:33,724
+ ich sage, ähm, ich möchte die
+
+1547
+00:46:32,782 --> 00:46:37,419
+ folgenden Änderungen vornehmen. Ähm,
+
+1548
+00:46:36,470 --> 00:46:41,375
+ was sind die besten Wege? Die besten
+
+1549
+00:46:40,507 --> 00:46:43,676
+ Wege. Äh, hier. Wissen Sie was? Ich
+
+1550
+00:46:42,713 --> 00:46:44,993
+ habe das abgetippt, damit Sie nicht
+
+1551
+00:46:44,030 --> 00:46:46,383
+ sehen müssen, wie ich live tippe und
+
+1552
+00:46:45,419 --> 00:46:47,820
+ mich blamiere. Ähm, ich möchte zwei
+
+1553
+00:46:46,855 --> 00:46:49,241
+ Änderungen vornehmen. Ähm, das
+
+1554
+00:46:48,296 --> 00:46:50,990
+ brauchen Sie nicht. Ich möchte zwei
+
+1555
+00:46:50,024 --> 00:46:52,545
+ Änderungen vornehmen. Ähm, wenn ein
+
+1556
+00:46:51,593 --> 00:46:54,464
+ Pre-Print ausgewählt wird, möchte ich
+
+1557
+00:46:53,464 --> 00:46:56,239
+, dass Sie einen Hinweis hinzufügen,
+
+1558
+00:46:55,287 --> 00:46:58,015
+ der erklärt, was ein Pre-Print ist,
+
+1559
+00:46:57,063 --> 00:46:59,934
+ damit die Studenten äh den Unterschied
+
+1560
+00:46:58,982 --> 00:47:02,256
+ verstehen. Und sobald Sie die
+
+1561
+00:47:01,294 --> 00:47:03,727
+ Kernthemen bestimmt haben, wollte ich
+
+1562
+00:47:02,766 --> 00:47:05,276
+ eigentlich äh möchte ich, dass Claude
+
+1563
+00:47:04,315 --> 00:47:06,825
+ mir eine Tabelle gibt, die besagt: Hier
+
+1564
+00:47:05,864 --> 00:47:08,303
+ sind die Kernthemen. Äh, muss ich das
+
+1565
+00:47:07,335 --> 00:47:09,423
+ genehmigen, bevor es Suchvorgänge
+
+1566
+00:47:08,455 --> 00:47:11,222
+ durchführt? Ich muss also nur sagen:
+
+1567
+00:47:10,265 --> 00:47:12,959
+ Hey Claude, kannst du die Bearbeitungen
+
+1568
+00:47:12,002 --> 00:47:14,930
+ an der Fähigkeit vornehmen? Und jetzt
+
+1569
+00:47:13,977 --> 00:47:16,512
+ wird Claude alles durchgehen, die
+
+1570
+00:47:15,558 --> 00:47:17,721
+ Fähigkeit durchlesen und
+
+1571
+00:47:16,768 --> 00:47:19,322
+ identifizieren: Okay, cool. Welche
+
+1572
+00:47:18,355 --> 00:47:20,611
+ Bereiche gibt es in der Fähigkeit, in
+
+1573
+00:47:19,644 --> 00:47:21,768
+ die ich diese zusätzlichen Regeln
+
+1574
+00:47:20,801 --> 00:47:22,991
+ tatsächlich einfügen kann, und wie
+
+1575
+00:47:22,024 --> 00:47:24,280
+ strukturiere ich sie am besten, um das
+
+1576
+00:47:23,313 --> 00:47:25,665
+ zu erreichen, was Sie vorhaben? Und
+
+1577
+00:47:24,708 --> 00:47:27,316
+ hier können Sie sehen, ähm, es liest
+
+1578
+00:47:26,359 --> 00:47:28,417
+ jetzt die Datei, also die
+
+1579
+00:47:27,459 --> 00:47:30,567
+ Fähigkeitsdatei. Und jetzt läuft es
+
+1580
+00:47:29,630 --> 00:47:32,301
+ großartig. Sehen Sie, es geht los.
+
+1581
+00:47:31,401 --> 00:47:34,463
+ Ähm, es versteht, wie es das
+
+1582
+00:47:33,534 --> 00:47:36,376
+ bearbeiten kann. Und dann schlägt es
+
+1583
+00:47:35,406 --> 00:47:37,493
+ mir Änderungen vor, nach dem Motto:
+
+1584
+00:47:36,523 --> 00:47:38,670
+ Hey, hier sind einige Änderungen, die
+
+1585
+00:47:37,700 --> 00:47:39,727
+ meiner Meinung nach sinnvoll sind.
+
+1586
+00:47:38,879 --> 00:47:41,223
+ Wollen wir diese tatsächlich in die
+
+1587
+00:47:40,260 --> 00:47:42,740
+ Fähigkeit übernehmen? Es ist also
+
+1588
+00:47:41,781 --> 00:47:44,141
+ wirklich einfach, Fähigkeiten zu
+
+1589
+00:47:43,182 --> 00:47:45,426
+ ändern. Nochmal, es ist nur ein
+
+1590
+00:47:44,462 --> 00:47:47,003
+ Textdokument. Sie alle kennen sich ja
+
+1591
+00:47:46,045 --> 00:47:48,623
+ schon mit dem Chatten mit Claude aus.
+
+1592
+00:47:47,723 --> 00:47:50,220
+ Das hier macht genau dasselbe. Ähm,
+
+1593
+00:47:49,260 --> 00:47:51,722
+ nur dass es dieses Textdokument einer
+
+1594
+00:47:50,761 --> 00:47:53,263
+ Fähigkeit aktualisiert, die ich habe.
+
+1595
+00:47:52,739 --> 00:47:55,799
+ Das alles soll heißen, ähm, dass
+
+1596
+00:47:54,859 --> 00:47:58,144
+ Fähigkeiten nicht statisch sind. Sie
+
+1597
+00:47:57,178 --> 00:47:59,428
+ sind wirklich als Ausgangspunkt für
+
+1598
+00:47:58,463 --> 00:48:01,120
+ Sie gedacht. Meine Empfehlung ist also,
+
+1599
+00:48:00,155 --> 00:48:02,108
+ ähm, sobald wir diese drei
+
+1600
+00:48:01,143 --> 00:48:03,449
+ Fähigkeiten durchgegangen sind–und
+
+1601
+00:48:02,484 --> 00:48:04,860
+ die nächsten werde ich etwas schneller
+
+1602
+00:48:03,895 --> 00:48:06,060
+ durchgehen, da wir die Grundlagen
+
+1603
+00:48:05,095 --> 00:48:07,365
+ bereits verstehen–, nehmen Sie die
+
+1604
+00:48:06,401 --> 00:48:08,706
+ Fähigkeit und betrachten Sie sie als
+
+1605
+00:48:07,742 --> 00:48:10,475
+ Ausgangspunkt. Richtig? Wenn Sie Dozent
+
+1606
+00:48:09,512 --> 00:48:11,791
+ sind und eine Leseempfehlungsliste
+
+1607
+00:48:10,828 --> 00:48:13,145
+ erstellen, laden Sie die Fähigkeit
+
+1608
+00:48:12,182 --> 00:48:14,649
+ herunter, fügen Sie sie in Claude ein,
+
+1609
+00:48:13,687 --> 00:48:16,040
+ testen Sie die Ausgabe und sagen Sie
+
+1610
+00:48:15,078 --> 00:48:17,319
+ dann: Ich möchte all diese Dinge
+
+1611
+00:48:16,357 --> 00:48:18,541
+ ändern. Führen Sie es erneut aus.
+
+1612
+00:48:17,641 --> 00:48:19,733
+ Sehen Sie sich an, wie das Ergebnis
+
+1613
+00:48:18,764 --> 00:48:21,072
+ aussieht. Ähm, und gelangen Sie dann
+
+1614
+00:48:20,106 --> 00:48:22,171
+ an einen Punkt, an dem Sie sich
+
+1615
+00:48:21,206 --> 00:48:23,511
+ wohlfühlen oder zufrieden damit sind,
+
+1616
+00:48:22,545 --> 00:48:24,576
+ dass diese Fähigkeit wirklich
+
+1617
+00:48:23,610 --> 00:48:25,950
+ widerspiegelt, was Sie tatsächlich tun
+
+1618
+00:48:24,950 --> 00:48:27,598
+. Bei der Lehrplanentwicklung oder
+
+1619
+00:48:26,635 --> 00:48:29,072
+ speziell bei einer Leseempfehlungsliste
+
+1620
+00:48:28,109 --> 00:48:30,546
+ ist das ein ziemlich einfaches Beispiel
+
+1621
+00:48:29,546 --> 00:48:31,283
+, aber sobald wir zu
+
+1622
+00:48:30,320 --> 00:48:32,610
+ Literaturübersicht-Helfern und der
+
+1623
+00:48:31,647 --> 00:48:34,048
+ Stipendienforschung kommen, werden die
+
+1624
+00:48:33,085 --> 00:48:35,655
+ Ergebnisse komplexer. Und genau da wird
+
+1625
+00:48:34,696 --> 00:48:37,126
+ die individuelle Anpassung wirklich
+
+1626
+00:48:36,167 --> 00:48:38,345
+ wirkungsvoll sein. Und das stammt
+
+1627
+00:48:37,369 --> 00:48:39,273
+ tatsächlich aus einer Erfahrung, die
+
+1628
+00:48:38,298 --> 00:48:40,178
+ ich mit einem Forscher gemacht habe.
+
+1629
+00:48:39,278 --> 00:48:41,033
+ Ich habe nämlich mit einem Forscher
+
+1630
+00:48:40,054 --> 00:48:42,015
+ zusammengearbeitet. Ich weiß nicht, ob
+
+1631
+00:48:41,039 --> 00:48:43,079
+ er bei diesem Anruf dabei ist. Todd,
+
+1632
+00:48:42,122 --> 00:48:44,560
+ falls du zuhörst, danke. Ähm, ich
+
+1633
+00:48:43,592 --> 00:48:45,841
+ habe mit Todd zusammengearbeitet. Er
+
+1634
+00:48:44,895 --> 00:48:47,516
+ ist klinischer Forscher an der
+
+1635
+00:48:46,570 --> 00:48:49,786
+ Washington State University. Ähm, und
+
+1636
+00:48:48,828 --> 00:48:51,304
+ wissen Sie, er nutzt Claude, um bei
+
+1637
+00:48:50,347 --> 00:48:52,949
+ einigen seiner Stipendienprüfungen zu
+
+1638
+00:48:51,991 --> 00:48:54,093
+ helfen. Also habe ich ihm die
+
+1639
+00:48:53,127 --> 00:48:55,439
+ Fähigkeit als Beispiel geschickt, eine
+
+1640
+00:48:54,473 --> 00:48:56,247
+ sehr frühe Version des
+
+1641
+00:48:55,281 --> 00:48:57,593
+ Literaturübersicht-Helfers, einfach um
+
+1642
+00:48:56,627 --> 00:48:58,839
+ zu sagen: „Hey, du kannst mehr als
+
+1643
+00:48:57,872 --> 00:49:00,052
+ nur suchen.“„Und ein paar Tage
+
+1644
+00:48:59,083 --> 00:49:01,270
+ später hatte ich ein Telefonat mit ihm
+
+1645
+00:49:00,270 --> 00:49:02,152
+, und er hatte die Fähigkeit
+
+1646
+00:49:01,183 --> 00:49:03,218
+ tatsächlich komplett umgewandelt,
+
+1647
+00:49:02,248 --> 00:49:04,435
+ damit sie sehr, sehr spezifisch auf die
+
+1648
+00:49:03,466 --> 00:49:05,653
+ Art und Weise zugeschnitten ist, wie er
+
+1649
+00:49:04,683 --> 00:49:06,718
+ mit seinen Auszubildenden an einer
+
+1650
+00:49:05,748 --> 00:49:07,783
+ Forschungsstudie arbeitete, die er
+
+1651
+00:49:06,814 --> 00:49:09,023
+ gerade durchführte. Und es hat ihm
+
+1652
+00:49:08,059 --> 00:49:10,566
+ eine Menge Zeit erspart. Und genau das
+
+1653
+00:49:09,608 --> 00:49:12,085
+ sollten Sie tun können: Nehmen Sie
+
+1654
+00:49:11,127 --> 00:49:13,772
+ diese Fähigkeit und betrachten Sie sie
+
+1655
+00:49:12,814 --> 00:49:15,122
+ nicht nur als: Oh, das ist mein
+
+1656
+00:49:14,164 --> 00:49:16,266
+ Endergebnis. Nutzen Sie dies
+
+1657
+00:49:15,299 --> 00:49:17,555
+ stattdessen als eine Möglichkeit, das
+
+1658
+00:49:16,588 --> 00:49:18,579
+ Ergebnis für sich persönlich
+
+1659
+00:49:17,612 --> 00:49:21,075
+ anzupassen. Lassen Sie uns also direkt
+
+1660
+00:49:20,118 --> 00:49:22,759
+ mit der Literaturübersicht fortfahren.
+
+1661
+00:49:21,859 --> 00:49:23,926
+ Ich möchte einige dieser Beispiele
+
+1662
+00:49:22,956 --> 00:49:25,084
+ durchgehen, weil ich glaube, dass sie
+
+1663
+00:49:24,115 --> 00:49:25,877
+ Ihnen einen Großteil der
+
+1664
+00:49:24,908 --> 00:49:27,105
+ Leistungsfähigkeit zeigen werden. In
+
+1665
+00:49:26,135 --> 00:49:28,227
+ dem Beispiel, das wir gerade gemacht
+
+1666
+00:49:27,257 --> 00:49:29,348
+ haben, haben wir einen Datei-Upload,
+
+1667
+00:49:28,379 --> 00:49:30,500
+ mehrere Suchen und die Erstellung von
+
+1668
+00:49:29,531 --> 00:49:31,561
+ Dokumenten durchgeführt. Beim
+
+1669
+00:49:30,601 --> 00:49:32,938
+ nächsten Beispiel werden wir den
+
+1670
+00:49:31,979 --> 00:49:34,519
+ Komplexitätsgrad noch etwas steigern.
+
+1671
+00:49:33,639 --> 00:49:35,863
+ Und wir werden tatsächlich einige
+
+1672
+00:49:34,899 --> 00:49:37,051
+ Benutzereingaben und Leitplanken
+
+1673
+00:49:36,087 --> 00:49:40,172
+ hinzufügen. Gehen Sie also auf die
+
+1674
+00:49:39,225 --> 00:49:42,252
+ Seite, die ich geteilt habe, laden wir
+
+1675
+00:49:41,306 --> 00:49:43,959
+ den Literaturübersichts-Helfer
+
+1676
+00:49:43,013 --> 00:49:47,036
+ herunter und öffnen ihn in Claude. Sie
+
+1677
+00:49:46,082 --> 00:49:48,862
+ können also bereits sehen, dass dieses
+
+1678
+00:49:47,907 --> 00:49:50,413
+ Dokument noch dichter ist als das
+
+1679
+00:49:49,459 --> 00:49:52,403
+ letzte. Und wissen Sie, wenn Sie
+
+1680
+00:49:51,447 --> 00:49:54,132
+ komplexere Aufgaben haben, werden Ihre
+
+1681
+00:49:53,176 --> 00:49:55,728
+ Anweisungen umfangreicher, weil sie
+
+1682
+00:49:54,772 --> 00:49:57,806
+ eben komplexer sind. Es ist aber auch
+
+1683
+00:49:56,862 --> 00:49:59,620
+ wichtig, dass Sie daran denken,
+
+1684
+00:49:58,677 --> 00:50:01,378
+ Leitplanken und Kontrollpunkte
+
+1685
+00:50:00,435 --> 00:50:03,366
+ einzubauen. Es soll also nicht so sein,
+
+1686
+00:50:02,402 --> 00:50:04,792
+ wie wenn Sie einen Auszubildenden oder
+
+1687
+00:50:03,828 --> 00:50:06,181
+ Studenten haben, der Ihre Anweisungen
+
+1688
+00:50:05,218 --> 00:50:07,534
+ nimmt, für zwei Wochen verschwindet
+
+1689
+00:50:06,571 --> 00:50:08,887
+ und dann mit etwas zurückkommt, das
+
+1690
+00:50:07,924 --> 00:50:10,222
+ nicht relevant ist. Sie können bei
+
+1691
+00:50:09,253 --> 00:50:11,403
+ Claude auf die gleiche Weise darüber
+
+1692
+00:50:10,434 --> 00:50:12,654
+ nachdenken. Sie sollten eine Art
+
+1693
+00:50:11,693 --> 00:50:14,152
+ Kontrollpunkte einbauen. Anstatt also
+
+1694
+00:50:13,186 --> 00:50:15,289
+ die gesamte Textdatei bei diesem
+
+1695
+00:50:14,323 --> 00:50:16,425
+ Beispiel durchzugehen, fange ich
+
+1696
+00:50:15,460 --> 00:50:18,383
+ einfach an, sie zu verwenden. Und was
+
+1697
+00:50:17,443 --> 00:50:22,599
+ wir jetzt tun werden, ist kehren wir zu
+
+1698
+00:50:21,650 --> 00:50:24,738
+ Claude Co-work zurück. Wir werden das
+
+1699
+00:50:23,776 --> 00:50:26,742
+ Gleiche tun. Wir fügen hinzu oder ich
+
+1700
+00:50:25,781 --> 00:50:28,197
+ mache einfach–Entschuldigung–ich
+
+1701
+00:50:27,237 --> 00:50:29,259
+ gehe auf „Plus Skills“
+
+1702
+00:50:28,299 --> 00:50:30,754
+ Literaturübersichts-Helfer und sage:
+
+1703
+00:50:29,793 --> 00:50:31,619
+ Hey, ich beginne eine
+
+1704
+00:50:30,659 --> 00:50:32,917
+ Literaturrecherche darüber, wie
+
+1705
+00:50:31,957 --> 00:50:34,451
+ Koffein mit Demenz zusammenhängt oder
+
+1706
+00:50:33,491 --> 00:50:36,189
+ diese beeinflusst. Können Sie mir
+
+1707
+00:50:35,219 --> 00:50:37,299
+ einen Ausgangspunkt zusammenstellen?
+
+1708
+00:50:37,072 --> 00:50:39,623
+ Was diese Fähigkeit jetzt tut–und
+
+1709
+00:50:38,666 --> 00:50:41,218
+ ich werde es anhand dieses Diagramms
+
+1710
+00:50:40,261 --> 00:50:42,856
+ erklären–ist, dass wir das Gleiche
+
+1711
+00:50:41,899 --> 00:50:44,092
+ tun. Wir kombinieren Fähigkeiten und
+
+1712
+00:50:43,121 --> 00:50:45,186
+ Anweisungen, aber wir tun es auf eine
+
+1713
+00:50:44,215 --> 00:50:46,676
+ neue Art und Weise. Es führt also
+
+1714
+00:50:45,716 --> 00:50:48,036
+ eigenständig eine erste Suche in
+
+1715
+00:50:47,076 --> 00:50:49,276
+ Consensus basierend auf meinem
+
+1716
+00:50:48,316 --> 00:50:50,716
+ Kernthema durch, um das ich gebeten
+
+1717
+00:50:49,756 --> 00:50:53,317
+ habe. Also Koffein und Demenz, und dann
+
+1718
+00:50:52,385 --> 00:50:55,763
+ liest es die Ergebnisse durch. Die 20
+
+1719
+00:50:54,800 --> 00:50:57,244
+ zurückgegebenen Artikel werden gelesen
+
+1720
+00:50:56,244 --> 00:50:58,689
+, um etwas über den aktuellen Stand in
+
+1721
+00:50:57,726 --> 00:51:00,060
+ diesem Bereich zu erfahren und einen
+
+1722
+00:50:59,097 --> 00:51:02,866
+ Kontext zu haben. Von dort aus wird es
+
+1723
+00:51:01,917 --> 00:51:04,579
+ dann ein PICO-Framework für mich
+
+1724
+00:51:03,630 --> 00:51:06,544
+ aufschlüsseln bzw. das PICO-Framework
+
+1725
+00:51:05,595 --> 00:51:08,438
+ verwenden. Es gliedert eine Reihe
+
+1726
+00:51:07,474 --> 00:51:09,714
+ verschiedener Teilbereiche auf, die
+
+1727
+00:51:08,749 --> 00:51:10,742
+ für eine Literaturrecherche
+
+1728
+00:51:09,777 --> 00:51:12,398
+ interessant sein könnten. Sobald ich
+
+1729
+00:51:11,434 --> 00:51:13,799
+ diese genehmige–es wird mich um eine
+
+1730
+00:51:12,834 --> 00:51:15,199
+ Genehmigung bitten–kann ich sie auch
+
+1731
+00:51:14,235 --> 00:51:16,777
+ anpassen. Dann beginnt es mit mehreren
+
+1732
+00:51:15,811 --> 00:51:18,008
+ Suchen und stellt anschließend das
+
+1733
+00:51:17,043 --> 00:51:19,745
+ Dokument zusammen. Sehr ähnlich zu dem
+
+1734
+00:51:18,745 --> 00:51:20,905
+, was wir gerade zuvor gemacht haben,
+
+1735
+00:51:19,936 --> 00:51:22,096
+ aber wir fügen diesen Punkt als eine
+
+1736
+00:51:21,127 --> 00:51:23,739
+ Art Kontrollpunkt hinzu. Wie Sie hier
+
+1737
+00:51:22,779 --> 00:51:25,259
+ sehen können, hat es die erste Suche
+
+1738
+00:51:24,299 --> 00:51:27,050
+ durchgeführt. Wenn ich das hier öffne
+
+1739
+00:51:26,050 --> 00:51:28,526
+, kann ich sehen, dass es Consensus
+
+1740
+00:51:27,568 --> 00:51:30,257
+ verwendet hat. Es hat eine Suche zu
+
+1741
+00:51:29,301 --> 00:51:31,572
+ Demenz und kognitivem Verfall
+
+1742
+00:51:30,616 --> 00:51:33,327
+ durchgeführt, dann 20 Artikel gefunden
+
+1743
+00:51:32,371 --> 00:51:35,019
+ und diese durchgelesen. Lassen Sie mich
+
+1744
+00:51:34,053 --> 00:51:36,865
+ das also einklappen. Und Sie können
+
+1745
+00:51:35,892 --> 00:51:37,729
+ sehen, dass hier ein paar Dinge
+
+1746
+00:51:36,756 --> 00:51:38,805
+ auftauchen. Ich versuche also, ein
+
+1747
+00:51:37,834 --> 00:51:40,044
+ wenig herauszuzoomen. Vielleicht macht
+
+1748
+00:51:39,075 --> 00:51:41,458
+ das die Sache einfacher. Es sagt also:
+
+1749
+00:51:40,501 --> 00:51:42,944
+ „Großartig, ich habe 20 Artikel
+
+1750
+00:51:41,986 --> 00:51:44,342
+ gefunden.“ Hier ist, was ich gefunden
+
+1751
+00:51:43,371 --> 00:51:45,932
+ habe. Hier ist, was die Literatur
+
+1752
+00:51:44,980 --> 00:51:47,792
+ bisher zeigt. Und ich habe ein
+
+1753
+00:51:46,829 --> 00:51:49,089
+ PICO-Framework verwendet, um jetzt
+
+1754
+00:51:48,126 --> 00:51:50,052
+ verschiedene Teilbereiche
+
+1755
+00:51:49,089 --> 00:51:51,988
+ aufzuschlüsseln. Sie sehen hier also,
+
+1756
+00:51:51,028 --> 00:51:53,568
+ dass es das in potenzielle Populationen
+
+1757
+00:51:52,568 --> 00:51:55,068
+, die interessant sein könnten, sowie
+
+1758
+00:51:54,108 --> 00:51:56,292
+ Interventionen, Vergleiche und
+
+1759
+00:51:55,332 --> 00:51:58,492
+ Ergebnisse unterteilt hat. Wollen wir
+
+1760
+00:51:57,569 --> 00:52:01,389
+ damit weitermachen? Es stellt mir also
+
+1761
+00:52:00,430 --> 00:52:02,611
+ zwei Fragen. Eine davon ist: Wie
+
+1762
+00:52:01,642 --> 00:52:03,356
+ tiefgründig soll diese
+
+1763
+00:52:02,387 --> 00:52:04,663
+ Literaturrecherche sein? Und das steht
+
+1764
+00:52:03,696 --> 00:52:06,111
+ alles in den Anweisungen. Man kann dies
+
+1765
+00:52:05,148 --> 00:52:07,416
+ also ändern. Man kann sagen, ich
+
+1766
+00:52:06,451 --> 00:52:08,846
+ möchte, dass du 50 Suchen durchführst
+
+1767
+00:52:07,881 --> 00:52:10,248
+ oder etwas anderes. Ich entscheide mich
+
+1768
+00:52:09,279 --> 00:52:11,484
+ einfach für eine Standardrecherche mit
+
+1769
+00:52:10,515 --> 00:52:13,142
+ 10. Und jetzt fragt es mich: „Hey,
+
+1770
+00:52:12,173 --> 00:52:14,238
+ sehen diese Teilbereiche für dich
+
+1771
+00:52:13,270 --> 00:52:15,764
+ korrekt aus?“ Man kann also auch
+
+1772
+00:52:14,796 --> 00:52:17,059
+ Kontrollpunkte und Leitplanken in seine
+
+1773
+00:52:16,091 --> 00:52:18,096
+ Cloud-Fähigkeiten einbauen, um
+
+1774
+00:52:17,128 --> 00:52:19,100
+ sicherzustellen, dass einem an
+
+1775
+00:52:18,132 --> 00:52:20,168
+ bestimmten Punkten Informationen
+
+1776
+00:52:19,201 --> 00:52:21,432
+ präsentiert werden, um zu fragen: „
+
+1777
+00:52:20,432 --> 00:52:22,704
+Hey, sieht das so richtig aus?“ Ich
+
+1778
+00:52:21,739 --> 00:52:24,072
+ habe diese Artikel gefunden. Ist das
+
+1779
+00:52:23,109 --> 00:52:26,013
+ das, was du untersuchen möchtest? Ich
+
+1780
+00:52:25,077 --> 00:52:28,470
+ gehe jetzt also hierher und sage: „
+
+1781
+00:52:27,470 --> 00:52:30,864
+Schau dir bitte auch die Unterschiede
+
+1782
+00:52:29,928 --> 00:52:33,946
+ zwischen den Ländern an.“ Vielleicht
+
+1783
+00:52:32,974 --> 00:52:34,938
+ gibt es bestimmte Länder, in denen
+
+1784
+00:52:33,966 --> 00:52:36,013
+ viel mehr Kaffee getrunken wird als in
+
+1785
+00:52:35,041 --> 00:52:37,116
+ anderen, und sie haben unterschiedliche
+
+1786
+00:52:36,143 --> 00:52:38,909
+ Ergebnisse. Also werde ich das jetzt
+
+1787
+00:52:37,944 --> 00:52:40,869
+ hinzufügen. Und jetzt hat Claude mein
+
+1788
+00:52:39,909 --> 00:52:42,454
+ Feedback aufgenommen und wird es in den
+
+1789
+00:52:41,494 --> 00:52:43,960
+ nächsten Schritt einfließen lassen.
+
+1790
+00:52:43,779 --> 00:52:46,339
+ Der nächste Schritt besteht darin, das
+
+1791
+00:52:45,379 --> 00:52:47,419
+ PICO-Framework und all die
+
+1792
+00:52:46,459 --> 00:52:48,859
+ verschiedenen Teilbereiche, die ich
+
+1793
+00:52:47,899 --> 00:52:50,419
+ identifiziert habe, zu nutzen, mehrere
+
+1794
+00:52:49,459 --> 00:52:51,779
+ Suchläufe durchzuführen und die
+
+1795
+00:52:50,819 --> 00:52:53,379
+ Informationen zusammenzuführen, um mir
+
+1796
+00:52:52,419 --> 00:52:54,859
+ einen Leitfaden für den Einstieg in
+
+1797
+00:52:53,899 --> 00:52:56,340
+ die Literaturrecherche zu erstellen.
+
+1798
+00:52:56,510 --> 00:52:58,637
+ Ich werde das jetzt wieder ein wenig
+
+1799
+00:52:57,669 --> 00:52:59,702
+ überspringen, da dies eine Weile
+
+1800
+00:52:58,734 --> 00:53:00,829
+ dauern wird. Es ist ziemlich
+
+1801
+00:52:59,871 --> 00:53:02,641
+ umfangreich. Also, ähm, wenn ich
+
+1802
+00:53:01,695 --> 00:53:06,159
+ hierhin gehe, Review,
+
+1803
+00:53:05,233 --> 00:53:09,179
+ Literaturübersicht. Moment mal. Wo
+
+1804
+00:53:08,214 --> 00:53:10,708
+ habe ich das jetzt hingetan? Ah, hier,
+
+1805
+00:53:09,745 --> 00:53:12,027
+ Literaturübersicht zu Koffein und
+
+1806
+00:53:11,065 --> 00:53:13,256
+ Demenz. Äh, wenn ich nach unten
+
+1807
+00:53:12,291 --> 00:53:14,566
+ scrolle, befindet sich das eigentlich
+
+1808
+00:53:13,601 --> 00:53:17,142
+ erstellte Dokument hier. Ich werde es
+
+1809
+00:53:16,184 --> 00:53:18,735
+ kurz öffnen, aber dann werden wir es
+
+1810
+00:53:17,777 --> 00:53:20,369
+ uns direkt in Google Drive ansehen, da
+
+1811
+00:53:19,411 --> 00:53:21,920
+ es ein viel größeres Dokument ist.
+
+1812
+00:53:21,840 --> 00:53:24,616
+ Aber Sie sehen, es ist ein wesentlich
+
+1813
+00:53:23,664 --> 00:53:26,440
+ umfangreicheres Dokument als das, was
+
+1814
+00:53:25,488 --> 00:53:28,360
+ wir gerade für die Lehrplanentwicklung
+
+1815
+00:53:27,408 --> 00:53:30,922
+ gemacht haben. Wenn ich es also in
+
+1816
+00:53:29,966 --> 00:53:32,609
+ Google Drive öffne, äh, Koffein und
+
+1817
+00:53:31,653 --> 00:53:33,985
+ Demenz, sehen Sie, dass dieser
+
+1818
+00:53:33,029 --> 00:53:35,716
+ Assistent für Literaturrecherchen ein
+
+1819
+00:53:34,760 --> 00:53:38,116
+ paar Kernbereiche enthält. Es gibt
+
+1820
+00:53:37,164 --> 00:53:39,898
+ einen Themenüberblick und geht dann
+
+1821
+00:53:38,946 --> 00:53:41,295
+ über zu, äh, einer Art von
+
+1822
+00:53:40,343 --> 00:53:42,879
+ Schlüsselpapieren. Also, hey, fangen
+
+1823
+00:53:41,910 --> 00:53:44,386
+ Sie hier an. Dies sind Arbeiten, die
+
+1824
+00:53:43,427 --> 00:53:45,910
+ entweder häufig zitiert wurden oder
+
+1825
+00:53:44,951 --> 00:53:47,557
+ als einflussreich in dem Bereich gelten
+
+1826
+00:53:46,557 --> 00:53:49,463
+. Es gibt mir also einen guten
+
+1827
+00:53:48,501 --> 00:53:52,267
+ Startpunkt. Was dann ziemlich cool ist:
+
+1828
+00:53:51,301 --> 00:53:53,580
+ Es gibt mir einen Überblick darüber,
+
+1829
+00:53:52,614 --> 00:53:54,792
+ was die wichtigsten Meilensteine in
+
+1830
+00:53:53,825 --> 00:53:56,138
+ diesem Bereich waren, basierend auf der
+
+1831
+00:53:55,172 --> 00:53:59,090
+ gefundenen Forschung. Und was mir
+
+1832
+00:53:58,133 --> 00:54:00,592
+ wirklich gefällt, ist, dass es in
+
+1833
+00:53:59,634 --> 00:54:02,179
+ verschiedene Teilbereiche eintaucht.
+
+1834
+00:54:01,588 --> 00:54:04,131
+ Als ich früher geforscht habe, wissen
+
+1835
+00:54:03,171 --> 00:54:05,715
+ Sie, war einer der schwierigsten Teile
+
+1836
+00:54:04,755 --> 00:54:07,218
+ der Forschung, dass man während des
+
+1837
+00:54:06,258 --> 00:54:08,517
+ Prozesses lernt und dann seinen
+
+1838
+00:54:07,558 --> 00:54:09,806
+ Horizont erweitert. Man lernt
+
+1839
+00:54:08,847 --> 00:54:11,111
+ Schlüsselwörter und boolesche
+
+1840
+00:54:10,152 --> 00:54:12,580
+ Begriffe während des Arbeitens und
+
+1841
+00:54:11,621 --> 00:54:14,467
+ integriert diese dann. Das Tolle an
+
+1842
+00:54:13,505 --> 00:54:15,960
+ dieser Fähigkeit ist–und so habe ich
+
+1843
+00:54:14,998 --> 00:54:17,379
+ sie entworfen–auch hier können Sie
+
+1844
+00:54:16,416 --> 00:54:18,797
+ das kombinieren und anpassen: Die Art
+
+1845
+00:54:17,834 --> 00:54:19,879
+ und Weise, wie ich es in den
+
+1846
+00:54:18,917 --> 00:54:21,297
+ Anweisungen gefordert habe, ist, dass
+
+1847
+00:54:20,335 --> 00:54:22,641
+ es mir für jeden Teilbereich einen
+
+1848
+00:54:21,678 --> 00:54:24,734
+ Startpunkt geben soll. Also geben Sie
+
+1849
+00:54:23,777 --> 00:54:26,096
+ mir Schlüsselpapiere, wichtige
+
+1850
+00:54:25,139 --> 00:54:27,756
+ Suchbegriffe und dann, ähm, Beispiele
+
+1851
+00:54:26,799 --> 00:54:29,118
+ für boolesche Strings, die ich
+
+1852
+00:54:28,160 --> 00:54:30,352
+ verwenden kann, um in diesen
+
+1853
+00:54:29,395 --> 00:54:33,278
+ Teilbereich einzutauchen. Man sieht
+
+1854
+00:54:32,313 --> 00:54:34,449
+ also, dass dies für mich extrem
+
+1855
+00:54:33,484 --> 00:54:35,691
+ hilfreich sein wird, wenn ich eine
+
+1856
+00:54:34,727 --> 00:54:36,933
+ Literaturrecherche zu diesem Thema
+
+1857
+00:54:35,969 --> 00:54:38,277
+ beginne. Und noch einmal, das führt
+
+1858
+00:54:37,311 --> 00:54:39,646
+ zurück zu dem Kernpunkt: Versuchen Sie
+
+1859
+00:54:38,680 --> 00:54:41,015
+ nicht, die KI alles für sich erledigen
+
+1860
+00:54:40,049 --> 00:54:42,483
+ zu lassen. Finden Sie heraus, wie sie
+
+1861
+00:54:41,515 --> 00:54:43,619
+ Ihnen helfen kann, Dinge besser zu
+
+1862
+00:54:42,651 --> 00:54:45,071
+ machen. In diesem Fall führt sie also
+
+1863
+00:54:44,105 --> 00:54:46,445
+ diese erste Suche für mich durch. So
+
+1864
+00:54:45,480 --> 00:54:47,751
+ kann ich jetzt auswählen und sagen:
+
+1865
+00:54:46,786 --> 00:54:48,951
+ Cool, ich möchte tatsächlich in
+
+1866
+00:54:47,987 --> 00:54:50,233
+ diesen Teilbereich eintauchen. Und
+
+1867
+00:54:49,262 --> 00:54:51,399
+ jetzt habe ich einen Ausgangspunkt, den
+
+1868
+00:54:50,428 --> 00:54:52,866
+ ich mir ansehen kann, oder? Nicht wahr?
+
+1869
+00:54:51,966 --> 00:54:54,245
+ Ich kenne Suchbegriffe, boolesche
+
+1870
+00:54:53,284 --> 00:54:55,603
+ Suchstrings und Schlüsselpapiere,
+
+1871
+00:54:54,642 --> 00:54:57,116
+ sodass ich meine Recherche starten und
+
+1872
+00:54:56,154 --> 00:54:58,551
+ effektiver in den Bereich vordringen
+
+1873
+00:54:57,590 --> 00:55:01,901
+ kann, den ich tatsächlich suche. Und
+
+1874
+00:55:00,937 --> 00:55:03,340
+ natürlich gibt es hier noch eine ganze
+
+1875
+00:55:02,376 --> 00:55:04,510
+ Reihe weiterer Dinge. Wir haben
+
+1876
+00:55:03,541 --> 00:55:05,757
+ wichtige Forschungsgruppen. Wer sind
+
+1877
+00:55:04,793 --> 00:55:07,061
+ also die wichtigen Forscher, die oft
+
+1878
+00:55:06,097 --> 00:55:08,621
+ erwähnt werden? Und schließlich die
+
+1879
+00:55:07,664 --> 00:55:10,212
+ Bibliografie, bei der jedes einzelne
+
+1880
+00:55:09,255 --> 00:55:11,932
+ Papier hier tatsächlich mit dem echten
+
+1881
+00:55:10,975 --> 00:55:13,740
+ Papier in Consensus verknüpft ist. Und
+
+1882
+00:55:12,780 --> 00:55:15,317
+ das ist hier ein zentraler Punkt, weil
+
+1883
+00:55:14,358 --> 00:55:16,409
+ Consensus tatsächlich nur
+
+1884
+00:55:15,450 --> 00:55:17,906
+ Peer-Review-Artikel oder nur Artikel
+
+1885
+00:55:16,946 --> 00:55:19,362
+ betrachtet und diese dann in meinen
+
+1886
+00:55:18,402 --> 00:55:21,043
+ Anweisungen an Claude zurücksendet. Um
+
+1887
+00:55:20,080 --> 00:55:22,234
+ ganz klar festzulegen, dass nur
+
+1888
+00:55:21,271 --> 00:55:23,537
+ Ergebnisse von Consensus verwendet
+
+1889
+00:55:22,574 --> 00:55:24,989
+ werden sollen und sichergestellt wird,
+
+1890
+00:55:24,026 --> 00:55:26,105
+ dass alles, was zitiert wird,
+
+1891
+00:55:25,142 --> 00:55:27,408
+ tatsächlich mit dem von Consensus
+
+1892
+00:55:26,445 --> 00:55:28,823
+ bereitgestellten Link verknüpft ist.
+
+1893
+00:55:27,923 --> 00:55:30,114
+ So wissen Sie, dass alles auf ein
+
+1894
+00:55:29,150 --> 00:55:31,523
+ tatsächliches Papier zurückverweist.
+
+1895
+00:55:32,199 --> 00:55:34,349
+ Und auch das ist ein fortlaufender
+
+1896
+00:55:33,383 --> 00:55:35,704
+ Prozess; wenn Sie auf Probleme stoßen,
+
+1897
+00:55:34,737 --> 00:55:37,058
+ nutzen Sie die Bearbeiten-Schaltfläche
+
+1898
+00:55:36,092 --> 00:55:38,243
+ und fügen Sie weitere Leitplanken
+
+1899
+00:55:37,276 --> 00:55:39,859
+ hinzu. Sie müssen es so behandeln, als
+
+1900
+00:55:38,892 --> 00:55:41,083
+ würden Sie mit einem Auszubildenden
+
+1901
+00:55:40,116 --> 00:55:42,275
+ oder einem neuen Studenten arbeiten
+
+1902
+00:55:41,308 --> 00:55:43,566
+ oder als würden Sie selbst lernen und
+
+1903
+00:55:42,599 --> 00:55:44,890
+ sich nach und nach verbessern, um etwas
+
+1904
+00:55:43,923 --> 00:55:46,181
+ zu erhalten, mit dem Sie sich wirklich
+
+1905
+00:55:45,214 --> 00:55:47,439
+ wohl fühlen und das Sie voranbringt.
+
+1906
+00:55:47,706 --> 00:55:49,779
+ Das letzte hier ist unsere
+
+1907
+00:55:48,820 --> 00:55:51,560
+ Überprüfung von Förderanträgen. Ich
+
+1908
+00:55:50,625 --> 00:55:54,028
+ werde das nur kurz anreißen, weil es
+
+1909
+00:55:53,092 --> 00:55:56,097
+ ziemlich in die Tiefe geht. Es ist
+
+1910
+00:55:55,122 --> 00:55:57,108
+ irgendwie verrückt. Es gibt ein
+
+1911
+00:55:56,142 --> 00:55:58,285
+ spezielles Tutorial dazu, aber die
+
+1912
+00:55:57,318 --> 00:55:59,394
+ Fähigkeit zur Überprüfung von
+
+1913
+00:55:58,427 --> 00:56:00,705
+ Förderanträgen...lassen Sie mich das
+
+1914
+00:55:59,738 --> 00:56:02,422
+ hier einfach mal starten. Ich werde das
+
+1915
+00:56:01,456 --> 00:56:04,441
+ hier öffnen. Dieses hier ist sogar
+
+1916
+00:56:03,494 --> 00:56:05,895
+ noch krasser. Es ist also noch
+
+1917
+00:56:04,933 --> 00:56:07,169
+ tiefgründiger. Es geht sogar noch
+
+1918
+00:56:06,200 --> 00:56:08,589
+ weiter in die Tiefe. Und was es tut,
+
+1919
+00:56:07,633 --> 00:56:10,172
+ ist, alles, was wir getan haben, zu
+
+1920
+00:56:09,216 --> 00:56:11,535
+ kombinieren: Benutzereingaben,
+
+1921
+00:56:10,579 --> 00:56:13,031
+ Strukturierung von Suchen, und es
+
+1922
+00:56:12,075 --> 00:56:14,570
+ kombiniert dies auch mit gezielter
+
+1923
+00:56:13,614 --> 00:56:17,073
+ Websuche. Dieses hier verwendet also
+
+1924
+00:56:16,141 --> 00:56:19,732
+ tatsächlich grants.gov. Es hat keinen
+
+1925
+00:56:18,776 --> 00:56:21,056
+ Connector, aber es gibt einen
+
+1926
+00:56:20,101 --> 00:56:22,778
+ speziellen Endpunkt, den man verwenden
+
+1927
+00:56:21,822 --> 00:56:24,656
+ kann, um Fördergelder abzurufen. Es
+
+1928
+00:56:23,698 --> 00:56:26,033
+ nutzt NIH Reporter, um kürzlich
+
+1929
+00:56:25,074 --> 00:56:27,493
+ finanzierte Projekte zu finden und
+
+1930
+00:56:26,535 --> 00:56:28,953
+ Ihnen etwas wirklich Fundiertes zu
+
+1931
+00:56:27,995 --> 00:56:30,385
+ liefern. Also, die Art und Weise, wie
+
+1932
+00:56:29,419 --> 00:56:31,580
+ diese Fähigkeit funktioniert, und
+
+1933
+00:56:30,614 --> 00:56:32,775
+ lassen Sie mich das einfach mal in
+
+1934
+00:56:31,810 --> 00:56:34,039
+ Claude starten, weil ich denke, dass
+
+1935
+00:56:33,073 --> 00:56:35,609
+ das wirklich cool ist. Und ich werde
+
+1936
+00:56:34,652 --> 00:56:37,162
+ das jetzt nur ganz kurz durchgehen.
+
+1937
+00:56:36,262 --> 00:56:39,039
+ Dazu gibt es ein eigenes Tutorial. Es
+
+1938
+00:56:38,082 --> 00:56:41,101
+ ist ziemlich umfangreich. Ähm, aber
+
+1939
+00:56:40,162 --> 00:56:43,393
+ wenn ich hier in die Cloud gehe, gehe
+
+1940
+00:56:42,453 --> 00:56:45,466
+ ich zu den Skills. Äh, nehmen wir den
+
+1941
+00:56:44,507 --> 00:56:46,999
+ Grant Finder und geben das hier ein.
+
+1942
+00:56:46,521 --> 00:56:48,699
+ Nehmen wir an, ich möchte eine
+
+1943
+00:56:47,737 --> 00:56:49,687
+ multizentrische klinische
+
+1944
+00:56:48,725 --> 00:56:50,828
+ Vorhersageregel erstellen, um
+
+1945
+00:56:49,866 --> 00:56:52,159
+ Notärzten bei der Entscheidung zu
+
+1946
+00:56:51,197 --> 00:56:53,489
+ helfen, wann Neugeborene wegen HSV
+
+1947
+00:56:52,527 --> 00:56:55,071
+ behandelt werden müssen. Das war ein
+
+1948
+00:56:54,103 --> 00:56:56,255
+ tatsächliches Forschungsprojekt, an
+
+1949
+00:56:55,287 --> 00:56:57,535
+ dem ein Forscher arbeitete, mit dem ich
+
+1950
+00:56:56,567 --> 00:56:59,565
+ gesprochen habe. Was das tun wird, ist,
+
+1951
+00:56:58,600 --> 00:57:00,886
+ all die Fähigkeiten, die wir gelernt
+
+1952
+00:56:59,921 --> 00:57:02,462
+ haben, zu kombinieren, richtig? Zuerst
+
+1953
+00:57:01,510 --> 00:57:04,207
+ wird es mir also einige anfängliche
+
+1954
+00:57:03,254 --> 00:57:07,067
+ Aufnahmefragen stellen. Gleich wird es
+
+1955
+00:57:06,131 --> 00:57:09,531
+ mich fragen, wissen Sie, wie erfahren
+
+1956
+00:57:08,596 --> 00:57:12,085
+ bin ich als Forscher? Habe ich
+
+1957
+00:57:11,147 --> 00:57:14,502
+ vorläufige Daten, mit welcher Art von
+
+1958
+00:57:13,564 --> 00:57:16,795
+ Institution arbeite ich zusammen, um
+
+1959
+00:57:15,857 --> 00:57:19,212
+ die Zuschüsse filtern zu können, und
+
+1960
+00:57:18,274 --> 00:57:21,630
+ von dort aus startet dann der Prozess.
+
+1961
+00:57:20,730 --> 00:57:24,113
+ Das dauert jetzt ein wenig. Lassen Sie
+
+1962
+00:57:23,146 --> 00:57:25,303
+ mich einfach zu der abgeschlossenen
+
+1963
+00:57:24,336 --> 00:57:27,373
+ Version springen. Ah, perfekt hier.
+
+1964
+00:57:26,473 --> 00:57:29,165
+ Cool. Tatsächlich hier. Nur damit Sie
+
+1965
+00:57:28,194 --> 00:57:30,260
+ wissen, es konzentriert sich auf die
+
+1966
+00:57:29,290 --> 00:57:31,386
+ NIH und dann lassen Sie mich ein paar
+
+1967
+00:57:30,415 --> 00:57:33,599
+ Fragen stellen. Jetzt wird es mir, dem
+
+1968
+00:57:32,659 --> 00:57:35,639
+ Forscher, ein paar Aufnahmefragen
+
+1969
+00:57:34,699 --> 00:57:37,739
+ stellen, um die Dinge sortieren zu
+
+1970
+00:57:36,799 --> 00:57:39,800
+ können. Also sage ich, ich bin ein
+
+1971
+00:57:38,843 --> 00:57:41,311
+ leitender Forscher. Ich habe einige
+
+1972
+00:57:40,347 --> 00:57:42,502
+ Pilotdaten und arbeite mit einem
+
+1973
+00:57:41,538 --> 00:57:43,766
+ akademischen medizinischen Zentrum
+
+1974
+00:57:42,802 --> 00:57:45,395
+ zusammen. Und jetzt wird es einen
+
+1975
+00:57:44,442 --> 00:57:47,220
+ gesamten Suchprozess starten. Lassen
+
+1976
+00:57:46,257 --> 00:57:48,439
+ Sie mich Ihnen also eine fertige
+
+1977
+00:57:47,475 --> 00:57:49,842
+ Version davon zeigen, denn es dauert,
+
+1978
+00:57:48,879 --> 00:57:51,282
+ wie gesagt, eine Weile, bis es läuft,
+
+1979
+00:57:50,319 --> 00:57:52,759
+ aber es ist unglaublich leistungsstark.
+
+1980
+00:57:52,239 --> 00:57:55,029
+ Die Art und Weise, wie dieser Skill
+
+1981
+00:57:54,080 --> 00:57:56,973
+ funktioniert, ist, dass er zuerst Ihr
+
+1982
+00:57:56,024 --> 00:57:58,661
+ Forschungsprojekt nimmt und dann
+
+1983
+00:57:57,712 --> 00:58:00,554
+ Consensus verwendet, um Forschung zu
+
+1984
+00:57:59,605 --> 00:58:02,549
+ Ihrem Projekt zu finden und Lücken in
+
+1985
+00:58:01,600 --> 00:58:04,391
+ der Forschung zu identifizieren, wo
+
+1986
+00:58:03,442 --> 00:58:06,335
+ andere Forscher klar angegeben haben,
+
+1987
+00:58:05,386 --> 00:58:08,279
+ dass mehr Forschung erforderlich ist.
+
+1988
+00:58:08,119 --> 00:58:10,522
+ Sobald es ein Gefühl dafür bekommt,
+
+1989
+00:58:09,560 --> 00:58:12,001
+ wie neuartig Ihre Idee ist oder welche
+
+1990
+00:58:11,039 --> 00:58:13,215
+ Aspekte Ihrer Studie potenziell
+
+1991
+00:58:12,253 --> 00:58:14,656
+ neuartig sein könnten, extrahiert es
+
+1992
+00:58:13,694 --> 00:58:16,021
+ Schlüsselwörter, und was wirklich
+
+1993
+00:58:15,059 --> 00:58:17,387
+ cool ist, ist, dass es tatsächlich
+
+1994
+00:58:16,425 --> 00:58:19,641
+ beginnt, die NIH zu durchsuchen. Sie
+
+1995
+00:58:18,682 --> 00:58:21,233
+ können hier sehen, dass es eine Reihe
+
+1996
+00:58:20,274 --> 00:58:22,743
+ von Suchen in Consensus hier drüben
+
+1997
+00:58:21,784 --> 00:58:24,352
+ durchgeführt hat. Es hat also eine
+
+1998
+00:58:23,395 --> 00:58:25,869
+ Suche durchgeführt, wonach hat es
+
+1999
+00:58:24,912 --> 00:58:27,641
+ gesucht? Klinische Vorhersageregeln mit
+
+2000
+00:58:26,683 --> 00:58:29,760
+ pädiatrischen Notaufnahmen. Und dann
+
+2001
+00:58:28,840 --> 00:58:32,880
+ hat es angefangen, den NIH Reporter zu
+
+2002
+00:58:31,960 --> 00:58:34,842
+ durchsuchen. Es hat also ein Skript
+
+2003
+00:58:33,875 --> 00:58:36,039
+ ausgeführt, um den NIH Reporter zu
+
+2004
+00:58:35,073 --> 00:58:37,371
+ durchsuchen und Projekte zu finden, die
+
+2005
+00:58:36,404 --> 00:58:38,755
+ kürzlich finanziert wurden. Es hat
+
+2006
+00:58:37,808 --> 00:58:40,779
+ immer weiter nach Zuschüssen gesucht
+
+2007
+00:58:39,832 --> 00:58:42,749
+ und schließlich eine Art Übersicht
+
+2008
+00:58:41,802 --> 00:58:44,560
+ zusammengestellt, worauf ich mich
+
+2009
+00:58:43,613 --> 00:58:45,944
+ wirklich freue–eine Art
+
+2010
+00:58:44,997 --> 00:58:48,267
+ Zuschuss-Suchübersicht. Und das bietet
+
+2011
+00:58:47,312 --> 00:58:49,839
+ Ihnen–ich öffne es mal in einem
+
+2012
+00:58:48,883 --> 00:58:51,275
+ Word-Dokument, weil es ziemlich
+
+2013
+00:58:50,320 --> 00:58:53,346
+ umfangreich ist. Es bietet Ihnen eine
+
+2014
+00:58:52,389 --> 00:58:55,008
+ Zusammenfassung für Führungskräfte.
+
+2015
+00:58:54,108 --> 00:58:56,791
+ Also, was sind Lücken? Es enthält
+
+2016
+00:58:55,835 --> 00:58:58,443
+ tatsächlich Zitate aus Fachartikeln
+
+2017
+00:58:57,487 --> 00:59:00,139
+ von anderen Forschern, die aufzeigen,
+
+2018
+00:58:59,184 --> 00:59:01,925
+ wo Lücken bestehen, die Ihre Forschung
+
+2019
+00:59:00,970 --> 00:59:03,663
+ schließen könnte. Und es verlinkt
+
+2020
+00:59:02,708 --> 00:59:05,453
+ auch direkt auf all diese Artikel. Es
+
+2021
+00:59:04,487 --> 00:59:06,745
+ gibt Ihnen eine gewisse Orientierung,
+
+2022
+00:59:05,779 --> 00:59:08,071
+ um Ihren Förderantrag zu beginnen und
+
+2023
+00:59:07,105 --> 00:59:09,363
+ zu überlegen, wie er für Zuschüsse
+
+2024
+00:59:08,397 --> 00:59:11,194
+ in Frage kommen könnte. Es geht alle
+
+2025
+00:59:10,240 --> 00:59:12,951
+ unterstützenden Belege durch, die es
+
+2026
+00:59:11,997 --> 00:59:15,056
+ gefunden hat. Es findet Institute unter
+
+2027
+00:59:14,104 --> 00:59:16,780
+ den NIH, die für eine Finanzierung
+
+2028
+00:59:15,828 --> 00:59:19,201
+ relevant sind. Es findet sogar NOSIs
+
+2029
+00:59:18,255 --> 00:59:21,376
+ und potenzielle Förderbekanntmachungen
+
+2030
+00:59:20,376 --> 00:59:24,647
+, die zu Ihrem Thema passen. Und es
+
+2031
+00:59:23,688 --> 00:59:25,889
+ findet auch ähnliche bereits
+
+2032
+00:59:24,930 --> 00:59:27,902
+ geförderte Projekte. Wenn ich darauf
+
+2033
+00:59:26,951 --> 00:59:28,990
+ klicke, werde ich zur
+
+2034
+00:59:28,039 --> 00:59:30,968
+ NIH-Reporter-Website für ein früheres
+
+2035
+00:59:30,018 --> 00:59:32,947
+ Projekt weitergeleitet, das laut System
+
+2036
+00:59:31,997 --> 00:59:35,591
+ meinem ähnlich oder relevant ist. Sie
+
+2037
+00:59:34,635 --> 00:59:37,309
+ sehen also, wie extrem leistungsfähig
+
+2038
+00:59:36,353 --> 00:59:39,336
+ das werden kann. Und wenn ich hier auf
+
+2039
+00:59:38,383 --> 00:59:41,150
+ die Referenzen gehe, ist alles mit der
+
+2040
+00:59:40,196 --> 00:59:43,804
+ Consensus-URL verknüpft. Also, ja, ich
+
+2041
+00:59:42,853 --> 00:59:45,773
+ hoffe, Sie bekommen langsam ein Gefühl
+
+2042
+00:59:44,823 --> 00:59:47,447
+ dafür, dass es nicht nur um eine
+
+2043
+00:59:46,497 --> 00:59:49,061
+ einfache Suche geht. Man kann weit,
+
+2044
+00:59:48,095 --> 00:59:50,328
+ weit über diesen Punkt hinausgehen.
+
+2045
+00:59:50,179 --> 00:59:52,942
+ Eines würde ich gerne von Ihnen allen
+
+2046
+00:59:51,988 --> 00:59:54,659
+ erfahren: Was möchten Sie aufbauen?
+
+2047
+00:59:55,380 --> 00:59:58,399
+ Ich starte hier kurz eine Umfrage; es
+
+2048
+00:59:57,454 --> 01:00:00,583
+ ist eine offene Frage, also fühlen Sie
+
+2049
+00:59:59,638 --> 01:00:02,657
+ sich frei...okay, ich glaube, das hat
+
+2050
+01:00:01,712 --> 01:00:04,459
+ funktioniert...die Umfrage wurde
+
+2051
+01:00:03,514 --> 01:00:07,044
+ gestartet. Das Ergebnis wird geteilt.
+
+2052
+01:00:06,144 --> 01:00:08,984
+ Wie beende ich das? Freigabe beenden.
+
+2053
+01:00:08,599 --> 01:00:12,057
+ Cool. Ja, das ist einfach eine offene
+
+2054
+01:00:11,109 --> 01:00:13,870
+ Frage. Ich würde gerne verstehen,
+
+2055
+01:00:12,912 --> 01:00:15,224
+ welche Dinge Sie gerne umsetzen
+
+2056
+01:00:14,267 --> 01:00:16,579
+ möchten. Welche Aspekte Ihres
+
+2057
+01:00:15,621 --> 01:00:18,159
+ Forschungsprozesses haben nun, da Sie
+
+2058
+01:00:17,201 --> 01:00:19,781
+ dies sehen, möglicherweise neue Ideen
+
+2059
+01:00:18,822 --> 01:00:21,319
+ bei Ihnen geweckt, wie zum Beispiel:
+
+2060
+01:00:20,360 --> 01:00:22,816
+ „Ich führe eine spezielle Studie
+
+2061
+01:00:21,857 --> 01:00:23,980
+ dazu durch und möchte eine
+
+2062
+01:00:23,021 --> 01:00:25,518
+ Möglichkeit haben, mein Training zu
+
+2063
+01:00:24,560 --> 01:00:26,849
+ gestalten oder etwas für meine
+
+2064
+01:00:25,890 --> 01:00:28,387
+ Auszubildenden zu erstellen“, oder
+
+2065
+01:00:27,429 --> 01:00:30,009
+ „Ich mache Literaturübersichten auf
+
+2066
+01:00:29,050 --> 01:00:31,547
+ diese Weise und möchte, dass sie so
+
+2067
+01:00:30,588 --> 01:00:33,078
+ und so erledigt werden“? Denn eines
+
+2068
+01:00:32,109 --> 01:00:34,097
+ der Dinge, die wir bei Consensus
+
+2069
+01:00:33,128 --> 01:00:35,147
+ erreichen wollen, ist, Ihnen eine
+
+2070
+01:00:34,178 --> 01:00:36,383
+ umfassende Bibliothek zur Verfügung zu
+
+2071
+01:00:35,413 --> 01:00:37,724
+ stellen. Wie wir also hier bereits
+
+2072
+01:00:36,763 --> 01:00:39,189
+ besprochen haben, verfügen wir über
+
+2073
+01:00:38,228 --> 01:00:40,692
+ all diese verschiedenen Bereiche, für
+
+2074
+01:00:39,731 --> 01:00:42,030
+ die wir Vorlagen haben. Wir möchten
+
+2075
+01:00:41,056 --> 01:00:43,096
+ noch viel mehr davon erstellen. Wir
+
+2076
+01:00:42,140 --> 01:00:44,822
+ befinden uns noch in der frühen Phase
+
+2077
+01:00:43,866 --> 01:00:46,503
+ und müssen noch viel lernen, und ich
+
+2078
+01:00:45,547 --> 01:00:48,184
+ denke, wir möchten einfach von Ihnen
+
+2079
+01:00:47,228 --> 01:00:49,692
+ allen lernen. Welche Dinge wären
+
+2080
+01:00:48,732 --> 01:00:51,099
+ hilfreich für Sie? Welche weiteren
+
+2081
+01:00:50,133 --> 01:00:52,464
+ Tools außer der Suche können wir noch
+
+2082
+01:00:51,499 --> 01:00:53,805
+ bereitstellen? Was wünschen Sie sich
+
+2083
+01:00:52,838 --> 01:00:55,084
+ in Bezug auf die Suchfunktion? Dinge
+
+2084
+01:00:54,115 --> 01:00:56,183
+ wie Referenzen und Zitationsgraphen
+
+2085
+01:00:55,214 --> 01:00:57,313
+ stehen bereits auf unserer Liste der
+
+2086
+01:00:56,344 --> 01:00:58,560
+ Dinge, die wir anbieten möchten. Wir
+
+2087
+01:00:57,597 --> 01:00:59,648
+ wollen dies zu einem wirklich
+
+2088
+01:00:58,684 --> 01:01:00,881
+ wertvollen Werkzeug für Forscher
+
+2089
+01:00:59,917 --> 01:01:02,150
+ machen, und der beste Weg, dies zu
+
+2090
+01:01:01,186 --> 01:01:03,492
+ erreichen, ist, von Ihnen zu lernen.
+
+2091
+01:01:02,592 --> 01:01:04,638
+ Teilen Sie uns daher bitte Ihre
+
+2092
+01:01:03,672 --> 01:01:05,921
+ Anwendungsfälle mit, während Sie es
+
+2093
+01:01:04,955 --> 01:01:07,145
+ nutzen. Bitte hinterlassen Sie Ihre
+
+2094
+01:01:06,177 --> 01:01:08,524
+ Anmerkungen in dieser Umfrage. Wow, wir
+
+2095
+01:01:07,561 --> 01:01:09,722
+ haben schon über 100 Antworten
+
+2096
+01:01:08,760 --> 01:01:11,379
+ erhalten. Das ist der Wahnsinn. Vielen
+
+2097
+01:01:10,413 --> 01:01:13,039
+ herzlichen Dank an euch alle. Aber ja,
+
+2098
+01:01:12,079 --> 01:01:14,559
+ wir werden uns auch bei Ihnen melden.
+
+2099
+01:01:13,679 --> 01:01:15,799
+ Wenn Sie sich also mit Consensus
+
+2100
+01:01:14,834 --> 01:01:17,164
+ verbinden und an Ihre Grenzen stoßen,
+
+2101
+01:01:16,199 --> 01:01:18,516
+ melden Sie sich bei uns. Wenn Sie eine
+
+2102
+01:01:17,543 --> 01:01:19,604
+ Idee für etwas haben, das Sie aufbauen
+
+2103
+01:01:18,631 --> 01:01:20,986
+ möchten, melden Sie sich bei uns. Das
+
+2104
+01:01:20,034 --> 01:01:22,835
+ können Sie über den Support-Bereich
+
+2105
+01:01:21,884 --> 01:01:24,862
+ tun. Ganz unten hier in Consensus
+
+2106
+01:01:23,918 --> 01:01:27,040
+ finden Sie unseren Support, senden Sie
+
+2107
+01:01:26,096 --> 01:01:29,174
+ diesem Team gerne eine Nachricht. Das
+
+2108
+01:01:28,210 --> 01:01:30,623
+ ist Allison, die auch hier im Call ist.
+
+2109
+01:01:29,723 --> 01:01:32,140
+ Allison nimmt all diese Anfragen sowie
+
+2110
+01:01:31,178 --> 01:01:33,558
+ sämtliche Funktionswünsche entgegen
+
+2111
+01:01:32,595 --> 01:01:34,938
+ und leitet sie wöchentlich an unser
+
+2112
+01:01:33,976 --> 01:01:36,773
+ Team weiter. Auf diese Weise erhalten
+
+2113
+01:01:35,820 --> 01:01:38,569
+ wir Feedback und entscheiden, was wir
+
+2114
+01:01:37,617 --> 01:01:40,641
+ als Nächstes entwickeln. Sagen Sie uns
+
+2115
+01:01:39,680 --> 01:01:42,187
+ also bitte, was Sie entwickeln möchten
+
+2116
+01:01:41,225 --> 01:01:43,920
+ und was wir besser machen können. Ich
+
+2117
+01:01:42,960 --> 01:01:45,535
+ weiß, wir haben etwas überzogen, also
+
+2118
+01:01:44,576 --> 01:01:47,030
+ vielen herzlichen Dank an alle, dass
+
+2119
+01:01:46,070 --> 01:01:48,827
+ Sie heute dabei waren. Das ist so
+
+2120
+01:01:47,892 --> 01:01:51,661
+ ziemlich das Ende dieses Webinars. Ähm
+
+2121
+01:01:50,661 --> 01:01:53,528
+, für alle hier im Call: Wir werden
+
+2122
+01:01:52,579 --> 01:01:55,446
+ eine E-Mail mit der Aufzeichnung und
+
+2123
+01:01:54,498 --> 01:01:57,562
+ einem Link zum Kurs versenden. Und hier
+
+2124
+01:01:56,613 --> 01:01:59,554
+ auf dieser MCP-Seite ganz unten findet
+
+2125
+01:01:58,605 --> 01:02:00,524
+ ihr einen Link zum
+
+2126
+01:01:59,575 --> 01:02:02,202
+ Schritt-für-Schritt-Kurs. Dieser
+
+2127
+01:02:01,236 --> 01:02:03,502
+ führt euch Schritt für Schritt durch
+
+2128
+01:02:02,535 --> 01:02:04,701
+ alles, was wir im Webinar behandelt
+
+2129
+01:02:03,735 --> 01:02:06,520
+ haben. Nur noch viel ausführlicher. Es
+
+2130
+01:02:05,557 --> 01:02:07,854
+ gibt einen eigenen Bereich für die
+
+2131
+01:02:06,892 --> 01:02:08,893
+ Stipendiensuche, einen für
+
+2132
+01:02:07,930 --> 01:02:10,264
+ Literaturübersichten und einen für
+
+2133
+01:02:09,302 --> 01:02:11,670
+ Fertigkeiten. So könnt ihr auch in
+
+2134
+01:02:10,707 --> 01:02:14,057
+ eurem eigenen Tempo lernen. Also, ja.
+
+2135
+01:02:13,399 --> 01:02:15,899
+ Vielen herzlichen Dank an alle fürs
+
+2136
+01:02:14,940 --> 01:02:17,385
+ Teilnehmen. Ähm, wir wissen das
+
+2137
+01:02:16,429 --> 01:02:19,018
+ wirklich sehr zu schätzen. Also,
+
+2138
+01:02:18,060 --> 01:02:20,605
+ fühlt euch frei, weiterhin Antworten
+
+2139
+01:02:19,647 --> 01:02:22,132
+ in der Umfrage zu geben. Wir lassen
+
+2140
+01:02:21,170 --> 01:02:23,662
+ diese noch für ein paar Minuten laufen
+
+2141
+01:02:22,662 --> 01:02:25,225
+. Der Chat macht uns wirklich sehr
+
+2142
+01:02:24,270 --> 01:02:27,065
+ glücklich. Wir schätzen euch alle
+
+2143
+01:02:26,117 --> 01:02:27,380
+ sehr.
+
+2144
+01:02:29,580 --> 01:02:33,044
+ Danke an alle. Eric, Eric hier noch
+
+2145
+01:02:32,099 --> 01:02:35,073
+ einmal. Es bedeutet uns unglaublich
+
+2146
+01:02:34,112 --> 01:02:36,400
+ viel, dass ihr euch alle die Zeit
+
+2147
+01:02:35,439 --> 01:02:39,011
+ dafür genommen habt. Noch einmal, wir
+
+2148
+01:02:38,066 --> 01:02:41,139
+ senden euch die Aufzeichnung zu, damit
+
+2149
+01:02:40,193 --> 01:02:43,320
+ ihr sie euch noch einmal ansehen könnt
+
+2150
+01:02:42,320 --> 01:02:45,448
+, vielleicht bei halber Geschwindigkeit
+
+2151
+01:02:44,502 --> 01:02:47,753
+ oder so. Ähm, wir behandeln
+
+2152
+01:02:46,853 --> 01:02:49,076
+ Mir wurde gesagt, dass ich sehr schnell
+
+2153
+01:02:48,108 --> 01:02:50,014
+ spreche. Deshalb,
+
+2154
+01:02:49,376 --> 01:02:51,709
+ gibt es eine Menge Informationen zu
+
+2155
+01:02:50,747 --> 01:02:53,131
+ vermitteln. Ähm, und wie Daniel
+
+2156
+01:02:52,174 --> 01:02:54,859
+ bereits erwähnte, sind wir immer offen
+
+2157
+01:02:53,902 --> 01:02:56,703
+ für Feedback. Schickt es uns also
+
+2158
+01:02:55,749 --> 01:02:58,640
+ gerne zu. Wir freuen uns darauf, diese
+
+2159
+01:02:57,686 --> 01:02:59,787
+ Tools gemeinsam mit euch
+
+2160
+01:02:58,833 --> 01:03:01,531
+ weiterzuentwickeln, um euch bei eurer
+
+2161
+01:03:00,577 --> 01:03:03,276
+ großartigen Arbeit zu unterstützen.
+
+2162
+01:03:03,630 --> 01:03:06,822
+ Großartig. Cool. Vielen Dank an alle.
+
+2163
+01:03:05,922 --> 01:03:08,246
+ Okay, wir beenden die Aufnahme jetzt,
+
+2164
+01:03:07,282 --> 01:03:09,870
+ aber wir sehen uns bald wieder. Bleibt
+
+2165
+01:03:08,933 --> 01:03:11,440
+ dran. Wir planen noch viele weitere
+
+2166
+01:03:10,478 --> 01:03:12,833
+ Webinare wie diese, in denen wir auf
+
+2167
+01:03:11,871 --> 01:03:14,189
+ spezifische Themen eingehen werden.
+
+2168
+01:03:13,341 --> 01:03:15,977
+ Behaltet also eure E-Mails im Auge und
+
+2169
+01:03:15,021 --> 01:03:17,442
+ schaut regelmäßig bei Consensus
+
+2170
+01:03:16,485 --> 01:03:19,122
+ vorbei, um zu sehen, ob es etwas Neues
+
+2171
+01:03:18,165 --> 01:03:21,134
+ gibt. Wir sehen uns dann beim nächsten
+
+2172
+01:03:20,184 --> 01:03:22,402
+ Mal. Tschüss zusammen.
+
+2173
+01:03:21,781 --> 01:03:23,618
+ Vielen Dank an alle.
+

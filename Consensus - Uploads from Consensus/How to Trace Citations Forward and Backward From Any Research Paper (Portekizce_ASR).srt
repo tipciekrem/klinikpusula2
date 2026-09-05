@@ -1,0 +1,364 @@
+1
+00:00:00,100 --> 00:00:02,535
+Como pesquisador, ao encontrar um
+
+2
+00:00:01,578 --> 00:00:04,231
+ artigo importante, você quer entender
+
+3
+00:00:03,274 --> 00:00:06,144
+ seu lugar na história. O que o levou a
+
+4
+00:00:05,193 --> 00:00:07,880
+ ele e como o campo se baseou nele.
+
+5
+00:00:07,040 --> 00:00:10,413
+ Normalmente, isso leva semanas, se não
+
+6
+00:00:09,474 --> 00:00:12,383
+ meses. Com o Consensus, você pode
+
+7
+00:00:11,430 --> 00:00:14,142
+ fazer isso facilmente ao rastrear as
+
+8
+00:00:13,189 --> 00:00:16,043
+ citações de um artigo, percorrendo as
+
+9
+00:00:15,090 --> 00:00:17,802
+ referências tanto para trás quanto
+
+10
+00:00:16,849 --> 00:00:23,484
+ para frente. No Consensus, vou
+
+11
+00:00:22,521 --> 00:00:24,733
+ perguntar sobre um artigo chamado
+
+12
+00:00:23,770 --> 00:00:26,166
+ Atenção é Tudo o que Você Precisa,
+
+13
+00:00:25,202 --> 00:00:27,598
+ que é um artigo fundamental em grande
+
+14
+00:00:26,635 --> 00:00:28,884
+ parte do desenvolvimento de IA que
+
+15
+00:00:27,921 --> 00:00:31,106
+ vimos recentemente. Vou pedir para ele
+
+16
+00:00:30,150 --> 00:00:32,747
+ me mostrar os artigos que ele cita e
+
+17
+00:00:31,791 --> 00:00:34,432
+ entender em qual linhagem intelectual
+
+18
+00:00:33,476 --> 00:00:36,002
+ os autores se basearam. Então, em
+
+19
+00:00:35,043 --> 00:00:37,504
+ nossa primeira pesquisa, o Consensus
+
+20
+00:00:36,545 --> 00:00:39,096
+ vai voltar no tempo. Então, você pode
+
+21
+00:00:38,132 --> 00:00:40,511
+ ver que a primeira coisa que ele faz é
+
+22
+00:00:39,546 --> 00:00:42,715
+ procurar o artigo propriamente dito. Em
+
+23
+00:00:41,763 --> 00:00:44,203
+ seguida, ele usa o gráfico de
+
+24
+00:00:43,251 --> 00:00:46,075
+ citações para rastrear as citações
+
+25
+00:00:45,123 --> 00:00:47,803
+ desse artigo e entender quais foram
+
+26
+00:00:46,851 --> 00:00:49,877
+ todos os artigos que ele citou. Em
+
+27
+00:00:48,915 --> 00:00:51,417
+ seguida, ele fará uma lista restrita e
+
+28
+00:00:50,456 --> 00:00:52,804
+ lerá esses artigos para determinar
+
+29
+00:00:51,842 --> 00:00:54,268
+ quais são mais relevantes para o que
+
+30
+00:00:53,306 --> 00:00:55,921
+ estou perguntando. Agora, ele está me
+
+31
+00:00:54,964 --> 00:00:57,520
+ dando uma linhagem dos artigos que o
+
+32
+00:00:56,564 --> 00:00:59,250
+ Attention Is All You Need referenciou e
+
+33
+00:00:58,250 --> 00:01:00,719
+, se eu passar o mouse sobre eles,
+
+34
+00:00:59,763 --> 00:01:02,380
+ posso acessá-los diretamente. Posso
+
+35
+00:01:01,425 --> 00:01:03,705
+ ver quais foram os principais
+
+36
+00:01:02,750 --> 00:01:05,163
+ precursores da atenção, outras
+
+37
+00:01:04,207 --> 00:01:06,930
+ arquiteturas que evoluíram ao longo do
+
+38
+00:01:05,974 --> 00:01:08,520
+ tempo, bem como um resumo do campo.
+
+39
+00:01:08,160 --> 00:01:10,873
+ Agora, posso fazer várias perguntas de
+
+40
+00:01:09,917 --> 00:01:12,586
+ acompanhamento, mas vamos dar um passo
+
+41
+00:01:11,630 --> 00:01:14,255
+ a mais e, em vez de olhar para trás,
+
+42
+00:01:13,299 --> 00:01:15,925
+ vamos olhar para frente no tempo para
+
+43
+00:01:14,968 --> 00:01:17,682
+ ver como um campo muito específico foi
+
+44
+00:01:16,726 --> 00:01:19,483
+ influenciado por este artigo. Então,
+
+45
+00:01:18,535 --> 00:01:21,560
+ farei uma pergunta de acompanhamento: "
+
+46
+00:01:20,560 --> 00:01:23,481
+Mostre-me artigos dos últimos 5 anos
+
+47
+00:01:22,533 --> 00:01:25,559
+ que citaram modelagem de fala e áudio.
+
+48
+00:01:25,220 --> 00:01:27,822
+ Como eles adaptaram a atenção a
+
+49
+00:01:26,871 --> 00:01:29,716
+ espectrogramas ou áudio bruto e quais
+
+50
+00:01:28,764 --> 00:01:32,066
+ tarefas os beneficiaram?" Então, quero
+
+51
+00:01:31,117 --> 00:01:33,821
+ entender o impacto que este artigo
+
+52
+00:01:32,872 --> 00:01:35,426
+ específico teve em um nicho de
+
+53
+00:01:34,476 --> 00:01:37,432
+ modelagem de fala apenas nos últimos 5
+
+54
+00:01:36,482 --> 00:01:38,827
+ anos. Então, você pode ver que o
+
+55
+00:01:37,863 --> 00:01:40,142
+ Consensus está pesquisando o artigo
+
+56
+00:01:39,177 --> 00:01:41,457
+ Atenção é Tudo que Você Precisa.
+
+57
+00:01:40,557 --> 00:01:42,946
+ Ele está executando uma série de
+
+58
+00:01:41,987 --> 00:01:44,499
+ pesquisas para obter uma noção mais
+
+59
+00:01:43,540 --> 00:01:46,011
+ ampla de como o campo se desenvolveu
+
+60
+00:01:45,052 --> 00:01:47,482
+ nos últimos 5 anos aplicando esses
+
+61
+00:01:46,523 --> 00:01:49,117
+ filtros e, em seguida, está explorando
+
+62
+00:01:48,158 --> 00:01:50,752
+ novamente o gráfico de citações para
+
+63
+00:01:49,793 --> 00:01:52,060
+ encontrar artigos que realmente
+
+64
+00:01:51,101 --> 00:01:53,408
+ referenciaram o artigo principal
+
+65
+00:01:52,449 --> 00:01:54,921
+ Atenção é Tudo que Você Precisa.
+
+66
+00:01:54,540 --> 00:01:57,311
+ Com essas informações, ele fez outra
+
+67
+00:01:56,357 --> 00:01:59,175
+ pesquisa para preencher algumas lacunas
+
+68
+00:01:58,221 --> 00:02:00,946
+ que pode ter encontrado e agora está
+
+69
+00:01:59,992 --> 00:02:02,391
+ me fornecendo uma visão geral
+
+70
+00:02:01,437 --> 00:02:03,789
+ importante de como esse campo
+
+71
+00:02:02,835 --> 00:02:05,653
+ específico evoluiu nos últimos 5 anos
+
+72
+00:02:04,653 --> 00:02:07,747
+. E agora, em apenas duas pesquisas,
+
+73
+00:02:06,802 --> 00:02:09,889
+ peguei um artigo principal que sei ser
+
+74
+00:02:08,944 --> 00:02:11,976
+ seminal em um campo, olhei para trás
+
+75
+00:02:11,031 --> 00:02:14,008
+ no tempo para entender quais artigos
+
+76
+00:02:13,063 --> 00:02:16,150
+ ele mencionou para realmente se basear
+
+77
+00:02:15,205 --> 00:02:18,127
+ e, em seguida, olhei para frente no
+
+78
+00:02:17,182 --> 00:02:19,774
+ tempo e reduzi a um setor bem
+
+79
+00:02:18,829 --> 00:02:21,697
+ específico para ver como o artigo
+
+80
+00:02:20,752 --> 00:02:23,784
+ seminal influenciou o desenvolvimento
+
+81
+00:02:22,839 --> 00:02:25,706
+ desse campo específico apenas nos
+
+82
+00:02:24,761 --> 00:02:28,191
+ últimos 5 anos. Caso contrário, isso
+
+83
+00:02:27,251 --> 00:02:31,141
+ levaria semanas vasculhando PDFs. Agora
+
+84
+00:02:30,141 --> 00:02:32,940
+, o Consensus é totalmente gratuito.
+
+85
+00:02:32,120 --> 00:02:34,508
+ Se você nunca usou antes, confira o
+
+86
+00:02:33,547 --> 00:02:36,455
+ link na descrição. E se você quiser
+
+87
+00:02:35,495 --> 00:02:38,046
+ se tornar um especialista em Consenso e
+
+88
+00:02:37,086 --> 00:02:39,320
+ fazer pesquisas melhores e mais
+
+89
+00:02:38,359 --> 00:02:40,752
+ rápidas, clique em se inscrever no
+
+90
+00:02:39,792 --> 00:02:42,105
+ canal e confira alguns dos outros
+
+91
+00:02:41,144 --> 00:02:43,060
+ vídeos desta playlist.
+

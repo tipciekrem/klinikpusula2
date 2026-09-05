@@ -1,0 +1,520 @@
+1
+00:00:00,100 --> 00:00:03,077
+Se você salvou centenas de artigos de
+
+2
+00:00:02,129 --> 00:00:05,159
+ pesquisa na sua biblioteca, ou milhares
+
+3
+00:00:04,159 --> 00:00:06,877
+, e quer uma maneira de pesquisar
+
+4
+00:00:05,929 --> 00:00:08,803
+ apenas nos artigos que você salvou,
+
+5
+00:00:07,855 --> 00:00:10,416
+ agora você pode fazer isso no
+
+6
+00:00:09,468 --> 00:00:12,342
+ Consensus com a pesquisa profunda em
+
+7
+00:00:11,394 --> 00:00:14,619
+ sua biblioteca. Então, vamos entrar no
+
+8
+00:00:13,678 --> 00:00:16,958
+ Consensus e ir até a nossa biblioteca.
+
+9
+00:00:16,058 --> 00:00:19,687
+ Posso ver aqui que minha biblioteca tem
+
+10
+00:00:18,755 --> 00:00:22,118
+ cerca de 400 artigos. Se você ainda
+
+11
+00:00:21,178 --> 00:00:24,478
+ não usou a biblioteca, pode adicionar
+
+12
+00:00:23,539 --> 00:00:26,657
+ artigos diretamente fazendo upload,
+
+13
+00:00:25,717 --> 00:00:28,473
+ colando os DOIs ou importando
+
+14
+00:00:27,533 --> 00:00:30,704
+ diretamente do Zotero. Isso é ótimo
+
+15
+00:00:29,757 --> 00:00:32,816
+ se você já tem uma biblioteca enorme,
+
+16
+00:00:31,869 --> 00:00:34,823
+ pois trará todos os artigos, o texto
+
+17
+00:00:33,876 --> 00:00:36,935
+ completo e tudo o que você salvou para
+
+18
+00:00:35,988 --> 00:00:38,989
+ a sua biblioteca do Consensus. Tudo o
+
+19
+00:00:38,042 --> 00:00:40,888
+ que você envia para o Consensus é
+
+20
+00:00:39,940 --> 00:00:42,575
+ privado, então não precisa se
+
+21
+00:00:41,628 --> 00:00:44,579
+ preocupar com compartilhamento ou uso
+
+22
+00:00:43,632 --> 00:00:46,759
+ para treinar modelos. É muito parecido
+
+23
+00:00:45,813 --> 00:00:48,707
+ com adicionar um artigo a um Google
+
+24
+00:00:47,761 --> 00:00:50,869
+ Drive ao qual você tem acesso. Agora,
+
+25
+00:00:49,924 --> 00:00:53,075
+ uma vez no Consensus, você verá que a
+
+26
+00:00:52,130 --> 00:00:55,280
+ biblioteca já está conectada à minha
+
+27
+00:00:54,335 --> 00:00:57,188
+ pesquisa. O melhor é que agora posso
+
+28
+00:00:56,234 --> 00:00:59,049
+ fazer uma pergunta e pedir ao Consensus
+
+29
+00:00:58,095 --> 00:01:00,677
+ que vasculhe minha biblioteca para
+
+30
+00:00:59,724 --> 00:01:02,505
+ respondê-la. Vou fazer uma pergunta:
+
+31
+00:01:01,552 --> 00:01:04,378
+ quais são as lacunas populacionais nas
+
+32
+00:01:03,425 --> 00:01:05,595
+ pesquisas que reuni sobre
+
+33
+00:01:04,642 --> 00:01:07,417
+ desenvolvimento muscular? Quero que o
+
+34
+00:01:06,463 --> 00:01:08,840
+ Consensus analise toda a minha
+
+35
+00:01:07,886 --> 00:01:10,675
+ biblioteca e entenda quais populações
+
+36
+00:01:09,721 --> 00:01:12,465
+ estão faltando e sobre as quais ainda
+
+37
+00:01:11,511 --> 00:01:14,654
+ não coletei pesquisas. Para fazer isso
+
+38
+00:01:13,654 --> 00:01:16,883
+, vou ativar o modo profundo. Isso
+
+39
+00:01:15,937 --> 00:01:19,011
+ ativará a pesquisa profunda dentro do
+
+40
+00:01:18,066 --> 00:01:20,867
+ Consensus, permitindo analisar um
+
+41
+00:01:19,922 --> 00:01:22,887
+ grande conjunto de dados de artigos.
+
+42
+00:01:21,987 --> 00:01:24,588
+ Ele executará várias perguntas e
+
+43
+00:01:23,635 --> 00:01:26,426
+ amostrará diferentes artigos da minha
+
+44
+00:01:25,473 --> 00:01:28,075
+ biblioteca para encontrar todos os
+
+45
+00:01:27,122 --> 00:01:29,582
+ relacionados ao desenvolvimento
+
+46
+00:01:28,629 --> 00:01:31,372
+ muscular e, então, analisá-los para
+
+47
+00:01:30,420 --> 00:01:33,069
+ identificar onde estão as lacunas.
+
+48
+00:01:32,169 --> 00:01:35,003
+ Você pode ver aqui, logo no topo, que
+
+49
+00:01:34,051 --> 00:01:36,693
+ ele está coletando uma amostra da
+
+50
+00:01:35,741 --> 00:01:38,613
+ minha biblioteca. Imediatamente, ele
+
+51
+00:01:37,666 --> 00:01:40,569
+ encontrou 20 artigos que parecem ser
+
+52
+00:01:39,622 --> 00:01:42,706
+ relevantes para a pergunta que fiz. Ele
+
+53
+00:01:41,751 --> 00:01:44,309
+ fará a leitura desses artigos e, a
+
+54
+00:01:43,354 --> 00:01:45,734
+ partir daí, determinará quais
+
+55
+00:01:44,779 --> 00:01:47,516
+ perguntas posso começar a pesquisar no
+
+56
+00:01:46,560 --> 00:01:49,100
+ Consensus. Como você pode ver, ele
+
+57
+00:01:48,141 --> 00:01:50,757
+ começará a pesquisar sistematicamente
+
+58
+00:01:49,798 --> 00:01:52,207
+ em minha coleção por tópicos de
+
+59
+00:01:51,248 --> 00:01:53,864
+ desenvolvimento muscular para encontrar
+
+60
+00:01:52,906 --> 00:01:55,501
+ esses artigos. Ele executou quatro
+
+61
+00:01:54,549 --> 00:01:57,139
+ buscas diferentes nos bastidores.
+
+62
+00:01:56,239 --> 00:01:58,541
+ Conseguiu encontrar diferentes
+
+63
+00:01:57,584 --> 00:02:00,016
+ conjuntos de artigos com cada uma
+
+64
+00:01:59,060 --> 00:02:01,794
+ dessas buscas. E a partir disso, ele
+
+65
+00:02:00,843 --> 00:02:03,603
+ remove as duplicatas e analisa quais
+
+66
+00:02:02,652 --> 00:02:05,314
+ são os mais relevantes para o meu
+
+67
+00:02:04,363 --> 00:02:07,339
+ tópico atual. Você pode ver que ele
+
+68
+00:02:06,393 --> 00:02:09,202
+ leu tudo isso. Ele identificou onde
+
+69
+00:02:08,249 --> 00:02:10,865
+ faltavam informações e continuou
+
+70
+00:02:09,912 --> 00:02:12,433
+ adicionando novas pesquisas para
+
+71
+00:02:11,481 --> 00:02:14,323
+ encontrar artigos diferentes. Para ver
+
+72
+00:02:13,369 --> 00:02:15,872
+ se eu realmente tenho artigos que
+
+73
+00:02:14,917 --> 00:02:17,661
+ preenchem as lacunas ou não. E você
+
+74
+00:02:16,707 --> 00:02:19,412
+ notará que cada pesquisa que ele faz
+
+75
+00:02:18,458 --> 00:02:21,072
+ está marcada com minha biblioteca.
+
+76
+00:02:20,172 --> 00:02:22,861
+ Isso significa que ele está olhando
+
+77
+00:02:21,908 --> 00:02:24,644
+ apenas para os artigos que coletei, e
+
+78
+00:02:23,691 --> 00:02:26,751
+ não para o índice geral. Incrível.
+
+79
+00:02:25,851 --> 00:02:28,392
+ Parece que terminou agora e já
+
+80
+00:02:27,442 --> 00:02:30,281
+ começou a listar todos os artigos no
+
+81
+00:02:29,331 --> 00:02:32,228
+ lado direito. Então, você pode ver
+
+82
+00:02:31,280 --> 00:02:33,797
+ que ele encontrou 109 artigos
+
+83
+00:02:32,850 --> 00:02:35,698
+ elegíveis e leu 50 deles. E posso
+
+84
+00:02:34,754 --> 00:02:37,807
+ encontrar todos esses artigos aqui no
+
+85
+00:02:36,863 --> 00:02:40,082
+ lado direito. Agora, se eu rolar para
+
+86
+00:02:39,142 --> 00:02:42,207
+ baixo e fechar esta pergunta aqui,
+
+87
+00:02:41,268 --> 00:02:44,394
+ posso ver que o Consensus me deu um
+
+88
+00:02:43,455 --> 00:02:46,581
+ mapa visual completo de onde faltam
+
+89
+00:02:45,642 --> 00:02:49,017
+ estudos em diferentes populações. E o
+
+90
+00:02:48,066 --> 00:02:50,757
+ que é ótimo é que pude analisar
+
+91
+00:02:49,807 --> 00:02:52,597
+ todos os artigos da minha biblioteca
+
+92
+00:02:51,647 --> 00:02:54,592
+ para descobrir isso. Posso ver aqui que
+
+93
+00:02:53,639 --> 00:02:56,388
+ faltam dados longitudinais, análises
+
+94
+00:02:55,435 --> 00:02:58,042
+ específicas por sexo, e estou com
+
+95
+00:02:57,089 --> 00:02:59,790
+ poucos dados de intervenção direta
+
+96
+00:02:58,838 --> 00:03:01,397
+ sobre raça, etnia e populações
+
+97
+00:03:00,444 --> 00:03:03,353
+ clínicas especiais. Esta é uma ótima
+
+98
+00:03:02,401 --> 00:03:05,225
+ maneira de fazer uma análise profunda
+
+99
+00:03:04,273 --> 00:03:07,001
+ em uma grande biblioteca de pesquisa
+
+100
+00:03:06,049 --> 00:03:08,901
+ que você possa ter. Agora, se eu
+
+101
+00:03:07,962 --> 00:03:10,684
+ quiser fazer uma pergunta de
+
+102
+00:03:09,746 --> 00:03:13,021
+ acompanhamento, por exemplo, vejo que
+
+103
+00:03:12,083 --> 00:03:14,928
+ mulheres estão presentes, mas
+
+104
+00:03:13,990 --> 00:03:17,081
+ estudadas de forma desigual, posso
+
+105
+00:03:16,142 --> 00:03:19,234
+ remover isso e dizer: "Pesquise no
+
+106
+00:03:18,295 --> 00:03:21,509
+ índice geral para encontrar artigos
+
+107
+00:03:20,571 --> 00:03:24,504
+ que preencham essas lacunas". E vou
+
+108
+00:03:23,571 --> 00:03:27,194
+ dizer: "Foque em artigos publicados nos
+
+109
+00:03:26,261 --> 00:03:31,571
+ últimos 10 anos". O melhor é que o
+
+110
+00:03:30,625 --> 00:03:33,427
+ Consensus tem todo o contexto das
+
+111
+00:03:32,482 --> 00:03:35,612
+ lacunas que existem na minha biblioteca
+
+112
+00:03:34,666 --> 00:03:37,578
+ e ele conseguirá realizar a busca.
+
+113
+00:03:36,678 --> 00:03:39,365
+ Isso é muito parecido com outro
+
+114
+00:03:38,417 --> 00:03:41,421
+ tutorial que fizemos, onde não usamos
+
+115
+00:03:40,473 --> 00:03:43,477
+ a pesquisa profunda, mas isso mostra a
+
+116
+00:03:42,530 --> 00:03:45,533
+ diferença entre a pesquisa profunda e
+
+117
+00:03:44,586 --> 00:03:47,675
+ uma pesquisa comum. A pesquisa profunda
+
+118
+00:03:46,727 --> 00:03:49,702
+ é ótima se você quiser analisar uma
+
+119
+00:03:48,754 --> 00:03:51,729
+ biblioteca muito grande, como a que eu
+
+120
+00:03:50,781 --> 00:03:53,809
+ tenho, ou uma significativamente maior.
+
+121
+00:03:52,909 --> 00:03:55,654
+ Então, agora usando a pesquisa
+
+122
+00:03:54,711 --> 00:03:57,794
+ profunda, consegui realizar uma busca
+
+123
+00:03:56,851 --> 00:03:59,653
+ abrangente em uma biblioteca com
+
+124
+00:03:58,709 --> 00:04:01,697
+ centenas ou milhares de artigos. Se
+
+125
+00:04:00,740 --> 00:04:03,415
+ quiser aprender mais tutoriais ou ver o
+
+126
+00:04:02,458 --> 00:04:04,790
+ que mais você pode fazer com o
+
+127
+00:04:03,833 --> 00:04:06,207
+ Consensus, confira nossos outros
+
+128
+00:04:05,250 --> 00:04:07,839
+ tutoriais no canal e não deixe de se
+
+129
+00:04:06,882 --> 00:04:09,514
+ inscrever para ficar atualizado sempre
+
+130
+00:04:08,557 --> 00:04:10,846
+ que lançarmos novos recursos.
+

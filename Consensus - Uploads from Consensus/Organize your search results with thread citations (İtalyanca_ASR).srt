@@ -1,0 +1,360 @@
+1
+00:00:00,100 --> 00:00:02,722
+Sono Daniel di Consensus e abbiamo
+
+2
+00:00:01,770 --> 00:00:04,631
+ rilasciato una funzione che rende molto
+
+3
+00:00:03,679 --> 00:00:06,540
+ più semplice tenere traccia di tutti i
+
+4
+00:00:05,588 --> 00:00:08,306
+ documenti che Consensus trova per te
+
+5
+00:00:07,353 --> 00:00:10,167
+ durante lunghe e approfondite sessioni
+
+6
+00:00:09,215 --> 00:00:12,001
+ di ricerca. Si chiama citazioni del
+
+7
+00:00:11,050 --> 00:00:13,437
+ thread. Ora, prima di iniziare,
+
+8
+00:00:12,478 --> 00:00:14,790
+ assicurati di mettere mi piace e
+
+9
+00:00:13,831 --> 00:00:16,184
+ iscriverti qui sotto per rimanere
+
+10
+00:00:15,225 --> 00:00:17,619
+ aggiornato sui migliori consigli e
+
+11
+00:00:16,660 --> 00:00:19,095
+ trucchi per utilizzare strumenti di
+
+12
+00:00:18,136 --> 00:00:20,612
+ ricerca basati su IA come Consensus.
+
+13
+00:00:19,712 --> 00:00:22,819
+ Ora che siamo in Consensus, facciamo
+
+14
+00:00:21,878 --> 00:00:26,112
+ una domanda qui su crispr-cas 9. Ciò
+
+15
+00:00:25,165 --> 00:00:28,088
+ che Consensus fa dietro le quinte è
+
+16
+00:00:27,141 --> 00:00:30,117
+ analizzare 200 milioni di articoli di
+
+17
+00:00:29,170 --> 00:00:31,932
+ ricerca peer-reviewed e preprint,
+
+18
+00:00:30,986 --> 00:00:34,068
+ trovando il milione, poi le centinaia e
+
+19
+00:00:33,122 --> 00:00:36,204
+ infine i 50 articoli più rilevanti per
+
+20
+00:00:35,258 --> 00:00:38,755
+ la tua domanda. Prende i primi 10 e li
+
+21
+00:00:37,805 --> 00:00:40,400
+ inserisce qui sotto, citando gli
+
+22
+00:00:39,450 --> 00:00:42,294
+ articoli più pertinenti direttamente
+
+23
+00:00:41,344 --> 00:00:44,769
+ nella risposta alla tua domanda. La
+
+24
+00:00:43,814 --> 00:00:46,434
+ nuova funzione che abbiamo aggiunto,
+
+25
+00:00:45,479 --> 00:00:48,234
+ chiamata citazioni del thread, si trova
+
+26
+00:00:47,279 --> 00:00:49,674
+ proprio qui e ti mostra tutti i
+
+27
+00:00:48,719 --> 00:00:52,291
+ documenti citati nella risposta. Questo
+
+28
+00:00:51,340 --> 00:00:54,144
+ diventa davvero utile quando inizio a
+
+29
+00:00:53,192 --> 00:00:56,759
+ porre più domande. Ad esempio, poniamo
+
+30
+00:00:55,832 --> 00:00:59,667
+ una domanda di follow-up su quali altre
+
+31
+00:00:58,739 --> 00:01:03,160
+ proteine siano valide. Ora Consensus
+
+32
+00:01:02,206 --> 00:01:04,917
+ prende questa domanda, la combina con
+
+33
+00:01:03,963 --> 00:01:06,674
+ la mia precedente nella memoria della
+
+34
+00:01:05,720 --> 00:01:08,385
+ ricerca per eseguire un'analisi più
+
+35
+00:01:07,431 --> 00:01:10,142
+ specifica sul thread che mi interessa
+
+36
+00:01:09,189 --> 00:01:12,649
+ davvero. E puoi vedere qui che sta
+
+37
+00:01:11,704 --> 00:01:14,678
+ aggregando tutti i documenti trovati
+
+38
+00:01:13,733 --> 00:01:17,682
+ nel mio elenco principale. Quindi puoi
+
+39
+00:01:16,740 --> 00:01:19,903
+ capire quanto sia utile, specialmente
+
+40
+00:01:18,962 --> 00:01:22,242
+ per thread lunghi in cui hai magari 10,
+
+41
+00:01:21,300 --> 00:01:24,592
+ 20 o 30 query. Ecco un esempio in cui
+
+42
+00:01:23,642 --> 00:01:26,382
+ ho effettuato 10 diverse query e ha
+
+43
+00:01:25,432 --> 00:01:28,222
+ trovato circa 48 documenti altamente
+
+44
+00:01:27,272 --> 00:01:30,364
+ pertinenti. Se apro questa sezione,
+
+45
+00:01:29,412 --> 00:01:32,159
+ puoi vedere che ho tutto sott'occhio.
+
+46
+00:01:31,459 --> 00:01:34,660
+ Posso esportarli su EndNote o Zotero,
+
+47
+00:01:33,720 --> 00:01:36,862
+ oppure ordinarli per citazioni o per
+
+48
+00:01:35,921 --> 00:01:39,805
+ anno. Questo è molto più efficace
+
+49
+00:01:38,857 --> 00:01:41,857
+ rispetto a quello che si faceva prima,
+
+50
+00:01:40,910 --> 00:01:43,857
+ ovvero scorrere il thread cercando di
+
+51
+00:01:42,909 --> 00:01:45,751
+ ritrovare i vari documenti per ogni
+
+52
+00:01:44,804 --> 00:01:48,529
+ query. Come vedi, vengono trovate
+
+53
+00:01:47,581 --> 00:01:50,607
+ centinaia di ricerche, ma questo elenco
+
+54
+00:01:49,659 --> 00:01:52,633
+ mi mostra i 48 articoli più rilevanti
+
+55
+00:01:51,685 --> 00:01:54,659
+ per tutte le domande poste nel thread.
+
+56
+00:01:54,819 --> 00:01:57,814
+ La cosa davvero vantaggiosa è che puoi
+
+57
+00:01:56,865 --> 00:01:59,707
+ esaminarli e salvare i documenti che
+
+58
+00:01:58,758 --> 00:02:01,755
+ vuoi consultare in seguito. Quindi,
+
+59
+00:02:00,794 --> 00:02:03,254
+ diciamo che voglio salvare questo per
+
+60
+00:02:02,293 --> 00:02:04,824
+ tornarci sopra più tardi. Clicco su
+
+61
+00:02:03,869 --> 00:02:06,514
+ salva. Posso aggiungerlo a un elenco o
+
+62
+00:02:05,553 --> 00:02:08,495
+ crearne uno nuovo. Puoi anche
+
+63
+00:02:07,537 --> 00:02:10,079
+ aggiungere interi thread a un elenco.
+
+64
+00:02:09,921 --> 00:02:13,048
+ Quindi, se torno qui e clicco su "salva
+
+65
+00:02:12,102 --> 00:02:15,011
+ thread", si apre lo stesso elenco e
+
+66
+00:02:14,066 --> 00:02:17,215
+ posso procedere al salvataggio. Ora, la
+
+67
+00:02:16,251 --> 00:02:18,596
+ prossima volta che torno su Consensus,
+
+68
+00:02:17,632 --> 00:02:19,942
+ non devo andare a cercare e ritrovare
+
+69
+00:02:18,977 --> 00:02:21,584
+ la discussione. Vado semplicemente su
+
+70
+00:02:20,630 --> 00:02:23,257
+ Research Hub, nelle mie liste. Ora
+
+71
+00:02:22,302 --> 00:02:24,951
+ posso vedere qui l'elenco con tutti i
+
+72
+00:02:23,996 --> 00:02:26,556
+ vari articoli che ho salvato, così
+
+73
+00:02:25,601 --> 00:02:28,250
+ come tutte le diverse discussioni che
+
+74
+00:02:27,295 --> 00:02:30,831
+ vi ho aggiunto. È fantastico se voglio
+
+75
+00:02:29,881 --> 00:02:32,801
+ riprendere questa discussione per porre
+
+76
+00:02:31,851 --> 00:02:34,525
+ altre domande e approfondire, o se
+
+77
+00:02:33,575 --> 00:02:36,348
+ voglio semplicemente creare un nuovo
+
+78
+00:02:35,397 --> 00:02:38,268
+ thread da aggiungere a questo progetto
+
+79
+00:02:37,318 --> 00:02:40,882
+ di ricerca. Quindi, questo è tutto per
+
+80
+00:02:39,913 --> 00:02:42,118
+ questo video. Nel prossimo, vi
+
+81
+00:02:41,162 --> 00:02:43,825
+ mostreremo come usare la funzione "ask
+
+82
+00:02:42,869 --> 00:02:45,226
+ paper", dove potete caricare un
+
+83
+00:02:44,270 --> 00:02:46,978
+ articolo e usare l'IA per interrogarlo.
+
+84
+00:02:46,094 --> 00:02:48,550
+ Assicuratevi di iscrivervi per ricevere
+
+85
+00:02:47,587 --> 00:02:50,006
+ una notifica quando uscirà e lasciate
+
+86
+00:02:49,043 --> 00:02:51,462
+ nei commenti eventuali domande, idee o
+
+87
+00:02:50,499 --> 00:02:52,843
+ funzionalità che vorreste vedere su
+
+88
+00:02:51,880 --> 00:02:54,416
+ Consensus. Li leggiamo ed esaminiamo
+
+89
+00:02:53,459 --> 00:02:56,090
+ davvero tutti quanti. Grazie ancora e
+
+90
+00:02:55,133 --> 00:02:57,410
+ ci vediamo nel prossimo video.
+
